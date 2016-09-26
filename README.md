@@ -1,4 +1,4 @@
-# README #
+# GENERATOR DANYCH OSOBOWYCH
 
 ### WYMAGANE BIBLIOTEKI ###
 
@@ -10,36 +10,24 @@
 
 ### GENEROWANIE DANYCH ###
 
-Odpalac bezpośrednio można poprzez plik START_GENERATOR.bat.
-W pliku PARAMETRY_KONFIGURACYJNE.py zawarte są wszelkie niezbedne zmienne dzięki,
-którym można modyfikować ilość generowanych danych, jak również ścieżki zapisu
-plików wynikowych.
-
-
+Uruchmiać należy poprzez plik generator.py
+W pliku PARAMETRY_KONFIGURACYJNE.py zawarte są wszelkie niezbedne zmienne dzięki, którym można modyfikować ilość generowanych danych, jak również ścieżki zapisu plików wynikowych.
+**__WAŻNE__** : nie modyfikować nazw zmiennych w pliku konfiguracyjnym.
 
 ##### GENERWOANIE - spis plików #####
 
-* generator.py -- główny plik, odpalający sekwencyjnie wszystkie pozostałe pliki, zapis do Excela // można zmodyfikowac na CSV, JSON, SQL
+* generator.py -- główny plik, odpalający sekwencyjnie wszystkie pozostałe pliki, zapis wyników do Excela oraz CSV.
 * PARAMETRY_KONFIGURACYJNE.py -- zawiera parametry konfiguracyjne
 
-**
-* adresy_email.py
-* bilingi.py
-* faktury_vat.py - 
-* klasyfikacja_towarow.py
-* konta_bankowe.py
-* osoby_fizyczne.py
-* partnerzy_handlowi.py
-* pkd.py
-* podmiot_gospodarczy.py
-* podmiot_kontakt.py
-* przelewy_bankowe.py
-* udzialy_w_firmach.py
-* znajomi.py
-* common.py -- kilka powszechnie używanych funkcji
+### ZAKRES GENEROWANYCH DANYCH ###
 
+#### OSOBY FIZYCZNE
+* informacje podstawowe w skład, których wchodzą: imie, nazwisko, pochodzenie, adres, pesel oraz stopień posiadnaych znajomości
+* informacje o kontach bankowych: numer konta oraz nazwa banku
+* adres email
+* informacje o udziałach w firmach
 
-### TRANSFORMACJA PLIKOW XLSX ###
-
-W folderze trojki znajduje się plik konwerterXLSX.py oraz (powinny się znajdować) dwa foldery 'src' oraz 'dest'.
-'src' - dane oryginalnie wygenerowane, 'dest' - dane po konwersji.
+#### PODMOTY GOSPODARCZE
+* informacje podstawowe w skład, których wchodzą: nazwa formy, regon, KRD, NIP, data rejestracji, forma prawna, kapital oraz rodzaj prowadzonej działalności
+* informacje kontaktowe: miejscowość, ulica, kod pocztowy, numer telefonu oraz adres email, jak i kraj rejestracji
+* informacje o kontach bankowych: numer konta oraz nazwa banku
