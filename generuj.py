@@ -1,12 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 08 12:29:02 2016
+Created on Mon Dec 06 12:29:02 2016
 
 @author: Przemysław Bieganski, bieg4n@gmail.com/ przemyslaw.bieganski88@gmail.com
 """
-import pandas
+# moduly wbudowane
 import sys
+import json
 
+# moduly firm trzecich
+import pandas
+
+# moduly wlasne
 from generator import common # funkcje wykorzytywane w roznych  plikach
 from generator import osoby_fizyczne as of
 from generator import podmiot_kontakt as pk
@@ -15,8 +20,28 @@ from generator import konta_bankowe as kb
 from generator import udzialy_w_firmach as uf
 from generator import pkd
 
+# wczytywanie konfiguracji
+#from PARAMETRY_KONFIGURACYJNE import * # ładuje parametry ilosciowe generowanych danych
 
-from PARAMETRY_KONFIGURACYJNE import * # ładuje parametry ilosciowe generowanych danych
+# wczytywanie z JSON
+
+with open('parametry_konfiguracyjne.json') as data_file:    
+    data = json.load(data_file)
+
+jezyk = data['jezyk']
+parametry_ilosciowe = data['parametry_ilosciowe']
+sciezki_zapisu = data['sciezki_zapisu']
+
+# deklaracja sciezek zapisu wygenerowanych danych
+podmiot_sciezka = sciezki_zapisu['podmioty']
+osoby_sciezka = sciezki_zapisu['osoby']
+
+# deklaracja parametrow ilosciowych
+liczba_osob = parametry_ilosciowe['liczba_osob']
+liczba_podmiotow_gospodarczych = parametry_ilosciowe['liczba_podmiotow']
+konta_na_podmiot = parametry_ilosciowe['konta_na_podmiot']
+konta_na_osobe = parametry_ilosciowe['konta_na_osobe']
+ilosc_udzialowcow = parametry_ilosciowe['ilosc_udzialowcow']
 
 # Wstęp
 print "Witam w generatorze danych osobowych/podmiotowych/transakcynych"
@@ -26,7 +51,6 @@ print 'Liczba osob >> {}'.format(liczba_osob)
 print 'Podmioty gospodarcze >> {}'.format(liczba_podmiotow_gospodarczych)
 print 'Konta na podmiot >> {}'.format(konta_na_podmiot)
 print 'Konta na osobe >> {}'.format(konta_na_osobe)
-print 'Adresy email na osobe >> {}'.format(adresy_mail_na_osobe)
 print 'Ilosc udzialowcow na podmiot >> {}'.format(ilosc_udzialowcow)
 
 decyzja = raw_input("wpisz 'y' aby kontynuowac, cokolwiek innego zeby wyjsc..")
@@ -67,11 +91,6 @@ konta_bankowe_podmiotow = kb.generuj_konta_bankowe(konta_na_podmiot[0], konta_na
 konta_bankowe_prywatne = kb.generuj_konta_bankowe(konta_na_osobe[0], konta_na_osobe[1], osoby_fizyczne['id_osoby'].tolist(), 'osoba')
 konta_bankowe_prywatne.columns = ['id_konta', 'id_osoby', 'numer_konta', 'nazwa_banku']
 
-
-# TABELA ADRESY EMAIL
-adresy_email = ae.generuj_adresy_mail(fake_pl, adresy_mail_na_osobe[0], adresy_mail_na_osobe[1], osoby_fizyczne['id_osoby'].tolist())
-
-
 ################ PODMIOT GOSPODARCZY ########################
  # EXCEL
 print '\nZapisywanie do pliku excel..\nPrzy duzych zbiorach moze to potrwac kilka minut..'
@@ -96,14 +115,12 @@ udzialowcy.to_csv('./export/csv/podmiot_gospodarczy_udzialowcy.csv', sep=';', en
 writer = pandas.ExcelWriter(osoby_sciezka)
 osoby_fizyczne.to_excel(writer, 'informacje_podstawowe', index = False)
 konta_bankowe_prywatne.to_excel(writer, 'konta_bankowe', index = False)
-adresy_email.to_excel(writer, 'adresy_email', index = False)
 udzialowcy.to_excel(writer, 'udzialowcy', index = False)
 writer.save()
 
 # CSV
 osoby_fizyczne.to_csv('./export/csv/osoby_fizyczne_informacje_podstawowe.csv', sep=';', encoding='utf-8', index = False)
 konta_bankowe_prywatne.to_csv('./export/csv/osoby_fizyczne_konta_bankowe.csv', sep=';', encoding='utf-8', index = False)
-adresy_email.to_csv('./export/csv/osoby_fizyczne_adresy_email.csv', sep=';', encoding='utf-8', index = False)
 udzialowcy.to_csv('./export/csv/osoby_fizyczne_udzialowcy.csv', sep=';', encoding='utf-8', index = False)
 
 print "Proces zakonczony powodzeniem!!"

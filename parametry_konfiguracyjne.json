@@ -1,0 +1,52 @@
+{
+	"sciezki_zapisu": {
+		"podmioty": "export/xlsx/podmiot_gospodarczy.xlsx",
+		"osoby": "export/xlsx/osoby_fizyczne.xlsx"
+	},
+	"parametry_ilosciowe": {
+		"liczba_osob": 100,
+		"liczba_podmiotow": 50,
+		"konta_na_podmiot": [1, 5],
+		"konta_na_osobe": [1, 2],
+		"adresy_mail_na_osobe": [1, 2],
+		"ilosc_udzialowcow": [1, 5]
+	},
+	"jezyk": {
+		"dostepne_jezyki": {
+			"Bulgarian": "bg_BG",
+			"Czech": "cs_CZ",
+			"German": "de_DE",
+			"Danish": "dk_DK",
+			"Greek": "el_GR",
+			"Australia": "en_AU",
+			"Canada": "en_CA",
+			"English": "en_GB",
+			"USA": "en_US",
+			"Spanish": "es_ES",
+			"Mexico": "es_MX",
+			"Persian": "fa_IR",
+			"Finnish": "fi_FI",
+			"French": "fr_FR",
+			"Hindi": "hi_IN",
+			"Croatian": "hr_HR",
+			"Italian": "it_IT",
+			"Japanese": "ja_JP",
+			"Korean": "ko_KR",
+			"Lithuanian": "lt_LT",
+			"Latvian": "lv_LV",
+			"Nepali": "ne_NP",
+			"Dutch": "nl_NL",
+			"Norwegian": "no_NO",
+			"Polish": "pl_PL",
+			"Brazil": "pt_BR",
+			"Portugal": "pt_PT",
+			"Russian": "ru_RU",
+			"Slovene": "sl_SI",
+			"Swedish": "sv_SE",
+			"Turkish": "tr_TR",
+			"China": "zh_CN",
+			"Taiwan": "zh_TW"
+		},
+		"wybrany_jezyk": "Mexico"
+	}
+}
