@@ -4,18 +4,16 @@ Created on Mon Feb 08 12:29:02 2016
 
 @author: Przemysław Bieganski, bieg4n@gmail.com/ przemyslaw.bieganski88@gmail.com
 """
-import numpy as np
 import pandas
 import sys
 
-import common # funkcje wykorzytywane w roznych  plikach
-import osoby_fizyczne as of
-import podmiot_kontakt as pk
-import podmiot_gospodarczy as pg
-import konta_bankowe as kb
-import adresy_email as ae
-import udzialy_w_firmach as uf
-import pkd
+from generator import common # funkcje wykorzytywane w roznych  plikach
+from generator import osoby_fizyczne as of
+from generator import podmiot_kontakt as pk
+from generator import podmiot_gospodarczy as pg
+from generator import konta_bankowe as kb
+from generator import udzialy_w_firmach as uf
+from generator import pkd
 
 
 from PARAMETRY_KONFIGURACYJNE import * # ładuje parametry ilosciowe generowanych danych
