@@ -5,7 +5,6 @@ Created on Wed Feb 10 17:24:33 2016
 @author: Przemysław Bieganski, bieg4n@gmail.com/ przemyslaw.bieganski88@gmail.com
 """
 import pandas as pd
-import common
 import random
 
 

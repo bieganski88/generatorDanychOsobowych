@@ -20,11 +20,7 @@ from generator import konta_bankowe as kb
 from generator import udzialy_w_firmach as uf
 from generator import pkd
 
-# wczytywanie konfiguracji
-#from PARAMETRY_KONFIGURACYJNE import * # ładuje parametry ilosciowe generowanych danych
-
 # wczytywanie z JSON
-
 with open('parametry_konfiguracyjne.json') as data_file:    
     data = json.load(data_file)
 
@@ -58,7 +54,7 @@ if decyzja != 'y':
 	sys.exit('Zapraszam ponownie po poprawie parametrów konfiguracyjnych!')
 
 # tworze generator
-fake_pl = common.create_generator('PL')
+fake_pl = common.create_generator(jezyk['wybrany_jezyk'])
 
 
 # TABELA  OSOBY_FIZYCZNE

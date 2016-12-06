@@ -31,7 +31,7 @@ def dane_kontaktowe(generator, number, id_podmiotu, NIPy):
     telefony, mail, kod, ulica, miejscowosc, mieszkanie, wynajem, kraje  = [], [], [], [], [], [], [], []
     for num in range(number):
         # kraj pochodzenia
-        kraj = NIPy[num][:2]
+        kraj = 'Polish'
         kraje.append(kraj)
         # kod pocztowy
         kod.append(generator.postcode())

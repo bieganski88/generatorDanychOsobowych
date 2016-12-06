@@ -5,7 +5,23 @@ Created on Mon Feb 08 16:11:56 2016
 @author: Przemysław Bieganski, bieg4n@gmail.com/ przemyslaw.bieganski88@gmail.com
 """
 import random
-import pandas
+from faker import Factory
+
+def losujKraj():
+    '''
+    Zwraca losowy kraj obslugiwany przez generator.
+    '''
+    # TWORZE LISTE WSZYSTKICH WARTOSCI
+    duzo = ['Polish'] * 40
+    srednio = ['Czech', 'German', 'Danish', 'Greek', 'Australia', 'Canada',
+        'English', 'USA', 'Spanish', 'Mexico', 'Finnish', 'French', 'Italian',
+        'Dutch', 'Norwegian', 'Polish','Portugal', 'Russian', 'Slovene', 'Swedish'] * 2
+    malo = ['Turkish', 'China', 'Taiwan', 'Nepali', 'Brazil', 'Japanese',
+        'Korean', 'Hindi', 'Persian', 'Bulgarian', 'Lithuanian', 'Latvian']
+    wszystko = duzo + srednio + malo
+    
+    return random.choice(wszystko)
+
 
 
 def dodaj_miasto(language):
@@ -33,22 +49,26 @@ def dodaj_ulice(language):
 
 
 def create_generator(language):
-    '''Tworzy generator fikcyjnych danych:
-    dostepne jezyki to : bg_BG - Bulgarian, cs_CZ - Czech, de_DE - German, dk_DK - Danish, el_GR - Greek, en_AU - English (Australia),
-    en_CA - English (Canada), en_GB - English (Great Britain), en_US - English (United States), es_ES - Spanish (Spain),
-    es_MX - Spanish (Mexico), fa_IR - Persian (Iran), fi_FI - Finnish, fr_FR - French, hi_IN - Hindi, hr_HR - Croatian,
-    it_IT - Italian, ja_JP - Japanese, ko_KR - Korean, lt_LT - Lithuanian, lv_LV - Latvian, ne_NP - Nepali,
-    nl_NL - Dutch (Netherlands), no_NO - Norwegian, pl_PL - Polish, pt_BR - Portuguese (Brazil), pt_PT - Portuguese (Portugal),
-    ru_RU - Russian, sl_SI - Slovene, sv_SE - Swedish, tr_TR - Turkish, zh_CN - Chinese (China), zh_TW - Chinese (Taiwan)'''
+    '''Tworzy generator fikcyjnych danych.
+    Agrument wejsciowy: jezyk - musi znajdowac sie w zakresie kluczy
+    zdefiniowanych w 'dostepnych jezykach'.
+    Zwraca: obiekt generatora danych w podanych jezyku.
+    '''
     
-    dostepne_jezyki = {'BG' : 'bg_BG', 'CZ' : 'cs_CZ', 'DE' : 'de_DE', 'DK' : 'dk_DK', 'GR' : 'el_GR', 'AU' : 'en_AU',
-                       'CA' : 'en_CA', 'GB' : 'en_GB', 'US' : 'en_US', 'ES' : 'es_ES', 'MX' : 'es_MX', 'IR' : 'fa_IR',
-                       'FI' : 'fi_FI', 'FR' : 'fr_FR', 'IN' : 'hi_IN', 'HR' : 'hr_HR', 'IT' : 'it_IT', 'JP' : 'ja_JP',
-                       'KR' : 'ko_KR', 'LT' : 'lt_LT', 'LV' : 'lv_LV', 'NP' : 'ne_NP', 'NL' : 'nl_NL', 'NO' : 'no_NO',
-                       'PL' : 'pl_PL', 'BR' : 'pt_BR', 'PT' : 'pt_PT', 'RU' : 'ru_RU', 'SI' : 'sl_SI', 'SE' : 'sv_SE',
-                       'TR' : 'tr_TR', 'CN' : 'zh_CN', 'TW' : 'zh_TW'}
+    dostepne_jezyki = {
+			'Bulgarian': 'bg_BG', 'Czech': 'cs_CZ', 'German': 'de_DE',
+			'Danish': 'dk_DK', 'Greek': 'el_GR', 'Australia': 'en_AU',
+			'Canada': 'en_CA', 'English': 'en_GB', 'USA': 'en_US',
+			'Spanish': 'es_ES', 'Mexico': 'es_MX', 'Persian': 'fa_IR',
+			'Finnish': 'fi_FI', 'French': 'fr_FR', 'Hindi': 'hi_IN',
+               'Italian': 'it_IT', 'Japanese': 'ja_JP',
+			'Korean': 'ko_KR', 'Lithuanian': 'lt_LT', 'Latvian': 'lv_LV',
+			'Nepali': 'ne_NP', 'Dutch': 'nl_NL', 'Norwegian': 'no_NO',
+			'Polish': 'pl_PL', 'Brazil': 'pt_BR', 'Portugal': 'pt_PT',
+			'Russian': 'ru_RU', 'Slovene': 'sl_SI', 'Swedish': 'sv_SE',
+			'Turkish': 'tr_TR', 'China': 'zh_CN', 'Taiwan': 'zh_TW'
+		}
     
-    from faker import Factory
     fake = Factory.create(dostepne_jezyki[language])
     
     return fake

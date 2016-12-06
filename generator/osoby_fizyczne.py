@@ -23,16 +23,10 @@ def pochodzenie(number = 1):
     '''Parametr startowy: number - ilosc kodow do wylosowania.
     Zwraca liste kodow kraju wybrany losowo (z wagami).
     '''
-    # TWORZE LISTE WSZYSTKICH WARTOSCI
-    duzo = ['PL'] * 40
-    srednio = ['GB', 'ES', 'FR', 'IT', 'NL'] * 2
-    malo = ['CZ', 'DE', 'DK', 'GR']
-    wszystko = duzo + srednio + malo
-    
     # LOSUJE KODY
     kody = []
     for n in range(number):
-        kody.append(random.choice(wszystko))
+        kody.append(common.losujKraj())
     
     # zwraca liste
     return kody

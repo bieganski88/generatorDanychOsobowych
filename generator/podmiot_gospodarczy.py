@@ -60,7 +60,6 @@ def generuj_nip(number):
     wagi 6, 5, 7, 2, 3, 4, 5, 6, 7 nastepnie z sumy mod 11. nip nie moze miec
     cyfry kontrolnej 10.
     '''
-    kraje = ['PL'] * 40 + ['GB', 'ES', 'FR', 'IT', 'NL'] * 2 + ['CZ', 'DE', 'DK', 'GR']
     nipy = set()
     while len(nipy) != number:
         n = str(common.rwNd(9))
@@ -69,7 +68,7 @@ def generuj_nip(number):
         if kontrolna == 10:
             continue
         else:
-            kraj = random.choice(kraje)
+            kraj = common.losujKraj()
             n = (kraj + '-' + n + str(kontrolna))
             nipy.add(n)
             
@@ -171,7 +170,7 @@ def dane_podmiotu(generator, number):
     
     # usuniecie niepotrzebnych danych dla podmiotow zagranicznych
     for counter, nip in enumerate(nipy):
-        if nip[:2] != 'PL':
+        if 'Polish' not in nip:
             regony[counter] = 'brak danych'
             KRSy[counter] = 'brak danych'
             formy[counter] = 'brak danych'
