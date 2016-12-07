@@ -4,8 +4,62 @@ Created on Mon Feb 08 16:11:56 2016
 
 @author: Przemysław Bieganski, bieg4n@gmail.com/ przemyslaw.bieganski88@gmail.com
 """
+# wbudowane moduly
 import random
+import os
+
+# moduly zewnetrzne
+import json
 from faker import Factory
+
+def sprawdz_konfiguracje(path):
+    '''
+    Wczytuje oraz sprawdza poprawnosc pliku konfiguracyjnego.
+    Wejsciowe:
+    path - sciezka do pliku JSON z parametrami konfiguracyjnymi.
+    Wyjscie powodzenie:
+    True - wczytywanie zakonczylo sie pomyslnie
+    data - zawartosc wczytanego pliku JSON
+    Wyjscie niepowodzenie:
+    False - wczytywanie zakonczylo sie niepowodzeniem.
+    data - komunikat o bledzie.
+    '''
+    # wczytywanie danych
+    try:
+        with open(path) as data_file:    
+            data = json.load(data_file)
+    except:
+        return False, "Nieprawidlowa sciezka do pliku konfiguracyjnego"
+
+    # czy istnieja zadeklarowane sciezki
+    if os.path.isdir(data['sciezki_zapisu']['xlsx']) is False:
+        return False, "Folder zapisu xlsx nie istnieje."
+
+    if os.path.isdir(data['sciezki_zapisu']['csv']) is False:
+        return False, "Folder zapisu csv nie istnieje."
+    
+    # czy wybrany jezyk glowny jest prawidlowy
+    if data['jezyk']['wybrany_jezyk'] not in data['jezyk']['dostepne_jezyki'].keys():
+        return False, "Wybrany jezyk poza zbiorem dostepnych jezykow."
+
+    parametry = data['parametry_ilosciowe']
+    
+    # ilosc osob oraz podmiotow
+    if (parametry['liczba_osob'] <= 0 or parametry['liczba_podmiotow'] <=0 or 
+        parametry['konta_podmiot'][0] <= 0 or parametry['konta_podmiot'][1] <= 0
+        or parametry['konta_osoba'][0] <= 0 or parametry['konta_osoba'][1] <= 0
+        or parametry['ilosc_udzialowcow'][0] <= 0 or parametry['ilosc_udzialowcow'][1] <= 0):
+        return False, "Parametry ilosciowe musza nalezec do liczb dodatnich calkowitych."
+
+    # czy pierwszy parametr mniejszy od drugiego
+    do_sprawdzenia = ['konta_podmiot', 'konta_osoba', 'ilosc_udzialowcow']
+    for element in do_sprawdzenia:
+        if parametry[element][0] > parametry[element][1]:
+            return False, "Blad - {} - pierwszy parametr wiekszy od drugiego.".format(element)
+
+    return True, data
+
+
 
 def losujKraj():
     '''

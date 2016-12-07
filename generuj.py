@@ -6,7 +6,6 @@ Created on Mon Dec 06 12:29:02 2016
 """
 # moduly wbudowane
 import sys
-import json
 
 # moduly firm trzecich
 import pandas
@@ -20,23 +19,27 @@ from generator import konta_bankowe as kb
 from generator import udzialy_w_firmach as uf
 from generator import pkd
 
-# wczytywanie z JSON
-with open('parametry_konfiguracyjne.json') as data_file:    
-    data = json.load(data_file)
+###########################################################################
+# wczytywanie konfiguracji
+sukces, data = common.sprawdz_konfiguracje('parametry_konfiguracyjne.json')
+
+if not sukces:
+    print data
+    sys.exit('Prosze poprawic konfiguracje i sprobowac ponownie!')
 
 jezyk = data['jezyk']
 parametry_ilosciowe = data['parametry_ilosciowe']
 sciezki_zapisu = data['sciezki_zapisu']
 
 # deklaracja sciezek zapisu wygenerowanych danych
-podmiot_sciezka = sciezki_zapisu['podmioty']
-osoby_sciezka = sciezki_zapisu['osoby']
+xlsx_sciezka = sciezki_zapisu['xlsx']
+csv_sciezka = sciezki_zapisu['csv']
 
 # deklaracja parametrow ilosciowych
 liczba_osob = parametry_ilosciowe['liczba_osob']
 liczba_podmiotow_gospodarczych = parametry_ilosciowe['liczba_podmiotow']
-konta_na_podmiot = parametry_ilosciowe['konta_na_podmiot']
-konta_na_osobe = parametry_ilosciowe['konta_na_osobe']
+konta_na_podmiot = parametry_ilosciowe['konta_podmiot']
+konta_na_osobe = parametry_ilosciowe['konta_osoba']
 ilosc_udzialowcow = parametry_ilosciowe['ilosc_udzialowcow']
 
 # Wstęp
@@ -91,7 +94,7 @@ konta_bankowe_prywatne.columns = ['id_konta', 'id_osoby', 'numer_konta', 'nazwa_
  # EXCEL
 print '\nZapisywanie do pliku excel..\nPrzy duzych zbiorach moze to potrwac kilka minut..'
 
-writer = pandas.ExcelWriter(podmiot_sciezka)
+writer = pandas.ExcelWriter('{}/podmioty.xlsx'.format(xlsx_sciezka))
 podmiot_gospodarczy.to_excel(writer, 'informacje_podstawowe', index = False)
 podmiot_kontakt.to_excel(writer, 'podmiot_kontakt', index = False)
 konta_bankowe_podmiotow.to_excel(writer, 'konta_bankowe', index = False)
@@ -100,24 +103,23 @@ udzialowcy.to_excel(writer, 'udzialowcy', index = False)
 writer.save()
 
 # CSV
-podmiot_gospodarczy.to_csv('./export/csv/podmiot_gospodarczy_informacje_podstawowe.csv', sep=';', encoding='utf-8', index = False)
-podmiot_kontakt.to_csv('./export/csv/podmiot_gospodarczy_podmiot_kontakt.csv', sep=';', encoding='utf-8', index = False)
-konta_bankowe_podmiotow.to_csv('./export/csv/podmiot_gospodarczy_konta_bankowe.csv', sep=';', encoding='utf-8', index = False)
-udzialowcy.to_csv('./export/csv/podmiot_gospodarczy_udzialowcy.csv', sep=';', encoding='utf-8', index = False)
+podmiot_gospodarczy.to_csv('{}podmioty_informacje_podstawowe.csv'.format(csv_sciezka), sep=';', encoding='utf-8', index = False)
+podmiot_kontakt.to_csv('{}podmioty_kontakty.csv'.format(csv_sciezka), sep=';', encoding='utf-8', index = False)
+konta_bankowe_podmiotow.to_csv('{}podmioty_konta_bankowe.csv'.format(csv_sciezka), sep=';', encoding='utf-8', index = False)
+udzialowcy.to_csv('{}podmioty_udzialowcy.csv'.format(csv_sciezka), sep=';', encoding='utf-8', index = False)
 
 
 ############# OSOBY FIZYCZNE ####################
 # EXCEL
-writer = pandas.ExcelWriter(osoby_sciezka)
+writer = pandas.ExcelWriter('{}/osoby_fizyczne.xlsx'.format(xlsx_sciezka))
 osoby_fizyczne.to_excel(writer, 'informacje_podstawowe', index = False)
 konta_bankowe_prywatne.to_excel(writer, 'konta_bankowe', index = False)
-udzialowcy.to_excel(writer, 'udzialowcy', index = False)
 writer.save()
 
 # CSV
-osoby_fizyczne.to_csv('./export/csv/osoby_fizyczne_informacje_podstawowe.csv', sep=';', encoding='utf-8', index = False)
-konta_bankowe_prywatne.to_csv('./export/csv/osoby_fizyczne_konta_bankowe.csv', sep=';', encoding='utf-8', index = False)
-udzialowcy.to_csv('./export/csv/osoby_fizyczne_udzialowcy.csv', sep=';', encoding='utf-8', index = False)
+osoby_fizyczne.to_csv('{}osoby_fizyczne_informacje_podstawowe.csv'.format(csv_sciezka), sep=';', encoding='utf-8', index = False)
+konta_bankowe_prywatne.to_csv('{}osoby_fizyczne_konta_bankowe.csv'.format(csv_sciezka), sep=';', encoding='utf-8', index = False)
+udzialowcy.to_csv('{}osoby_fizyczne_udzialowcy.csv'.format(csv_sciezka), sep=';', encoding='utf-8', index = False)
 
 print "Proces zakonczony powodzeniem!!"
 print ""

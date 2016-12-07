@@ -1,14 +1,13 @@
 {
 	"sciezki_zapisu": {
-		"podmioty": "export/xlsx/podmiot_gospodarczy.xlsx",
-		"osoby": "export/xlsx/osoby_fizyczne.xlsx"
+		"xlsx": "./export/xlsx/",
+		"csv": "./export/csv/"
 	},
 	"parametry_ilosciowe": {
-		"liczba_osob": 100,
-		"liczba_podmiotow": 50,
-		"konta_na_podmiot": [1, 5],
-		"konta_na_osobe": [1, 2],
-		"adresy_mail_na_osobe": [1, 2],
+		"liczba_osob": 25,
+		"liczba_podmiotow": 10,
+		"konta_podmiot": [1, 5],
+		"konta_osoba": [1, 2],
 		"ilosc_udzialowcow": [1, 5]
 	},
 	"jezyk": {
@@ -47,6 +46,6 @@
 			"China": "zh_CN",
 			"Taiwan": "zh_TW"
 		},
-		"wybrany_jezyk": "Mexico"
+		"wybrany_jezyk": "German"
 	}
 }
