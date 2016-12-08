@@ -1,0 +1,501 @@
+id_osoby;imie;nazwisko;pochodzenie;miasto;adres;kod_pocztowy;numer_telefonu;pesel;zawod
+OSOBA_1;Marek;Stochel;Norwegian;Przemyśl;77 Rajska;57-757;+48 710 919 315;65225740275;Księgowy
+OSOBA_2;Stefan;Krzyszczak;English;Sopot;59 Rynek;52-524;+48 38 599 25 65;12533729286;Bibliotekarz dyplomowany
+OSOBA_3;Dominik;Neubauer;Portugal;Ostrowiec Świętokrzyski;94 Zachodnia;93-217;+48 82 140 50 72;75340664824;Kurator sztuki
+OSOBA_4;Dawid;Matraszek;English;Białogard;49 Zielna;92-271;+48 884 389 471;25797543942;Instruktor
+OSOBA_5;Dorota;Pik;Polish;Ełk;19 Torowa;56-489;+48 842 376 395;60239906815;Technik kelner
+OSOBA_6;Angelika;Bytner;Finnish;Kraków;06 Cyprysowa;64-081;+48 49 529 21 28;63280771073;Koniarze
+OSOBA_7;Julianna;Gołoś;Polish;Dąbrowa Górnicza;76 Szpitalna;61-588;+48 828 889 377;24785129489;Makler papierów wartościowych
+OSOBA_8;Oskar;Ulfik;Persian;Środa Wielkopolska;57 Nadrzeczna;20-836;+48 20 141 89 89;92809291780;Służący
+OSOBA_9;Gaja;Paszkowiak;Polish;Łaziska Górne;30 Widokowa;26-719;+48 618 741 485;47934427812;Makler nadzorujący
+OSOBA_10;Apolonia;Putek;Polish;Zawiercie;66 Sadowa;75-820;+48 774 893 859;99071848455;Pucybut
+OSOBA_11;Ksawery;Skrobek;Spanish;Reda;92 Mlynska;77-072;+48 738 572 141;43402801182;Technik awionik
+OSOBA_12;Kornel;Dworniczak;Korean;Gliwice;76 Jarzebinowa;82-083;+48 877 850 467;91097499293;Rzeczoznawca
+OSOBA_13;Liwia;Chachuła;Australia;Nysa;47 Bukowa;02-820;+48 775 075 312;13179160627;Biegły rewident
+OSOBA_14;Rozalia;Cuch;Mexico;Zabrze;20 Kowalska;08-749;+48 78 057 12 94;68071274490;Szatniarz
+OSOBA_15;Aleks;Drop;Hindi;Słupsk;87 Wladyslawa Lokietka;95-531;+48 873 615 617;67120234541;Mim
+OSOBA_16;Mateusz;Fiołka;Spanish;Świętochłowice;62 Cicha;43-470;+48 65 132 92 77;65056864302;Sprzedawca
+OSOBA_17;Wojciech;Wąsek;Polish;Puławy;59 Ksiezycowa;19-543;+48 42 150 41 24;31204313774;Pośrednik ubezpieczeniowy
+OSOBA_18;Lidia;Kośka;Polish;Oświęcim;25 Plazowa;62-257;+48 822 779 892;15335764036;Palacz
+OSOBA_19;Bianka;Wawrzynkiewicz;Polish;Piła;76 Lazurowa;98-321;+48 891 900 150;36945020995;Wydawca
+OSOBA_20;Fabian;Pilipczuk;Nepali;Ostrów Wielkopolski;08 Krótka;31-348;+48 605 421 604;69943984193;Plastyk
+OSOBA_21;Marcel;Sarniak;Polish;Jastrzębie-Zdrój;27 Czestochowska;07-729;+48 525 971 712;25020756053;Agent firmy inwestycyjnej
+OSOBA_22;Stefan;Wydrych;Polish;Ostrowiec Świętokrzyski;77 Sarnia;70-760;+48 576 030 338;16243740762;Dziennikarz
+OSOBA_23;Emil;Wojciech;Polish;Skawina;49 Malinowa;55-487;+48 79 782 91 85;34428454999;Certyfikator energetyczny
+OSOBA_24;Julita;Nóżka;Polish;Skierniewice;52 Zapolskiej;59-982;+48 811 336 977;56638083159;Modelka dużych rozmiarów
+OSOBA_25;Kornelia;Gołas;Polish;Bytom;12 Zeglarska;55-753;+48 740 012 125;96966406224;Dyrektor artystyczny
+OSOBA_26;Angelika;Sus;USA;Dębica;35 Rolna;28-835;+48 534 701 622;31210643555;Fasowacz
+OSOBA_27;Kaja;Siebert;Italian;Legnica;38 Letnia;05-119;+48 563 179 627;79096924260;Kasjer biletowy
+OSOBA_28;Aleks;Gumienny;Polish;Radom;57 Dabrowskiej;41-248;+48 32 026 50 60;13660233844;Technik żywienia i gospodarstwa domowego
+OSOBA_29;Sandra;Lewko;Slovene;Płońsk;32 Szewska;40-744;+48 599 108 527;58028525675;Technik awionik
+OSOBA_30;Marcin;Pasieczna;English;Lębork;48 Miarki;52-858;+48 786 202 220;56752328815;Terapeuta
+OSOBA_31;Iwo;Ładniak;Czech;Lublin;68 Waska;61-763;+48 90 774 33 25;56455993456;Konsjerż
+OSOBA_32;Marianna;Nytko;Polish;Szczytno;34 Ptasia;09-774;+48 647 650 324;98023014507;Rachmistrz
+OSOBA_33;Melania;Filak;English;Nowy Targ;48 Rzeczna;94-139;+48 660 806 018;25532975232;Bankowiec
+OSOBA_34;Igor;Jałowiec;Polish;Legionowo;27 Liliowa;05-581;+48 665 489 727;38972709560;Syndyk
+OSOBA_35;Jakub;Szarzec;Italian;Augustów;07 Szymanowskiego;51-829;+48 18 350 07 29;55194996860;Broker
+OSOBA_36;Mieszko;Buszka;Spanish;Giżycko;44 Jesionowa;50-929;+48 695 201 255;37833474177;Konsultant
+OSOBA_37;Tomasz;Roj;Canada;Rybnik;41 Perlowa;09-739;+48 77 366 53 70;42257272375;Mim
+OSOBA_38;Lidia;Kucz;Australia;Gorlice;30 Szpitalna;29-554;+48 844 576 615;27710759049;Ratownik
+OSOBA_39;Ryszard;Gzyl;Polish;Wodzisław Śląski;82 Jarzebinowa;61-622;+48 558 407 033;40011122825;Listonosz
+OSOBA_40;Kaja;Staśko;Polish;Łuków;42 Malinowa;95-646;+48 758 576 643;14025691282;Archiwista
+OSOBA_41;Blanka;Cegła;Taiwan;Pruszcz Gdański;72 Zytnia;49-426;+48 860 237 387;22076147858;Syndyk
+OSOBA_42;Błażej;Zięcik;Taiwan;Łuków;73 Brzechwy;28-140;+48 780 965 191;82669443210;Redaktor naukowy
+OSOBA_43;Ernest;Jędruch;Norwegian;Tarnów;17 Rolnicza;88-428;+48 91 625 82 92;54758744210;Barista
+OSOBA_44;Marika;Raba;Polish;Ostrów Wielkopolski;98 Zacisze;88-619;+48 775 563 676;72005103760;Dziennikarz
+OSOBA_45;Marcel;Lepa;Polish;Legionowo;58 Staffa;04-803;+48 560 516 001;75380170898;Strażak
+OSOBA_46;Iwo;Kuba;Polish;Łaziska Górne;83 Jeziorna;14-198;+48 690 244 247;84891416727;Kupiec
+OSOBA_47;Grzegorz;Wyłupek;Polish;Świdnica;66 Czeresniowa;58-082;+48 670 745 120;95951487125;Tłumacz literacki
+OSOBA_48;Konstanty;Dziedzina;Polish;Legionowo;71 Batalionów Chlopskich;18-955;+48 801 060 986;60412061858;Stajenny
+OSOBA_49;Krystyna;Jambor;Latvian;Łomża;65 Miodowa;18-172;+48 693 284 810;16643307547;Drwal
+OSOBA_50;Cyprian;Wasyluk;German;Wejherowo;41 Rybacka;90-280;+48 71 464 57 18;70110251175;Model
+OSOBA_51;Anita;Obarzanek;Polish;Sosnowiec;19 Czestochowska;38-720;+48 866 604 905;27668033718;Pracownik socjalny
+OSOBA_52;Anastazja;Łuc;Polish;Sandomierz;39 Fiolkowa;50-254;+48 885 430 817;75917127854;Kosmonauta
+OSOBA_53;Leonard;Ufnal;USA;Płońsk;00 Bema;30-198;+48 529 026 662;73715431600;Główny księgowy
+OSOBA_54;Aniela;Kott;Polish;Nowy Dwór Mazowiecki;98 Piwna;20-033;+48 868 272 553;34240577757;Technik mechanik okrętowy
+OSOBA_55;Krystyna;Czubaj;Swedish;Inowrocław;89 Slaska;83-026;+48 637 165 075;22983684291;Drwal
+OSOBA_56;Cyprian;Kałwa;Polish;Jawor;12 Paderewskiego;12-942;+48 778 620 330;63638487229;Doradca finansowy
+OSOBA_57;Jakub;Wołoszyk;Portugal;Piastów;54 Sloneczna;22-184;+48 503 947 295;27999998153;Broker ubezpieczeniowy
+OSOBA_58;Andrzej;Szymańczyk;Polish;Kołobrzeg;80 Górnicza;31-854;+48 782 183 452;17961386188;Mim
+OSOBA_59;Aleks;Kłosiewicz;Swedish;Opole;65 Strzelecka;56-552;+48 734 072 913;86593812679;Ratownik przedmedyczny
+OSOBA_60;Gustaw;Plak;Polish;Jawor;06 Brzechwy;67-710;+48 557 600 033;97849041097;Naukowiec
+OSOBA_61;Emil;Pacholak;Latvian;Tarnów;68 Szewska;95-880;+48 690 978 313;90715617487;Nauczyciel akademicki
+OSOBA_62;Julita;Klimko;Polish;Czechowice-Dziedzice;61 Polna;16-580;+48 08 885 57 60;61655039683;Grabarz
+OSOBA_63;Kazimierz;Wizner;Polish;Żywiec;08 Skrajna;78-475;+48 560 224 564;29000663268;Bibliotekarz dyplomowany
+OSOBA_64;Klara;Geisler;Polish;Sanok;34 Rubinowa;89-235;+48 890 695 226;16498761997;Scenograf
+OSOBA_65;Antoni;Zięcik;Canada;Kutno;03 Glówna;08-004;+48 632 695 571;26351956205;Poganiacz
+OSOBA_66;Eryk;Kulisz;English;Sosnowiec;14 Fiolkowa;96-723;+48 25 302 89 27;61417994473;Ebenista
+OSOBA_67;Anna;Maria;Norwegian;Ruda Śląska;34 Kalinowa;69-016;+48 716 510 879;51671963890;Hostessa
+OSOBA_68;Antoni;Jędruszczak;Polish;Cieszyn;26 Olchowa;27-739;+48 88 964 47 86;21447186687;Dziennikarz
+OSOBA_69;Rafał;Narożna;Polish;Wołomin;69 Staszica;91-608;+48 892 903 776;58172190968;Technik mechanik lotniczy
+OSOBA_70;Krzysztof;Goska;Czech;Ostrów Wielkopolski;88 Lubelska;91-552;+48 16 517 71 46;98808074480;Sprzątacz
+OSOBA_71;Marianna;Litwinowicz;Slovene;Białystok;44 Rolnicza;28-550;+48 876 098 519;87108655354;Makler papierów wartościowych
+OSOBA_72;Sandra;Karalus;Portugal;Będzin;33 Krucza;26-961;+48 699 118 315;20982364428;Strażak
+OSOBA_73;Maksymilian;Buszkiewicz;Polish;Ostrów Mazowiecka;71 Brzozowa;23-380;+48 762 613 323;95282006276;Iluzjonista
+OSOBA_74;Ewa;Tywoniuk;Lithuanian;Szczecinek;02 Perlowa;36-687;+48 660 166 080;13693210904;Pisarz
+OSOBA_75;Rafał;Patoła;Australia;Piła;68 Handlowa;36-824;+48 701 009 838;15762731290;Plastyk
+OSOBA_76;Patryk;Choina;Polish;Środa Wielkopolska;05 Piwna;09-465;+48 32 686 26 12;39636164888;Babcia klozetowa
+OSOBA_77;Natan;Gorgol;Polish;Gorlice;21 Zwirowa;14-133;+48 736 850 521;81313009939;Model
+OSOBA_78;Adrianna;Nieborak;Danish;Konin;05 Teczowa;10-592;+48 84 661 30 25;52221022492;Rzeczoznawca
+OSOBA_79;Ernest;Supeł;Russian;Brodnica;31 Robotnicza;48-863;+48 542 815 320;50867765535;Geolog
+OSOBA_80;Fryderyk;Korzonek;Polish;Czechowice-Dziedzice;77 Andersa;77-336;+48 895 551 824;76033294626;Rzeczoznawca samochodowy
+OSOBA_81;Olgierd;Miętus;Polish;Jarosław;08 Swierkowa;63-388;+48 820 540 240;21605570871;Redaktor techniczny
+OSOBA_82;Kamila;Grzywnowicz;German;Otwock;20 Cisowa;11-752;+48 36 953 03 84;97273157944;Lekarz weterynarii
+OSOBA_83;Ewa;Gadzała;Russian;Sosnowiec;01 Zeglarska;72-059;+48 672 032 032;52373272908;Portier
+OSOBA_84;Rafał;Felisiak;Polish;Katowice;05 Wislana;87-447;+48 656 239 784;20406485728;Barista
+OSOBA_85;Paweł;Bodych;Persian;Skierniewice;48 Szymanowskiego;56-296;+48 773 463 456;40093987153;Hostessa
+OSOBA_86;Oskar;Wojtiuk;Finnish;Tarnobrzeg;57 Zaulek;80-678;+48 754 804 828;20077257048;Technik handlowiec
+OSOBA_87;Miłosz;Masny;Polish;Wągrowiec;83 Sciegiennego;86-375;+48 557 595 889;79585532236;Technik budownictwa
+OSOBA_88;Julita;Frycz;Latvian;Krosno;76 Rajska;04-848;+48 611 004 431;66154801489;Podleśniczy
+OSOBA_89;Filip;Fras;Polish;Chorzów;88 Partyzantów;72-292;+48 836 517 118;85361731933;Ekonomista
+OSOBA_90;Miłosz;Sąsiadek;Spanish;Legionowo;50 Grzybowa;33-473;+48 819 395 919;66106997099;Ekonomista
+OSOBA_91;Olgierd;Bas;Polish;Wołomin;04 Kazimierza Wielkiego;70-359;+48 573 415 201;45232636273;Modelka dużych rozmiarów
+OSOBA_92;Klara;Bubel;Polish;Koło;21 Broniewskiego;02-672;+48 568 642 138;33408952703;Architekt wnętrz
+OSOBA_93;Norbert;Bazylewicz;Polish;Bochnia;08 Spóldzielcza;67-333;+48 747 453 789;93732422698;Niania
+OSOBA_94;Ada;Kokosza;Greek;Tomaszów Mazowiecki;03 Leszczynowa;25-447;+48 753 369 151;69839614334;Zarządca nieruchomości
+OSOBA_95;Patryk;Kaczan;Portugal;Jelenia Góra;65 Rybacka;81-783;+48 89 494 65 01;41853637005;Rybak
+OSOBA_96;Łukasz;Sędek;Slovene;Kielce;45 Stroma;74-249;+48 61 718 43 77;54075382163;Rzeczoznawca
+OSOBA_97;Adrian;Jachna;Dutch;Bolesławiec;49 Przemyslowa;55-439;+48 20 562 96 32;43323490715;Tłumacz literacki
+OSOBA_98;Cezary;Kołodziejak;Polish;Myszków;41 Drzymaly;52-615;+48 687 534 753;67578726810;Trener personalny
+OSOBA_99;Arkadiusz;Słowiak;Spanish;Sanok;16 Lazurowa;76-658;+48 731 223 007;86723828119;Kurier rowerowy
+OSOBA_100;Wojciech;Polewka;Polish;Chełm;58 Narutowicza;18-150;+48 60 624 15 86;32713882021;Portier
+OSOBA_101;Kamila;Fojt;Polish;Zakopane;90 Laczna;78-210;+48 848 154 634;85299303478;Inżynier budownictwa
+OSOBA_102;Konrad;Starostka;Polish;Zduńska Wola;93 Nowowiejska;07-003;+48 757 212 909;30314647985;Salowa
+OSOBA_103;Kajetan;Kalarus;Russian;Siemianowice Śląskie;11 Sikorskiego;42-042;+48 750 760 189;97844683172;Finansista
+OSOBA_104;Adrianna;Siedlarz;Polish;Słupsk;07 Górska;91-005;+48 560 500 927;20311464383;Liczmen
+OSOBA_105;Ida;Szałas;Polish;Czeladź;55 Walowa;50-982;+48 66 496 52 44;15201290694;Bankowiec
+OSOBA_106;Karina;Bodzak;Portugal;Zduńska Wola;33 Wojciecha;66-210;+48 688 645 800;99789187511;Przewodnik turystyczny
+OSOBA_107;Adam;Mizak;Slovene;Jawor;81 Poludniowa;05-238;+48 10 246 41 56;85274354113;Astronom
+OSOBA_108;Marika;Wojtoń;French;Sandomierz;47 Witosa;90-423;+48 725 319 646;44741350468;Stajenny
+OSOBA_109;Ewa;Pajek;Greek;Ostrołęka;04 Kazimierza Wielkiego;63-613;+48 735 062 593;17382429138;Teksturator
+OSOBA_110;Ewa;Frydrychowicz;Polish;Włocławek;14 Wysoka;50-153;+48 809 284 283;71096869328;Zoopsycholog
+OSOBA_111;Rafał;Dybał;Polish;Kluczbork;19 Kilinskiego;75-000;+48 718 343 304;74759547344;Technik awionik
+OSOBA_112;Antoni;Migała;Turkish;Ząbki;17 Waska;15-087;+48 577 301 216;80838320593;Hydraulik
+OSOBA_113;Krystyna;Utrata;Czech;Kwidzyn;87 Nowowiejska;75-707;+48 01 099 78 04;57378279902;Rzecznik prasowy
+OSOBA_114;Eryk;Opoka;Canada;Tarnów;80 Dzialkowa;03-927;+48 602 074 526;81315045853;Szatniarz
+OSOBA_115;Anita;Gnyp;Slovene;Tarnowskie Góry;07 Milosza;95-104;+48 04 718 27 25;73909854690;Likwidator szkód
+OSOBA_116;Dominik;Dydak;Polish;Tychy;17 Towarowa;75-464;+48 634 364 642;99879455198;Technik nawigator morski
+OSOBA_117;Franciszek;Kupaj;Taiwan;Ostrowiec Świętokrzyski;79 Widok;38-324;+48 752 564 390;63480889834;Robotnik
+OSOBA_118;Oliwier;Księżyk;Italian;Grudziądz;63 Slowicza;75-267;+48 720 148 918;82699198953;Bankowiec
+OSOBA_119;Mikołaj;Windak;Polish;Goleniów;89 Lipowa;79-162;+48 838 748 214;42032947701;Nadleśniczy
+OSOBA_120;Krzysztof;Kiedrowicz;Polish;Ostrów Wielkopolski;08 Storczykowa;67-415;+48 614 559 867;71422798319;Klechdarz
+OSOBA_121;Alan;Kruszka;Canada;Jawor;82 Krótka;51-734;+48 26 802 56 39;27800134139;Elektromonter pomiarów
+OSOBA_122;Dawid;Linda;Polish;Knurów;13 Szkolna;63-351;+48 15 393 74 55;98010405356;Koniarze
+OSOBA_123;Bartek;Musiała;USA;Bielsk Podlaski;76 Skrajna;27-918;+48 734 467 356;56383248889;Syndyk
+OSOBA_124;Gaja;Sorbian;Polish;Łomża;69 Sloneczna;69-051;+48 731 950 426;71233135101;Lekarz weterynarii
+OSOBA_125;Janina;Wocial;Polish;Jawor;62 Teczowa;69-342;+48 601 800 700;89577251322;Biegły rewident
+OSOBA_126;Przemysław;Dulik;Danish;Skarżysko-Kamienna;68 Maczka;37-176;+48 54 575 69 22;37315176969;Konserwator zabytków
+OSOBA_127;Przemysław;Fal;Norwegian;Leszno;46 Boleslawa Chrobrego;77-916;+48 826 576 509;80276040197;Rzeczoznawca
+OSOBA_128;Marianna;Sojda;Polish;Sosnowiec;43 Narutowicza;99-588;+48 848 378 266;99139000835;Pośrednik ubezpieczeniowy
+OSOBA_129;Angelika;Gryszkiewicz;Polish;Inowrocław;36 Bydgoska;07-311;+48 699 764 798;12207045146;Reporter wojenny
+OSOBA_130;Jeremi;Hamera;Australia;Olkusz;38 Kollataja;84-651;+48 864 035 785;77266327625;Hycel
+OSOBA_131;Kaja;Kiciak;Portugal;Ostrów Mazowiecka;72 Cmentarna;65-060;+48 866 118 493;15041903133;Politolog
+OSOBA_132;Liwia;Mateńko;Australia;Nowa Sól;56 Jana;46-260;+48 521 890 717;58433301017;Detektyw
+OSOBA_133;Cyprian;Juśkiewicz;Polish;Polkowice;38 Kilinskiego;65-281;+48 802 058 862;91893154322;Nadleśniczy
+OSOBA_134;Ignacy;Niklewicz;Lithuanian;Żyrardów;46 Srebrna;25-924;+48 615 143 994;21488069719;Aktor
+OSOBA_135;Aleks;Bronka;Greek;Chojnice;68 Cisowa;99-185;+48 780 911 012;94077606421;Technik nawigator morski
+OSOBA_136;Inga;Bak;Lithuanian;Kalisz;35 Zbozowa;93-667;+48 682 785 591;82919193113;Naukowiec
+OSOBA_137;Roksana;Majewicz;Swedish;Szczytno;12 Zakatek;40-424;+48 585 752 060;56774259232;Służący
+OSOBA_138;Norbert;Przewoźnik;Czech;Łomża;60 Szeroka;30-836;+48 27 537 08 06;70748598815;Kurier rowerowy
+OSOBA_139;Blanka;Tylman;Polish;Krosno;61 Cmentarna;48-181;+48 624 967 706;50778018341;Kosmonauta
+OSOBA_140;Liwia;Gerlach;Polish;Wodzisław Śląski;89 Popieluszki;95-057;+48 64 264 65 56;96589107747;Poganiacz
+OSOBA_141;Patryk;Cacko;USA;Wałcz;98 Ludowa;92-688;+48 888 426 618;83638661674;Grabarz
+OSOBA_142;Leonard;Kryszczuk;English;Ruda Śląska;54 Fabryczna;39-928;+48 694 324 886;76116251181;Syndyk licencjonowany
+OSOBA_143;Anastazja;Twardosz;Mexico;Ostrów Wielkopolski;08 Willowa;59-075;+48 585 919 962;80597084717;Rachmistrz
+OSOBA_144;Olgierd;Kolber;USA;Konin;28 Przemyslowa;77-953;+48 595 048 793;49029173825;Architekt krajobrazu
+OSOBA_145;Janina;Andrearczyk;Polish;Dąbrowa Górnicza;04 Reymonta;68-101;+48 754 190 607;69415977535;Inżynier budownictwa
+OSOBA_146;Anita;Wikło;English;Czechowice-Dziedzice;02 Dluga;88-013;+48 568 671 848;92362881595;Salowa
+OSOBA_147;Stefan;Bubel;Polish;Śrem;58 Srednia;47-435;+48 758 807 483;74892655398;Pucybut
+OSOBA_148;Lidia;Wziątek;German;Jarocin;11 Strumykowa;48-887;+48 686 156 161;40852961866;Technik elektronik
+OSOBA_149;Igor;Wawszczak;Italian;Czerwionka-Leszczyny;07 Kruczkowskiego;60-747;+48 569 978 327;45284072017;Supermodelka
+OSOBA_150;Dominik;Kubiaczyk;Lithuanian;Wodzisław Śląski;98 Sybiraków;87-325;+48 761 677 819;35999509078;Kierowca
+OSOBA_151;Radosław;Majos;Japanese;Skierniewice;70 Rolnicza;49-101;+48 49 129 34 78;18949550860;Ergonomista
+OSOBA_152;Inga;Sieg;Polish;Siemianowice Śląskie;39 Makowa;78-636;+48 723 138 128;42414521437;Handlarz
+OSOBA_153;Fabian;Osial;Polish;Wrocław;23 Koralowa;76-568;+48 530 839 933;47280160518;Sztygar
+OSOBA_154;Bartek;Pietrek;Polish;Bielsk Podlaski;93 Popieluszki;25-511;+48 701 208 936;38730898017;Rzeczoznawca
+OSOBA_155;Roksana;Han;Polish;Oława;35 Gajowa;03-367;+48 564 966 955;98310615639;Stajenny
+OSOBA_156;Sandra;Piechna;Polish;Kwidzyn;27 Koralowa;65-339;+48 886 015 084;42320990821;Kawiarka
+OSOBA_157;Stefan;Janczarek;Polish;Ostrów Mazowiecka;56 Bursztynowa;07-396;+48 538 901 737;89492527707;Pisarz
+OSOBA_158;Mieszko;Majorczyk;Russian;Sochaczew;80 Dabrowskiego;89-786;+48 87 628 30 28;10069510766;Trener personalny
+OSOBA_159;Ida;Gierek;Polish;Słupsk;81 Czarnieckiego;99-067;+48 33 272 24 98;73857335904;Pucybut
+OSOBA_160;Kamil;Drobik;Polish;Łaziska Górne;67 Kwiatowa;69-056;+48 785 893 260;14087668339;Inżynier
+OSOBA_161;Krystian;Rajman;Polish;Biłgoraj;40 Fabryczna;41-914;+48 886 836 495;57211417194;Pracownik socjalny
+OSOBA_162;Andrzej;Górnisiewicz;Canada;Włocławek;07 Labedzia;91-306;+48 636 174 231;17677552247;Krupier
+OSOBA_163;Stefan;Leszczuk;Bulgarian;Bielsko-Biała;92 Wypoczynkowa;33-284;+48 537 081 405;75318448752;Portier
+OSOBA_164;Julian;Kozubal;English;Starachowice;79 Teczowa;86-888;+48 564 227 359;36123155066;Klechdarz
+OSOBA_165;Apolonia;Ciesielczyk;Norwegian;Inowrocław;14 Zapolskiej;23-497;+48 696 649 303;68649800309;Doradca finansowy
+OSOBA_166;Andrzej;Kowala;Polish;Tczew;52 Wrzosowa;59-491;+48 701 264 921;76884783734;Producent wykonawczy
+OSOBA_167;Monika;Tonder;Polish;Ząbki;15 Harcerska;65-272;+48 896 182 585;38793755268;Palacz
+OSOBA_168;Blanka;Moździerz;German;Oleśnica;60 Ogrodowa;46-362;+48 517 237 062;27388826248;Zarządca nieruchomości
+OSOBA_169;Kamil;Krystkowiak;Polish;Czeladź;72 Wyzwolenia;07-829;+48 578 041 136;75165477510;Makler giełd towarowych
+OSOBA_170;Ewa;Powązka;Brazil;Skawina;64 Klasztorna;97-091;+48 763 701 501;87315542660;Aktuariusz
+OSOBA_171;Karol;Chalimoniuk;Polish;Płońsk;44 Zakole;26-900;+48 637 695 509;36650849383;Żongler
+OSOBA_172;Tobiasz;Brząkała;Polish;Ząbki;66 Poznanska;20-934;+48 737 020 687;76632640142;Żołnierz
+OSOBA_173;Antoni;Pietrek;Italian;Inowrocław;90 Kosciuszki;68-696;+48 51 582 61 21;38487974556;Makler nadzorujący
+OSOBA_174;Roksana;Stawczyk;Polish;Mielec;20 Szymanowskiego;68-910;+48 668 736 077;16160905891;Dyrektor finansowy
+OSOBA_175;Marianna;Wisła;Australia;Koszalin;67 Piwna;01-925;+48 758 334 475;78263366295;Brakarz
+OSOBA_176;Norbert;Szumny;Dutch;Stargard Szczeciński;86 Letniskowa;63-585;+48 80 934 03 92;18661132966;Sztygar
+OSOBA_177;Józef;Dyszy;French;Bełchatów;40 Daszynskiego;72-484;+48 599 160 201;45698564769;Kierowca
+OSOBA_178;Sylwia;Sarosiek;Slovene;Ostrów Mazowiecka;82 Wybickiego;70-475;+48 693 675 718;83875392266;Elektromonter pomiarów
+OSOBA_179;Leon;Robaszkiewicz;Swedish;Sosnowiec;60 Morcinka;42-669;+48 604 186 270;30438826670;Motorniczy
+OSOBA_180;Ewa;Płodzień;English;Chojnice;75 Dlugosza;24-824;+48 719 064 993;23752921779;Marynarz
+OSOBA_181;Anastazja;Dąbroś;Polish;Sandomierz;51 Wiejska;30-765;+48 621 517 057;41788594867;Kawalkator
+OSOBA_182;Eryk;Strzępek;USA;Mława;56 Andersa;25-756;+48 563 193 134;80546806444;Dyrektor kreatywny
+OSOBA_183;Anita;Dawidek;Polish;Myszków;84 Slaska;62-626;+48 02 447 09 87;11827292863;Perfumiarz
+OSOBA_184;Róża;Tokaj;German;Pruszcz Gdański;27 Kolonia;43-516;+48 36 071 45 02;64999704679;Konferansjer
+OSOBA_185;Sonia;Ufniarz;Italian;Wałcz;23 Zapolskiej;49-041;+48 773 250 641;93129116340;Psiarz
+OSOBA_186;Tola;Łapot;Italian;Kielce;45 Zlota;38-705;+48 517 716 669;73446691515;Rybak
+OSOBA_187;Jędrzej;Ruszczak;Spanish;Wałcz;12 Irysowa;77-243;+48 794 004 366;96625294021;Geolog
+OSOBA_188;Ida;Ludwiniak;Polish;Brodnica;21 Robotnicza;64-031;+48 694 464 512;15519380191;Dziennikarz
+OSOBA_189;Ignacy;Tereszkiewicz;Taiwan;Stargard Szczeciński;53 Wrzosowa;62-230;+48 762 937 564;88467673808;Dziennikarz
+OSOBA_190;Anita;Zbróg;Italian;Mysłowice;29 Perlowa;93-445;+48 570 065 385;80807025367;Ksiądz
+OSOBA_191;Klara;Chomiuk;French;Mikołów;93 Makowa;62-545;+48 593 334 536;26757815012;Bibliotekarz dyplomowany
+OSOBA_192;Robert;Bik;Polish;Częstochowa;13 Koscielna;66-932;+48 802 429 991;40619905766;Agent ubezpieczeniowy
+OSOBA_193;Nela;Szarpak;Australia;Zamość;61 Czeresniowa;07-597;+48 505 100 937;53615626989;Charakteryzator
+OSOBA_194;Ewa;Chołody;Norwegian;Legnica;95 Bukowa;36-903;+48 896 007 982;16050907906;Likwidator szkód
+OSOBA_195;Antoni;Kiliszek;Swedish;Luboń;28 Letniskowa;06-378;+48 633 308 363;95173372658;Konsultant
+OSOBA_196;Apolonia;Calik;Australia;Białystok;80 Wiosenna;56-793;+48 817 430 127;63409603325;Tokarz
+OSOBA_197;Tadeusz;Staśko;Greek;Łomża;89 Dojazdowa;58-147;+48 11 498 40 07;69032442620;Plastyk
+OSOBA_198;Eryk;Pośnik;Polish;Bielsk Podlaski;12 Brzozowa;09-358;+48 53 093 00 38;21584347912;Sprzedawca
+OSOBA_199;Dominik;Elias;Canada;Bielsko-Biała;09 Glowackiego;00-710;+48 882 661 349;57729000194;Reporter wojenny
+OSOBA_200;Marcelina;Boksa;Italian;Oława;00 Sloneczna;40-752;+48 630 279 627;97143997178;Modelka dużych rozmiarów
+OSOBA_201;Tola;Tałaj;Polish;Koszalin;55 Warszawska;98-395;+48 848 037 293;15682345750;Barman
+OSOBA_202;Olgierd;Kalka;Polish;Brodnica;57 Magnoliowa;54-588;+48 784 316 985;97573593862;Doradca finansowy
+OSOBA_203;Sonia;Para;Polish;Kętrzyn;26 Kilinskiego;23-389;+48 540 347 914;94511684359;Intendent
+OSOBA_204;Norbert;Kinder;Polish;Bydgoszcz;87 Widok;60-900;+48 07 219 29 06;80017376021;Kostiumograf
+OSOBA_205;Łukasz;Melaniuk;Polish;Kwidzyn;61 Wyspianskiego;81-875;+48 871 087 358;74143075096;Nadleśniczy
+OSOBA_206;Monika;Beker;Polish;Inowrocław;51 Zdrojowa;28-154;+48 72 809 58 54;59536519965;Kornak
+OSOBA_207;Bartek;Jodko;Polish;Gorzów Wielkopolski;87 Kielecka;14-880;+48 529 186 745;66136564513;Lalkarz
+OSOBA_208;Dariusz;Żero;Swedish;Iława;15 Jasna;74-461;+48 642 363 696;36249133184;Technik elektronik
+OSOBA_209;Monika;Cis;Lithuanian;Jelenia Góra;46 Widokowa;14-378;+48 536 066 041;11173534517;Barista
+OSOBA_210;Natan;Stanisławek;Slovene;Świecie;35 Zródlana;28-952;+48 550 974 717;52596820781;Zarządca nieruchomości
+OSOBA_211;Fryderyk;Mrozowicz;German;Kwidzyn;67 Rzemieslnicza;22-944;+48 840 539 322;92781134283;Intendent
+OSOBA_212;Krystian;Beśka;Italian;Mikołów;71 Chopina;76-885;+48 62 263 35 37;21003774787;Rzeczoznawca samochodowy
+OSOBA_213;Aniela;Trochim;Polish;Środa Wielkopolska;50 Willowa;34-424;+48 688 419 245;67487271739;Taksówkarz
+OSOBA_214;Konrad;Puc;Polish;Wałcz;79 Nowowiejska;47-330;+48 588 645 559;56999947050;Redaktor
+OSOBA_215;Antoni;Łaszczyk;Polish;Oleśnica;41 Wieniawskiego;39-831;+48 618 304 340;49023875912;Audytor efektywności energetycznej
+OSOBA_216;Maksymilian;Pyszczek;Polish;Świebodzice;18 Bydgoska;31-461;+48 16 818 25 47;28284101458;Prezenter
+OSOBA_217;Agnieszka;Więckiewicz;French;Wałcz;02 Liliowa;18-199;+48 64 427 37 16;69398314526;Ratownik przedmedyczny
+OSOBA_218;Marcin;Grotek;Australia;Nowy Targ;99 Krzywa;69-875;+48 36 244 39 04;89399104331;Animator kultury
+OSOBA_219;Monika;Łój;Polish;Płock;48 Tulipanowa;77-671;+48 626 164 156;42550469463;Artysta-rezydent
+OSOBA_220;Borys;Sadownik;Polish;Świnoujście;56 Tulipanowa;13-003;+48 60 042 32 28;36838341465;Brakarz
+OSOBA_221;Marika;Wawrzyczek;Greek;Marki;77 Mlynarska;36-915;+48 728 973 921;29420884828;Technik mechanik
+OSOBA_222;Emil;Szramka;Finnish;Kluczbork;12 Letniskowa;03-363;+48 799 042 817;82583216980;Łącznik
+OSOBA_223;Ewelina;Woszczyna;Polish;Żyrardów;72 Kwiatowa;59-572;+48 804 390 201;88025961308;Broker
+OSOBA_224;Sebastian;Hajduga;Polish;Września;10 Plazowa;43-347;+48 10 495 16 25;88327220062;Plastyk
+OSOBA_225;Paweł;Gągała;Polish;Brodnica;89 Sowia;65-075;+48 751 918 790;45625527145;Poganiacz
+OSOBA_226;Alex;Błądek;China;Legnica;14 Broniewskiego;70-131;+48 733 349 192;70365746029;Tłumacz
+OSOBA_227;Tobiasz;Juszczuk;Polish;Chełm;42 Kruczkowskiego;96-925;+48 550 186 818;69411650418;Doradca inwestycyjny
+OSOBA_228;Adrianna;Czermak;Canada;Polkowice;54 Zaulek;79-466;+48 608 102 234;49510902653;Tłumacz przysięgły
+OSOBA_229;Daniel;Herdzik;Polish;Kętrzyn;28 Górna;55-519;+48 775 975 047;34036841353;Dyplomata
+OSOBA_230;Ryszard;Orpel;Polish;Środa Wielkopolska;71 Glówna;18-757;+48 695 103 784;16259216270;Polityk
+OSOBA_231;Cyprian;Stochmal;Polish;Biała Podlaska;42 Niepodleglosci;42-320;+48 720 617 428;28573875086;Dyplomata
+OSOBA_232;Kornelia;Fal;Persian;Siemianowice Śląskie;07 Cisowa;93-380;+48 705 562 643;25935322001;Kiper
+OSOBA_233;Adrianna;Wielgos;Slovene;Wejherowo;48 Hutnicza;96-052;+48 803 551 654;13897575325;Taksówkarz
+OSOBA_234;Gustaw;Kopyść;Finnish;Żary;00 Gajowa;15-035;+48 673 695 419;82653361045;Dyrektor artystyczny
+OSOBA_235;Konstanty;Freitag;Polish;Dąbrowa Górnicza;29 Turkusowa;58-317;+48 769 356 785;23783658411;Rzeczoznawca samochodowy
+OSOBA_236;Kornel;Ruman;Polish;Oleśnica;31 Wesola;55-162;+48 546 003 075;26786233259;Konsultant
+OSOBA_237;Witold;Rurarz;Polish;Myszków;74 Morska;26-247;+48 637 070 186;88866044830;Rekwizytor
+OSOBA_238;Melania;Fac;Polish;Łuków;64 Lanowa;44-494;+48 845 209 231;61860955046;Antykwariusz
+OSOBA_239;Hubert;Chomiuk;Polish;Legionowo;22 Lazurowa;32-851;+48 565 737 709;39786230703;Barista
+OSOBA_240;Antoni;Behrendt;Dutch;Tarnowskie Góry;17 Topolowa;94-827;+48 854 920 169;58838853779;Technik mechanik okrętowy
+OSOBA_241;Gabriel;Dzwonnik;Canada;Zielona Góra;97 Boleslawa Chrobrego;67-142;+48 519 459 320;47445476284;Teksturator
+OSOBA_242;Mikołaj;Kawala;French;Sosnowiec;89 Asnyka;25-457;+48 672 721 488;27894555588;Syndyk licencjonowany
+OSOBA_243;Anita;Majsterek;Polish;Malbork;00 Poprzeczna;93-588;+48 73 934 42 17;77197849530;Doradca podatkowy w Polsce
+OSOBA_244;Marianna;Jędrys;Norwegian;Łowicz;70 Kruczkowskiego;02-486;+48 528 008 626;12126319562;Psycholog
+OSOBA_245;Maurycy;Kluczyk;Lithuanian;Bielawa;90 Wislana;86-278;+48 822 370 342;47571907524;Animator kultury
+OSOBA_246;Mariusz;Bociek;German;Czechowice-Dziedzice;89 Powstanców Wielkopolskich;89-932;+48 09 611 74 10;17855044557;Kierowca
+OSOBA_247;Jeremi;Bojdo;Polish;Gliwice;97 Tuwima;36-731;+48 826 332 939;77336409030;Kostiumograf
+OSOBA_248;Błażej;Strzoda;English;Dąbrowa Górnicza;10 Górna;35-266;+48 880 490 535;22974041658;Motorniczy
+OSOBA_249;Przemysław;Zaranek;Czech;Wyszków;10 Zapolskiej;92-504;+48 768 418 723;56133106638;Archeolog
+OSOBA_250;Leonard;Buszko;Polish;Piekary Śląskie;47 Powstanców;52-107;+48 55 251 04 82;90320061383;Kasjer biletowy
+OSOBA_251;Iwo;Kazimierczuk;French;Ostrołęka;80 Morcinka;43-529;+48 15 049 49 10;90420480970;Taksówkarz
+OSOBA_252;Cezary;Mojsa;Polish;Piaseczno;35 Slowackiego;11-335;+48 876 528 386;49643811800;Ratownik przedmedyczny
+OSOBA_253;Rozalia;Pawliczak;Canada;Dębica;61 Pilsudskiego;55-317;+48 696 808 522;78079169989;Szlifierz
+OSOBA_254;Natasza;Hajduga;Swedish;Bielawa;46 Daleka;94-442;+48 662 648 619;63229772760;Teksturator
+OSOBA_255;Konstanty;Palej;Australia;Rzeszów;92 Osiedlowa;63-524;+48 759 822 678;70783826904;Handlarz
+OSOBA_256;Mateusz;Słabosz;Polish;Biłgoraj;67 Nadrzeczna;13-648;+48 717 850 906;54630589406;Technik weterynarii
+OSOBA_257;Konstanty;Bystroń;Polish;Olsztyn;80 Strzelecka;41-205;+48 810 365 344;62395306973;Bibliotekarz
+OSOBA_258;Janina;Mądrzyk;Finnish;Ostrowiec Świętokrzyski;40 Orzeszkowej;64-088;+48 660 133 214;34102453222;Technik mechanik okrętowy
+OSOBA_259;Róża;Gradek;Polish;Żywiec;34 Spokojna;32-534;+48 859 720 529;86995754816;Ksiądz
+OSOBA_260;Franciszek;Heba;Polish;Otwock;18 Osiedlowa;62-825;+48 814 379 111;58802023407;Bibliotekarz
+OSOBA_261;Nicole;Rudyk;Polish;Słupsk;70 Zachodnia;93-968;+48 641 410 873;15100134401;Ekwilibrystyka
+OSOBA_262;Oliwier;Hulbój;Japanese;Ostrów Wielkopolski;30 Szpitalna;66-907;+48 20 147 31 25;76979343173;Lekarz weterynarii
+OSOBA_263;Marcel;Frącz;Polish;Krosno;48 Zielona;92-161;+48 664 056 484;22785874946;Technik elektronik
+OSOBA_264;Dagmara;Wójcikiewicz;Greek;Tarnów;58 Zwyciestwa;10-019;+48 611 590 250;32817591301;Inżynier budownictwa
+OSOBA_265;Daniel;Sulik;Russian;Zawiercie;24 Tysiaclecia;13-915;+48 823 432 049;81926222319;Model
+OSOBA_266;Aurelia;Muniak;Polish;Katowice;12 Jagodowa;13-414;+48 757 640 136;33414702089;Inżynier budownictwa
+OSOBA_267;Cyprian;Wocial;Persian;Brzeg;56 Zródlana;86-601;+48 563 467 306;85700357121;Masztalerz
+OSOBA_268;Leonard;Druszcz;Polish;Wrocław;82 Truskawkowa;18-937;+48 899 078 329;26498137111;Agent literacki
+OSOBA_269;Artur;Pazdan;Polish;Giżycko;90 Krokusowa;38-792;+48 84 008 68 94;69704526863;Sprzedawca
+OSOBA_270;Alan;Pastuła;China;Łowicz;81 Reymonta;11-444;+48 788 972 800;87937784844;Marketingowiec
+OSOBA_271;Ida;Wiertelak;Slovene;Tomaszów Mazowiecki;01 Sokola;67-005;+48 723 345 417;25820300117;Scenograf
+OSOBA_272;Błażej;Miszta;French;Głogów;45 Zielna;58-018;+48 647 379 273;53809187867;Technik handlowiec
+OSOBA_273;Marcin;Matla;USA;Świdnik;05 Perlowa;12-018;+48 47 256 09 15;14780787752;Scenarzysta
+OSOBA_274;Gabriel;Durys;German;Lubartów;50 Moniuszki;05-296;+48 15 682 90 47;39192024100;Technik mechanik
+OSOBA_275;Andrzej;Amanowicz;Danish;Białogard;18 Górna;67-289;+48 679 483 146;67354328095;Ochroniarz
+OSOBA_276;Mariusz;Naglik;Norwegian;Kielce;98 Magnoliowa;40-476;+48 565 966 873;58994064550;Rekwizytor
+OSOBA_277;Józef;Piekart;Polish;Ząbki;41 Popieluszki;13-456;+48 815 268 926;56720137265;Tokarz
+OSOBA_278;Aurelia;Żyto;Polish;Ostrów Wielkopolski;89 Pomorska;12-940;+48 638 591 265;18134131771;Ratownik
+OSOBA_279;Mikołaj;Kęsek;French;Ruda Śląska;29 Torunska;16-604;+48 833 883 816;91021607981;Makler papierów wartościowych
+OSOBA_280;Tymon;Zinkiewicz;Italian;Inowrocław;45 Wiazowa;01-715;+48 667 114 267;58549967932;Naukowiec
+OSOBA_281;Mieszko;Roch;Polish;Ostróda;26 Kamienna;28-392;+48 623 256 923;22254361672;Pośrednik finansowy
+OSOBA_282;Aniela;Kajak;Polish;Bielawa;20 Wolnosci;32-713;+48 807 697 215;18399759434;Makler nadzorujący
+OSOBA_283;Natan;Pierz;Polish;Wodzisław Śląski;69 Rynek;78-642;+48 831 312 979;88503137343;Detektyw
+OSOBA_284;Patryk;Murach;Canada;Racibórz;04 Brzoskwiniowa;21-086;+48 507 088 770;38561408079;Scenograf
+OSOBA_285;Bartek;Wardziak;English;Konin;92 Rzemieslnicza;38-587;+48 617 986 136;50024469585;Architekt krajobrazu
+OSOBA_286;Ada;Rosada;Czech;Kościerzyna;62 Kraszewskiego;27-112;+48 679 735 220;82747389006;Pośrednik finansowy
+OSOBA_287;Tola;Boduch;Polish;Czerwionka-Leszczyny;33 Pogodna;72-176;+48 84 745 85 45;91194080337;Doker
+OSOBA_288;Aleksander;Guściora;Brazil;Wejherowo;37 Wesola;47-357;+48 799 289 713;34589695079;Sprzedawca
+OSOBA_289;Franciszek;Derek;Polish;Suwałki;01 Mokra;21-147;+48 840 384 506;37928123511;Klechdarz
+OSOBA_290;Daniel;Pindor;German;Wałcz;98 Klonowa;65-109;+48 782 777 899;19490075775;Agent ubezpieczeniowy
+OSOBA_291;Wojciech;Madzia;French;Nowy Targ;83 Mala;95-067;+48 712 877 095;95610698862;Aktor dziecięcy
+OSOBA_292;Jerzy;Snoch;Polish;Dębica;46 Batalionów Chlopskich;95-020;+48 807 729 402;92514587779;Antykwariusz
+OSOBA_293;Gustaw;Kolek;Spanish;Opole;09 Promienna;68-616;+48 835 464 504;21703287956;Makler papierów wartościowych
+OSOBA_294;Miłosz;Stochaj;French;Żary;22 Sloneczna;30-525;+48 826 558 812;12046015342;Finansista
+OSOBA_295;Maurycy;Bareja;French;Wałbrzych;87 Harcerska;11-427;+48 590 404 940;62700119193;Motorniczy
+OSOBA_296;Oliwier;Hynek;Polish;Luboń;21 Piaskowa;99-808;+48 54 222 98 20;83523396757;Rybak
+OSOBA_297;Ignacy;Doroszuk;Finnish;Sosnowiec;50 Liliowa;27-062;+48 44 634 35 63;68932535453;Aktor dziecięcy
+OSOBA_298;Józef;Klinkosz;Polish;Leszno;85 Widok;94-097;+48 896 458 224;47349755047;Bankowiec
+OSOBA_299;Grzegorz;Krzysztoszek;Japanese;Stargard Szczeciński;02 Diamentowa;87-214;+48 893 100 983;33046097068;Pośrednik w obrocie nieruchomościami
+OSOBA_300;Marcin;Weremczuk;Polish;Chorzów;80 Zeromskiego;43-478;+48 63 560 76 61;56743769265;Arborysta
+OSOBA_301;Nicole;Baster;Australia;Radom;30 Zaciszna;55-643;+48 612 404 217;22263966906;Detektyw
+OSOBA_302;Franciszek;Maszczyk;Polish;Kluczbork;07 Okulickiego;89-711;+48 868 321 694;68395611321;Doker
+OSOBA_303;Bruno;Gryga;Polish;Puławy;43 Niecala;62-488;+48 594 887 856;39136287944;Oceanonauta
+OSOBA_304;Marika;Deneka;Polish;Ciechanów;49 Miodowa;31-614;+48 569 896 082;77129702593;Pakowacz
+OSOBA_305;Melania;Zacharewicz;Finnish;Ostrów Mazowiecka;33 Widokowa;91-241;+48 751 857 573;82392079556;Fasowacz
+OSOBA_306;Nela;Hermanowicz;Portugal;Dąbrowa Górnicza;69 Cicha;45-075;+48 653 613 067;95530141696;Redaktor merytoryczny
+OSOBA_307;Gustaw;Kamyk;China;Wrocław;45 Strumykowa;27-413;+48 840 787 623;14557512920;Kasjer biletowy
+OSOBA_308;Emil;Żółtek;Polish;Zabrze;72 Glówna;50-526;+48 518 241 273;55560506579;Iluzjonista
+OSOBA_309;Jan;Słaba;Australia;Ełk;96 Dabrowskiej;86-068;+48 645 627 884;77642173647;Główny księgowy
+OSOBA_310;Franciszek;Buszta;Finnish;Tarnowskie Góry;58 Kolejowa;58-995;+48 82 576 06 73;65997569236;Konferansjer
+OSOBA_311;Wojciech;Bielat;Polish;Sanok;67 Zakatek;83-481;+48 34 599 58 54;13836086505;Broker ubezpieczeniowy
+OSOBA_312;Nela;Stochel;Polish;Świecie;75 Warszawska;44-280;+48 771 508 989;77878807780;Plastyk
+OSOBA_313;Wiktor;Kubisz;Polish;Kielce;25 Owocowa;19-698;+48 863 723 134;35326186740;Barman
+OSOBA_314;Gaja;Lempart;China;Jastrzębie-Zdrój;16 Jabloniowa;13-052;+48 699 207 002;98666577127;Inżynier
+OSOBA_315;Dariusz;Linkiewicz;Polish;Gdynia;17 Agrestowa;70-709;+48 604 678 317;25056773370;Technik kelner
+OSOBA_316;Anna;Maria;Spanish;Częstochowa;48 Poniatowskiego;93-110;+48 886 705 850;30683059451;Szatniarz
+OSOBA_317;Janina;Szczerek;Australia;Sosnowiec;76 Kolorowa;71-068;+48 880 415 832;40332680455;Sztygar
+OSOBA_318;Adam;Cherek;Polish;Kłodzko;22 Orzeszkowej;79-737;+48 710 198 124;99171843324;Barman
+OSOBA_319;Radosław;Boryczko;German;Zambrów;52 Stolarska;92-161;+48 559 145 930;78472049922;Mim
+OSOBA_320;Kazimierz;Cichos;Finnish;Wrocław;38 Turkusowa;73-266;+48 56 948 63 52;31821147406;Kornak
+OSOBA_321;Jerzy;Gawliczek;Polish;Stargard Szczeciński;51 Akacjowa;61-304;+48 732 874 375;69452829960;Palacz
+OSOBA_322;Oliwier;Sendor;Polish;Bolesławiec;28 Ludowa;02-946;+48 776 452 919;86609812750;Agent celny
+OSOBA_323;Dawid;Foit;Brazil;Tczew;03 Piastowska;70-653;+48 777 757 269;87876017430;Podleśniczy
+OSOBA_324;Ewa;Gołas;French;Żagań;40 Kielecka;05-128;+48 661 361 748;62548389150;Agent literacki
+OSOBA_325;Inga;Dobrosz;Norwegian;Brzeg;79 Górnicza;46-119;+48 824 861 575;66968021758;Katecheta
+OSOBA_326;Maciej;Palej;Mexico;Świdnica;65 Kalinowa;45-518;+48 725 246 897;73601064223;Strażak
+OSOBA_327;Maurycy;Politowicz;Italian;Płońsk;86 Zachodnia;06-269;+48 616 417 287;31949998977;Producent wykonawczy
+OSOBA_328;Krystyna;Dynak;Dutch;Pszczyna;07 Kolonia;00-081;+48 753 129 492;70302194983;Koniarze
+OSOBA_329;Albert;Fitas;Polish;Legnica;88 Ludowa;45-995;+48 500 498 816;58203925803;Plastyk
+OSOBA_330;Agnieszka;Boryczko;Polish;Szczytno;11 Waska;80-497;+48 803 193 373;96904633636;Pakowacz
+OSOBA_331;Kacper;Pachla;Polish;Kluczbork;85 Kowalska;29-564;+48 855 884 163;44492391733;Naukowiec
+OSOBA_332;Gabriel;Labocha;Italian;Chrzanów;85 Waska;45-691;+48 558 303 308;72397972786;Geolog
+OSOBA_333;Ernest;Morawiak;Polish;Nowy Targ;86 Mlynska;64-852;+48 856 020 724;90725575986;Reporter wojenny
+OSOBA_334;Krystian;Romańczyk;Hindi;Świnoujście;17 Niepodleglosci;54-335;+48 644 330 747;95077971253;Rolnik
+OSOBA_335;Ewelina;Wierzchoń;Canada;Świdnik;11 Kazimierza Wielkiego;28-467;+48 753 997 446;71346588990;Redaktor naukowy
+OSOBA_336;Ewa;Wilusz;Polish;Wieluń;14 Skargi;52-986;+48 809 700 071;66957542770;Aktor głosowy
+OSOBA_337;Inga;Protasiuk;China;Łowicz;79 Wiklinowa;42-715;+48 512 325 193;14110455121;Brakarz
+OSOBA_338;Ada;Rzeszut;Japanese;Inowrocław;06 Opolska;83-619;+48 53 554 31 38;18109642069;Kornak
+OSOBA_339;Ernest;Gryszkiewicz;Polish;Racibórz;70 Kosciuszki;27-704;+48 892 722 869;30038189620;Trener personalny
+OSOBA_340;Julita;Kość;Polish;Gliwice;08 Kwiatowa;87-778;+48 500 271 848;46569633109;Biegły rewident
+OSOBA_341;Lidia;Juroszek;Greek;Ostrowiec Świętokrzyski;68 Pocztowa;50-436;+48 537 881 161;10305989983;Trener personalny
+OSOBA_342;Melania;Olma;Polish;Iława;05 Rzemieslnicza;15-835;+48 746 529 693;71442699606;Konstruktor
+OSOBA_343;Aleks;Żybura;Danish;Grodzisk Mazowiecki;09 Zwirowa;24-885;+48 749 965 814;60954236256;Lekarz weterynarii
+OSOBA_344;Rafał;Engel;Polish;Zamość;89 Ogrodowa;05-925;+48 503 605 373;45403985254;Konsultant ślubny
+OSOBA_345;Artur;Tereszkiewicz;Taiwan;Zakopane;05 Sportowa;90-076;+48 19 699 58 17;12068681074;Konstruktor
+OSOBA_346;Ewa;Stempin;Polish;Dąbrowa Górnicza;85 Kaszubska;05-826;+48 583 038 531;74413655398;Konserwator zabytków
+OSOBA_347;Julianna;Januszko;Polish;Tychy;16 Koralowa;42-851;+48 699 967 734;35622937143;Rzeczoznawca
+OSOBA_348;Róża;Staś;Japanese;Jastrzębie-Zdrój;00 Staffa;19-338;+48 686 738 066;36469867897;Aktor dziecięcy
+OSOBA_349;Anastazja;Kijas;Canada;Biłgoraj;57 Narutowicza;63-948;+48 715 991 817;97222585708;Technik kelner
+OSOBA_350;Dorota;Ochal;Polish;Brzeg;02 Broniewskiego;70-616;+48 15 352 95 68;91775524209;Artysta-rezydent
+OSOBA_351;Cyprian;Kapcia;Mexico;Gdańsk;82 Krakowska;84-254;+48 764 600 010;24931829308;Finansista
+OSOBA_352;Ksawery;Michel;Dutch;Siedlce;98 Wladyslawa Lokietka;62-649;+48 22 220 13 22;52844201340;Teksturator
+OSOBA_353;Borys;Golenia;Greek;Ciechanów;18 Poniatowskiego;40-749;+48 07 352 66 30;75891508443;Ebenista
+OSOBA_354;Alan;Fogiel;German;Świdnica;33 Stawowa;89-862;+48 554 946 426;92064808315;Satyryk
+OSOBA_355;Róża;Nurkiewicz;Brazil;Dąbrowa Górnicza;71 Szarych Szeregów;49-359;+48 577 970 263;57351632264;Łącznik
+OSOBA_356;Tobiasz;Dargacz;French;Kędzierzyn-Koźle;59 Szafirowa;70-949;+48 816 820 115;44431318412;Pucybut
+OSOBA_357;Julianna;Szok;Polish;Świebodzice;24 Galczynskiego;83-598;+48 529 817 216;50906670476;Rybak
+OSOBA_358;Aurelia;Kolonko;Polish;Krosno;60 Szymanowskiego;86-365;+48 870 087 791;48216223126;Konsultant
+OSOBA_359;Bartek;Klin;Mexico;Tarnów;16 Tulipanowa;92-392;+48 59 964 03 54;50451287452;Taksówkarz
+OSOBA_360;Rozalia;Januszewicz;Swedish;Krosno;09 Wiklinowa;23-498;+48 778 035 731;58322060700;Kosmonauta
+OSOBA_361;Cezary;Milewczyk;Persian;Rumia;67 Polna;43-170;+48 37 447 92 03;62380023199;Pucybut
+OSOBA_362;Adrian;Ćwierz;English;Ząbki;94 Kaliska;83-851;+48 605 084 109;18018131372;Koniarze
+OSOBA_363;Apolonia;Gadzina;Japanese;Kościerzyna;37 Browarna;24-197;+48 670 632 309;22620630446;Deweloper budowlany
+OSOBA_364;Bruno;Dziadowicz;Polish;Żagań;14 Makuszynskiego;12-754;+48 837 601 004;23245446576;Babcia klozetowa
+OSOBA_365;Grzegorz;Kochanowicz;Slovene;Środa Wielkopolska;23 Wisniowa;44-572;+48 615 301 097;34696547774;Kurier
+OSOBA_366;Alan;Serzysko;Polish;Sieradz;19 Sklodowskiej-Curie;76-619;+48 650 877 292;57538536893;Architekt krajobrazu
+OSOBA_367;Aleksander;Jałowiec;Polish;Zgorzelec;02 Kosciuszki;02-158;+48 529 725 385;67141840318;Instruktor
+OSOBA_368;Tomasz;Doroz;Polish;Mysłowice;65 Mlynska;56-814;+48 561 123 303;80098424256;Palacz
+OSOBA_369;Sebastian;Dziurla;Polish;Inowrocław;99 Skosna;69-667;+48 883 074 223;43637241293;Dziennikarz
+OSOBA_370;Grzegorz;Płócienniczak;Polish;Luboń;68 Matejki;85-551;+48 521 927 514;83946693180;Architekt krajobrazu
+OSOBA_371;Grzegorz;Ludwisiak;Czech;Śrem;77 Kilinskiego;26-234;+48 864 894 188;88423712203;Służący
+OSOBA_372;Marcelina;Śmieja;Polish;Żary;91 Promienna;46-261;+48 693 336 707;46844536281;Finansista
+OSOBA_373;Gaja;Becker;Greek;Olsztyn;17 Skladowa;12-775;+48 26 782 11 41;82088635625;Tokarz
+OSOBA_374;Filip;Sałuda;Polish;Gdynia;34 Fiolkowa;37-067;+48 668 930 637;38762466786;Bibliotekarz dyplomowany
+OSOBA_375;Gustaw;Dudczak;Polish;Jarosław;46 Strzelecka;83-935;+48 512 117 335;55245188576;Ekonomista
+OSOBA_376;Apolonia;Dobroń;Polish;Głogów;72 Kamienna;63-402;+48 786 307 521;43814168041;Architekt krajobrazu
+OSOBA_377;Sebastian;Stempniak;Nepali;Żory;59 Poznanska;91-947;+48 742 670 139;40633421292;Model
+OSOBA_378;Blanka;Krzyżostaniak;Polish;Żywiec;29 Wczasowa;56-538;+48 548 412 062;22767001077;Kelner
+OSOBA_379;Urszula;Dacko;Lithuanian;Bartoszyce;32 Sawickiej;20-530;+48 71 433 62 02;12264422909;Makler giełd towarowych
+OSOBA_380;Rafał;Żakiewicz;Polish;Ostrowiec Świętokrzyski;53 Korczaka;02-534;+48 708 320 118;44107001336;Model
+OSOBA_381;Nicole;Dubis;Polish;Goleniów;73 Szkolna;46-685;+48 698 100 886;98493255151;Krupier
+OSOBA_382;Kornelia;Neubauer;Danish;Pruszcz Gdański;90 Makuszynskiego;21-551;+48 624 352 439;72002856440;Pokojówka
+OSOBA_383;Kajetan;Ciepła;Mexico;Leszno;60 Klonowa;98-537;+48 557 785 309;87065130486;Deweloper budowlany
+OSOBA_384;Malwina;Sztuczka;German;Wałbrzych;17 Kwiatowa;89-498;+48 520 726 578;26906936572;Technik nawigator morski
+OSOBA_385;Kamila;Cyba;Polish;Wyszków;11 Lanowa;19-953;+48 716 711 014;58470729229;Kosmonauta
+OSOBA_386;Andrzej;Szczudło;Polish;Lębork;53 Asnyka;57-748;+48 549 446 535;58797581848;Kosztorysant
+OSOBA_387;Marek;Trochimiuk;Polish;Włocławek;60 Jarzebinowa;70-101;+48 729 317 851;34010883623;Barman
+OSOBA_388;Dominik;Bystroń;Polish;Legionowo;69 Reymonta;81-296;+48 848 315 048;62972036641;Rzeczoznawca majątkowy
+OSOBA_389;Konstanty;Gołota;Latvian;Łódź;38 Zacisze;56-599;+48 663 925 525;75633262120;Sprzątacz
+OSOBA_390;Konrad;Semenowicz;Polish;Nowy Sącz;32 Glogowa;32-824;+48 20 249 32 98;20696057398;Rachmistrz
+OSOBA_391;Witold;Tutka;Korean;Tarnów;59 Ciasna;54-198;+48 10 417 96 61;32385134136;Aktor
+OSOBA_392;Rozalia;Kryk;Polish;Kędzierzyn-Koźle;37 Kolonia;84-581;+48 788 507 963;46983767606;Agent literacki
+OSOBA_393;Dagmara;Boguta;Polish;Grudziądz;50 Wiosenna;54-649;+48 796 964 458;71686762033;Dyrektor artystyczny
+OSOBA_394;Jędrzej;Jankowicz;Polish;Dzierżoniów;71 Kruczkowskiego;89-257;+48 858 962 322;53779097142;Terminolog
+OSOBA_395;Wiktor;Burchardt;Polish;Chełm;49 Graniczna;26-014;+48 62 279 56 09;66855611956;Kontroler biletów
+OSOBA_396;Tola;Michalczak;Polish;Luboń;71 Sikorskiego;24-192;+48 652 586 287;62734784058;Babcia klozetowa
+OSOBA_397;Arkadiusz;Maszota;Polish;Tarnobrzeg;16 Sienkiewicza;22-374;+48 67 206 31 42;42004147778;Lekarz weterynarii
+OSOBA_398;Melania;Nehring;USA;Żary;71 Koralowa;72-260;+48 789 816 406;39248985667;Politolog
+OSOBA_399;Nikodem;Spólnik;German;Polkowice;92 Przechodnia;10-267;+48 510 499 223;30026070962;Modelka dużych rozmiarów
+OSOBA_400;Franciszek;Siemion;Mexico;Świnoujście;54 Reja;42-245;+48 738 732 204;27980660318;Hydraulik
+OSOBA_401;Błażej;Marcol;Czech;Marki;16 Piastowska;57-322;+48 61 085 19 97;73518607952;Motorniczy
+OSOBA_402;Kornelia;Lica;English;Kętrzyn;56 Jana Sobieskiego;54-143;+48 880 784 542;12303777378;Przewodnik turystyczny
+OSOBA_403;Kamila;Tusk;Polish;Dębica;59 Górna;35-097;+48 80 709 20 09;11415565926;Dyrektor finansowy
+OSOBA_404;Sandra;Klupś;Lithuanian;Konin;20 Bociania;39-689;+48 590 086 751;55049600612;Technik technologii drewna
+OSOBA_405;Ernest;Cuch;Polish;Gdańsk;74 Sowia;31-567;+48 545 202 759;47948303978;Tłumacz literacki
+OSOBA_406;Jędrzej;Ślipek;Swedish;Chrzanów;44 Traugutta;70-632;+48 733 762 121;57712627305;Klechdarz
+OSOBA_407;Klara;Ciechowicz;Russian;Chrzanów;03 Letniskowa;25-540;+48 94 100 03 52;11965630069;Syndyk
+OSOBA_408;Bartek;Nurek;Australia;Piastów;45 Rolna;50-931;+48 680 711 017;75257249028;Hycel
+OSOBA_409;Klara;Krzeszowiec;Polish;Toruń;51 Zachodnia;06-790;+48 765 789 666;77674356335;Zarządca nieruchomości
+OSOBA_410;Julita;Frymus;Polish;Krosno;45 Poziomkowa;54-992;+48 783 731 064;86730557051;Kostiumograf
+OSOBA_411;Dominik;Pacia;Spanish;Opole;32 Popieluszki;86-731;+48 556 783 465;16774024851;Pracownicy uczelni w Polsce
+OSOBA_412;Paweł;Warchał;Polish;Nowy Sącz;46 Cicha;07-048;+48 40 238 52 95;31932010429;Krupier
+OSOBA_413;Maciej;Osada;Persian;Zamość;02 Solidarnosci;13-530;+48 745 110 962;69869395596;Doradca finansowy
+OSOBA_414;Kaja;Buksa;Bulgarian;Tczew;10 Królewska;39-493;+48 611 699 874;65698510479;Stajenny
+OSOBA_415;Kajetan;Trzepizur;English;Łuków;31 Czarnieckiego;27-211;+48 540 982 563;42790236434;Astronom
+OSOBA_416;Ignacy;Stranc;Polish;Płońsk;71 Grottgera;98-671;+48 762 403 000;45779574428;Technik kelner
+OSOBA_417;Leonard;Kohnke;Polish;Lublin;81 Zaulek;03-439;+48 577 072 555;29934632620;Szczurołap
+OSOBA_418;Inga;Matyjas;Polish;Starogard Gdański;79 Kopernika;30-907;+48 573 696 485;32275601073;Przewodnik turystyczny
+OSOBA_419;Przemysław;Jędrak;Polish;Lublin;85 Cedrowa;10-768;+48 579 215 239;57475923630;Broker
+OSOBA_420;Gustaw;Małż;Greek;Łomża;59 Stefana Batorego;00-642;+48 723 686 300;27144134335;Psycholog
+OSOBA_421;Kazimierz;Piszcz;Hindi;Biała Podlaska;75 Wladyslawa Jagielly;35-373;+48 53 381 06 51;51110401724;Rzeczoznawca samochodowy
+OSOBA_422;Marianna;Sobuś;Polish;Zgorzelec;51 Kolorowa;95-964;+48 774 190 496;30555285186;Pośrednik w obrocie nieruchomościami
+OSOBA_423;Tola;Duszkiewicz;Polish;Jaworzno;35 Willowa;67-116;+48 556 073 512;38482599620;Technik mechanik
+OSOBA_424;Adrianna;Kęsek;Polish;Wołomin;57 Kilinskiego;89-056;+48 96 885 71 19;87121469117;Motorniczy
+OSOBA_425;Albert;Cuch;Russian;Zgierz;59 Wybickiego;01-767;+48 632 792 602;73174148801;Naukowiec
+OSOBA_426;Mikołaj;Pastucha;Polish;Siedlce;05 Wiatraczna;42-843;+48 521 084 220;51365603017;Żołnierz
+OSOBA_427;Olaf;Musiała;English;Nowa Sól;60 Porzeczkowa;36-248;+48 49 212 26 12;35520794322;Ksiądz
+OSOBA_428;Stefan;Jasica;Brazil;Sandomierz;84 Zytnia;85-482;+48 752 322 715;46504996569;Agent firmy inwestycyjnej
+OSOBA_429;Jędrzej;Łukasiuk;Spanish;Ostrów Wielkopolski;33 Podlesna;88-344;+48 636 522 587;10206529250;Służący
+OSOBA_430;Jan;Zegadło;Slovene;Oława;18 Rolnicza;15-529;+48 697 351 074;25217887968;Zoopsycholog
+OSOBA_431;Blanka;Wiza;Australia;Polkowice;11 Slowicza;84-288;+48 893 108 486;34319048423;Leśniczy
+OSOBA_432;Sandra;Zaniewicz;Polish;Pabianice;24 Bociania;68-239;+48 508 313 645;73301157603;Żołnierz
+OSOBA_433;Radosław;Preś;Polish;Cieszyn;94 Sarnia;99-612;+48 709 937 936;62743594734;Makler papierów wartościowych
+OSOBA_434;Wiktor;Szczepaniuk;Polish;Pszczyna;53 Debowa;37-069;+48 532 368 810;35313866486;Agent ubezpieczeniowy
+OSOBA_435;Kazimierz;Chadaj;Polish;Mielec;59 Mostowa;91-853;+48 53 228 59 01;86549829356;Konserwator zabytków
+OSOBA_436;Ernest;Boruc;Slovene;Świdnica;07 Konwaliowa;21-280;+48 604 829 773;39898881789;Robotnik
+OSOBA_437;Julita;Ignatiuk;German;Augustów;90 Zakatek;50-863;+48 42 640 43 04;49539979894;Technik mechanik okrętowy
+OSOBA_438;Daniel;Makles;Polish;Wałbrzych;09 Plater;25-317;+48 745 532 796;83846022903;Dyplomata
+OSOBA_439;Leon;Leszkiewicz;Polish;Wrocław;28 Armii Krajowej;29-904;+48 852 303 497;38019000067;Aktuariusz
+OSOBA_440;Maurycy;Patalas;Australia;Krosno;32 Golebia;34-595;+48 832 219 330;62597701374;Detektyw
+OSOBA_441;Grzegorz;Linka;German;Ostrowiec Świętokrzyski;92 Jaskólcza;05-730;+48 580 621 267;52906018561;Sprzedawca
+OSOBA_442;Eliza;Łapacz;Greek;Ostrów Wielkopolski;51 Jesienna;30-879;+48 555 784 103;43860020996;Ebenista
+OSOBA_443;Marianna;Malecha;China;Sosnowiec;41 Graniczna;14-146;+48 704 549 471;91071272699;Krojczy
+OSOBA_444;Borys;Skomra;Polish;Chrzanów;03 Konopnickiej;79-746;+48 726 656 814;17275452372;Detektyw
+OSOBA_445;Radosław;Początek;Polish;Grudziądz;31 Wróblewskiego;89-067;+48 558 360 014;13647181583;Kierowca
+OSOBA_446;Anita;Krysik;Swedish;Ząbki;59 Slonecznikowa;42-534;+48 553 556 993;49871763210;Psycholog
+OSOBA_447;Karol;Jama;English;Bydgoszcz;48 Magnoliowa;60-029;+48 839 369 519;85321133828;Teksturator
+OSOBA_448;Franciszek;Bartel;Polish;Gorzów Wielkopolski;45 Slonecznikowa;10-508;+48 894 683 908;43289184016;Księgowy
+OSOBA_449;Ksawery;Dybka;China;Oleśnica;92 Rumiankowa;38-091;+48 863 741 259;56188956430;Reporter wojenny
+OSOBA_450;Tymoteusz;Baumgart;English;Swarzędz;73 Chabrowa;61-779;+48 561 821 033;49733312274;Perfumiarz
+OSOBA_451;Jakub;Kapinos;French;Łuków;93 Witosa;28-658;+48 684 396 282;87708747530;Aktor dziecięcy
+OSOBA_452;Tymon;Sypuła;Polish;Gdynia;06 Orla;79-703;+48 81 105 25 83;33892765465;Rzecznik prasowy
+OSOBA_453;Błażej;Łukowicz;Polish;Białogard;76 Browarna;20-688;+48 817 614 288;68447280076;Bibliotekarz
+OSOBA_454;Kornel;Żabka;Taiwan;Toruń;82 Sokola;20-940;+48 639 340 633;46364370714;Bibliotekarz dyplomowany
+OSOBA_455;Dorota;Pawlukiewicz;Polish;Toruń;25 Poniatowskiego;92-376;+48 856 028 292;73909407517;Kasjer biletowy
+OSOBA_456;Krystyna;Wojczuk;Polish;Kościan;40 Kolejowa;17-920;+48 66 083 86 44;74359822116;Tłumacz literacki
+OSOBA_457;Rafał;Jeżyk;Polish;Augustów;42 Kruczkowskiego;82-243;+48 34 397 50 54;76634445608;Pracownik socjalny
+OSOBA_458;Aurelia;Owsiak;Latvian;Tychy;50 Sikorskiego;29-609;+48 866 076 273;15033002972;Bibliotekarz dyplomowany
+OSOBA_459;Angelika;Banek;Polish;Brzeg;18 Koscielna;65-776;+48 749 253 642;19821963064;Mim
+OSOBA_460;Sandra;Wesoły;Polish;Jasło;13 Cisowa;45-501;+48 82 031 82 96;82617208622;Technik mechanik okrętowy
+OSOBA_461;Gabriel;Ciaś;Mexico;Koszalin;49 Dzialkowa;82-637;+48 67 437 21 04;65925355318;Inżynier
+OSOBA_462;Tadeusz;Majewicz;Polish;Sandomierz;17 Lawendowa;76-233;+48 737 667 436;20979803970;Architekt wnętrz
+OSOBA_463;Emil;Prochownik;Czech;Świebodzice;20 Strzelecka;72-596;+48 846 461 132;26026399557;Technik nawigator morski
+OSOBA_464;Angelika;Herbut;Czech;Świecie;95 Traugutta;57-575;+48 801 259 604;73893386046;Inscenizator
+OSOBA_465;Witold;Pawela;Norwegian;Słupsk;47 Rózana;12-993;+48 879 017 512;88789370688;Ksiądz
+OSOBA_466;Robert;Drynda;Polish;Luboń;17 Listopada;72-167;+48 71 600 22 67;97141311296;Modelka dużych rozmiarów
+OSOBA_467;Cezary;Ścibior;Polish;Sandomierz;94 Orzeszkowej;64-708;+48 633 008 263;67594276686;Konstruktor
+OSOBA_468;Julian;Golda;Polish;Nowy Dwór Mazowiecki;91 Sadowa;14-773;+48 562 974 829;67906821974;Grabarz
+OSOBA_469;Bianka;Wons;Turkish;Lębork;34 Szewska;60-373;+48 06 210 64 82;11430688612;Makler nadzorujący
+OSOBA_470;Kamil;Zasępa;Australia;Czeladź;13 Rzemieslnicza;50-733;+48 660 237 201;42746175330;Barman
+OSOBA_471;Kazimierz;Groń;Spanish;Bielawa;39 Poludniowa;10-127;+48 681 023 537;95335522134;Inżynier budownictwa
+OSOBA_472;Hubert;Kalista;Greek;Sochaczew;98 Czestochowska;89-283;+48 785 572 474;97503592281;Ekwilibrystyka
+OSOBA_473;Albert;Rubaj;English;Włocławek;90 Strumykowa;30-116;+48 701 385 324;48364795752;Pośrednik finansowy
+OSOBA_474;Paweł;Malcharek;Italian;Knurów;61 Kraszewskiego;26-547;+48 862 358 334;74661584739;Pisarz
+OSOBA_475;Melania;Wykręt;Turkish;Ruda Śląska;81 Jana;67-830;+48 684 387 947;64918677360;Supermodelka
+OSOBA_476;Damian;Matyjaszek;Japanese;Konin;91 Jadwigi;83-437;+48 97 675 08 54;61041567602;Strażak
+OSOBA_477;Anna;Maria;Polish;Pszczyna;18 Warynskiego;79-480;+48 527 963 062;57236530825;Intendent
+OSOBA_478;Olga;Doroba;Norwegian;Pruszcz Gdański;45 Szczesliwa;21-841;+48 888 153 456;88281440126;Likwidator szkód
+OSOBA_479;Aurelia;Maculewicz;Portugal;Nowa Ruda;72 Rejtana;06-161;+48 11 775 74 88;10735386513;Zoopsycholog
+OSOBA_480;Kornel;Nikel;Polish;Piastów;49 Wyspianskiego;63-266;+48 797 853 333;66128547721;Doradca podatkowy w Polsce
+OSOBA_481;Franciszek;Heba;Polish;Bytom;91 Borowa;64-411;+48 84 018 01 07;30024087447;Technik nawigator morski
+OSOBA_482;Krystian;Sakwa;Czech;Jawor;70 Rolnicza;57-163;+48 812 361 384;55912685457;Pakowacz
+OSOBA_483;Gaja;Roda;German;Brzeg;16 Kusocinskiego;21-073;+48 674 484 485;73053933457;Dżokej
+OSOBA_484;Róża;Nowotnik;German;Bochnia;07 Wrzosowa;76-765;+48 578 930 440;46643974638;Technik żywienia i gospodarstwa domowego
+OSOBA_485;Kaja;Sołek;Polish;Opole;69 Rumiankowa;03-746;+48 617 743 022;81064359836;Aktor dziecięcy
+OSOBA_486;Leon;Zębik;German;Myszków;13 Kochanowskiego;88-521;+48 754 849 305;73806286752;Bankowiec
+OSOBA_487;Julianna;Ochal;Danish;Gliwice;37 Slowackiego;36-205;+48 39 578 40 72;51169679274;Model
+OSOBA_488;Ignacy;Brańka;Polish;Kielce;94 Korczaka;30-511;+48 718 256 578;16320171957;Broker
+OSOBA_489;Monika;Kubanek;English;Tomaszów Mazowiecki;36 Towarowa;02-945;+48 620 071 016;90717159343;Hycel
+OSOBA_490;Urszula;Więcławek;USA;Tarnowskie Góry;88 Wysoka;35-444;+48 814 745 041;78171066291;Koniarze
+OSOBA_491;Julita;Kopij;Czech;Wrocław;87 Rubinowa;72-216;+48 540 767 705;76302364600;Koniarze
+OSOBA_492;Marek;Starzak;Polish;Wągrowiec;22 Wspólna;60-003;+48 641 186 875;47012939712;Aktor
+OSOBA_493;Lidia;Dziełak;Lithuanian;Racibórz;12 Stroma;04-313;+48 624 549 305;75045121997;Doradca ubezpieczeniowy
+OSOBA_494;Nikodem;Wijata;Hindi;Żary;22 Topolowa;16-718;+48 732 185 651;41334876120;Architekt wnętrz
+OSOBA_495;Marcin;Cetera;USA;Kościan;55 Mlynarska;32-698;+48 37 757 40 71;70504413142;Geolog
+OSOBA_496;Fabian;Nocek;Taiwan;Świecie;58 Jezynowa;76-438;+48 675 590 850;46311843806;Animator kultury
+OSOBA_497;Bruno;Rode;Polish;Świdnik;02 Armii Krajowej;84-066;+48 743 695 511;61753497563;Makler giełd towarowych
+OSOBA_498;Julianna;Kędziorek;Bulgarian;Świętochłowice;73 Powstanców Wielkopolskich;49-131;+48 617 928 952;45182711785;Konsjerż
+OSOBA_499;Juliusz;Słoń;Norwegian;Tarnowskie Góry;89 Kasztanowa;87-857;+48 685 430 070;79661606889;Aktor głosowy
+OSOBA_500;Nataniel;Żelazo;Korean;Oświęcim;46 Szewska;90-759;+48 855 544 425;39701546995;Agronom

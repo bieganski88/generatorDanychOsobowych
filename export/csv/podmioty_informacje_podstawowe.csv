@@ -1,0 +1,251 @@
+id_podmiotu;nazwa_podmiotu;regon;numer_KRS;NIP;data_rejestracji;forma_prawna;kapital_wlasny;dziedzina;dominujaca dzialalnosc
+PODMIOT_1;Gruszczyk-Labudda;460602731;00000012460;Polish-1304913529;1992-05-22T00:00:00+01:00;spółka komandytowa;10000;G;PKD 46.32.Z
+PODMIOT_2;Ciećko Ltd;567652255;00000006903;Polish-2232474451;1995-03-18T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;5000;C;PKD 25.40.Z
+PODMIOT_3;Galuba, Gabryszak and Stachów;796422954;00000095334;Polish-9872032004;2002-09-20T00:00:00+01:00;spółka akcyjna;500000;N;PKD 77.40.Z
+PODMIOT_4;Duszczyk and Sons;brak danych;brak danych;Persian-9568423467;2013-12-13T00:00:00+01:00;brak danych;brak danych;C;PKD 23.13.Z
+PODMIOT_5;Ważny-Rozum;brak danych;brak danych;Portugal-5083734367;2010-03-08T00:00:00+01:00;brak danych;brak danych;Q;PKD 88.91.Z
+PODMIOT_6;Jaremek-Pyzel;824684549;00000058695;Polish-7949216356;1987-03-11T00:00:00+01:00;spółka cywilna;25000;A;PKD 01.22.Z
+PODMIOT_7;Heinrich-Cierpka;brak danych;brak danych;Hindi-7096416044;1970-10-21T00:00:00+01:00;brak danych;brak danych;D;PKD 35.22.Z
+PODMIOT_8;Ziajka-Ciochoń;brak danych;brak danych;Danish-8396149530;2009-11-29T00:00:00+01:00;brak danych;brak danych;J;PKD 61.20.Z
+PODMIOT_9;Mortka Inc;627726438;00000004242;Polish-6567083341;1974-03-12T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;50000;H;PKD 52.22.A
+PODMIOT_10;Zbrożek Inc;669235386;00000134279;Polish-8543128300;1987-05-28T00:00:00+01:00;spółka akcyjna;100000;I;PKD 55.10.Z
+PODMIOT_11;Walo Group;brak danych;brak danych;USA-8389676458;1972-08-05T00:00:00+01:00;brak danych;brak danych;S;PKD 96.03.Z
+PODMIOT_12;Kołtuniak, Surdel and Dzienis;736499998;00000413873;Polish-9257099935;1977-01-24T00:00:00+01:00;europejska spółka wzajemna;1000000;J;PKD 58.13.Z
+PODMIOT_13;Hinca, Bawoł and Dzienis;brak danych;brak danych;Canada-4757583494;1983-11-08T00:00:00+01:00;brak danych;brak danych;C;PKD 14.12.Z
+PODMIOT_14;Adrian, Budniak and Terka;998546648;00000023014;Polish-2722682240;1971-07-29T00:00:00+01:00;spółka akcyjna;500000;C;PKD 15.11.Z
+PODMIOT_15;Czosnyka PLC;465055883;00000009163;Polish-2464079596;2009-03-15T00:00:00+01:00;spółka komandytowo-akcyjna;250000;K;PKD 64.91.Z
+PODMIOT_16;Kusa Group;707859726;00000066073;Polish-1855831968;2000-09-18T00:00:00+01:00;spółka komandytowa;25000;A;PKD 01.49.Z
+PODMIOT_17;Piwowarek, Osial and Syldatk;276915688;00000697060;Polish-9616363853;2001-03-02T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;5000;C;PKD 23.44.Z
+PODMIOT_18;Klemczak Ltd;brak danych;brak danych;Australia-7446607952;1999-05-04T00:00:00+01:00;brak danych;brak danych;G;PKD 46.11.Z
+PODMIOT_19;Żmija LLC;brak danych;brak danych;Italian-3844806548;1998-03-10T00:00:00+01:00;brak danych;brak danych;C;PKD 11.06.Z
+PODMIOT_20;Durlak-Prokopiak;brak danych;brak danych;Russian-6945667699;1976-08-13T00:00:00+01:00;brak danych;brak danych;B;PKD 05.10.Z
+PODMIOT_21;Murach-Korab;brak danych;brak danych;Portugal-3292747226;1983-05-29T00:00:00+01:00;brak danych;brak danych;O;PKD 84.22.Z
+PODMIOT_22;Moniuszko, Ślebioda and Kopij;brak danych;brak danych;Czech-4881113426;2012-07-06T00:00:00+01:00;brak danych;brak danych;F;PKD 41.20.Z
+PODMIOT_23;Jarczyk Group;464271509;00000503304;Polish-2849913395;2002-06-03T00:00:00+01:00;spółka jawna;250000;D;PKD 35.21.Z
+PODMIOT_24;Chachaj, Krzywoń and Jeżyna;223526790;00000065429;Polish-6786686335;1980-01-19T00:00:00+01:00;spółka cywilna;100000;C;PKD 20.13.Z
+PODMIOT_25;Brachman PLC;164267701;00000004903;Polish-7880157914;1984-01-14T00:00:00+01:00;spółka jawna;50000;C;PKD 16.21.Z
+PODMIOT_26;Pawela-Czerepak;brak danych;brak danych;Finnish-4854324001;1973-10-24T00:00:00+01:00;brak danych;brak danych;H;PKD 52.24.C
+PODMIOT_27;Waraksa Group;brak danych;brak danych;Portugal-7597810450;2008-05-08T00:00:00+01:00;brak danych;brak danych;C;PKD 12.00.Z
+PODMIOT_28;Wijata and Sons;brak danych;brak danych;Taiwan-9417626385;2004-02-25T00:00:00+01:00;brak danych;brak danych;G;PKD 46.41.Z
+PODMIOT_29;Paczos and Sons;938564417;00000576139;Polish-3740958032;2000-08-04T00:00:00+01:00;spółka komandytowa;1000000;C;PKD 18.14.Z
+PODMIOT_30;Sakwa, Krzempek and Ankiewicz;532902989;00000957570;Polish-3099519593;1970-08-31T00:00:00+01:00;spółdzielnia;100000;G;PKD 45.11.Z
+PODMIOT_31;Mikołajewicz and Sons;brak danych;brak danych;Dutch-1826206311;1991-05-22T00:00:00+01:00;brak danych;brak danych;P;PKD 85.20.Z
+PODMIOT_32;Suszka-Wichary;brak danych;brak danych;Spanish-9927148217;1999-09-04T00:00:00+01:00;brak danych;brak danych;C;PKD 23.13.Z
+PODMIOT_33;Patrzałek-Ziajka;386625258;00000008168;Polish-4106955687;2012-03-09T00:00:00+01:00;spółka komandytowo-akcyjna;50000;C;PKD 10.72.Z
+PODMIOT_34;Lemieszek-Krakowczyk;brak danych;brak danych;Slovene-7989432095;1977-04-14T00:00:00+01:00;brak danych;brak danych;C;PKD 24.43.Z
+PODMIOT_35;Urynowicz LLC;brak danych;brak danych;Norwegian-3843966356;1991-02-06T00:00:00+01:00;brak danych;brak danych;C;PKD 13.20.A
+PODMIOT_36;Czosnyka Ltd;719871505;00000715010;Polish-3882534193;1974-03-05T00:00:00+01:00;spółdzielnia;10000;C;PKD 32.11.Z
+PODMIOT_37;Pawliczek and Sons;812660877;00000802971;Polish-5692445458;1992-06-01T00:00:00+01:00;przedsiębiorstwo prywatne osoby fizycznej;50000;N;PKD 77.35.Z
+PODMIOT_38;Drgas and Sons;brak danych;brak danych;Finnish-6343668841;2009-11-27T00:00:00+01:00;brak danych;brak danych;F;PKD 42.21.Z
+PODMIOT_39;Jachimczyk-Mik;brak danych;brak danych;Dutch-1150693815;2000-01-18T00:00:00+01:00;brak danych;brak danych;C;PKD 13.95.Z
+PODMIOT_40;Reiter Group;brak danych;brak danych;Spanish-5897687389;2010-11-23T00:00:00+01:00;brak danych;brak danych;C;PKD 33.12.Z
+PODMIOT_41;Grosz, Mulawa and Fidler;brak danych;brak danych;Czech-9251828971;2012-06-11T00:00:00+01:00;brak danych;brak danych;A;PKD 01.62.Z
+PODMIOT_42;Miszkurka and Sons;brak danych;brak danych;Czech-9393778390;1977-04-10T00:00:00+01:00;brak danych;brak danych;A;PKD 01.14.Z
+PODMIOT_43;Kik-Ćwirko;brak danych;brak danych;French-7195548240;1983-07-19T00:00:00+01:00;brak danych;brak danych;F;PKD 43.12.Z
+PODMIOT_44;Kilar Inc;224669190;00000007109;Polish-6392656223;1975-12-04T00:00:00+01:00;europejska spółka prywatna;25000;C;PKD 16.24.Z
+PODMIOT_45;Kasak-Gradek;brak danych;brak danych;Czech-2133524401;1999-09-07T00:00:00+01:00;brak danych;brak danych;C;PKD 23.14.Z
+PODMIOT_46;Murat Inc;268053922;00000605887;Polish-4072478109;2010-09-18T00:00:00+01:00;spółka komandytowa;50000;C;PKD 28.93.Z
+PODMIOT_47;Ruchała, Fedorczyk and Pyda;brak danych;brak danych;Nepali-3128620924;2005-10-08T00:00:00+01:00;brak danych;brak danych;F;PKD 43.91.Z
+PODMIOT_48;Fechner PLC;brak danych;brak danych;Turkish-5540557447;1998-12-01T00:00:00+01:00;brak danych;brak danych;P;PKD 85.41.Z
+PODMIOT_49;Prażuch, Urynowicz and Zaucha;brak danych;brak danych;Australia-3197787366;1978-11-23T00:00:00+01:00;brak danych;brak danych;N;PKD 77.33.Z
+PODMIOT_50;Pruchnik, Starzak and Legutko;764022530;00000925594;Polish-3368020537;1983-08-01T00:00:00+01:00;spółka komandytowa;5000;C;PKD 16.23.Z
+PODMIOT_51;Meissner, Pleśniak and Siergiej;927178252;00000075986;Polish-4234857269;1995-10-12T00:00:00+01:00;przedsiębiorstwo państwowe;50000;C;PKD 22.22.Z
+PODMIOT_52;Westfal Inc;727956744;00000255881;Polish-6877606974;2009-10-17T00:00:00+01:00;spółka partnerska;1000000;C;PKD 24.54.A
+PODMIOT_53;Merda, Domowicz and Berendt;brak danych;brak danych;Japanese-9940730348;1982-07-07T00:00:00+01:00;brak danych;brak danych;C;PKD 28.93.Z
+PODMIOT_54;Fitrzyk, Wrześniak and Kawula;brak danych;brak danych;Portugal-8549347440;1971-01-16T00:00:00+01:00;brak danych;brak danych;C;PKD 20.14.Z
+PODMIOT_55;Bejm, Plak and Stiller;brak danych;brak danych;Czech-9084337914;1973-06-30T00:00:00+01:00;brak danych;brak danych;C;PKD 13.10.B
+PODMIOT_56;Damek, Klinkosz and Lewicz;873486647;00000006119;Polish-7195776188;1970-01-29T00:00:00+01:00;spółka partnerska;25000;R;PKD 93.21.Z
+PODMIOT_57;Brachaczek Ltd;681239972;00000041483;Polish-6637009575;1977-05-25T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;50000;C;PKD 33.13.Z
+PODMIOT_58;Skolik-Gryka;brak danych;brak danych;Slovene-8342117979;1984-02-08T00:00:00+01:00;brak danych;brak danych;C;PKD 23.70.Z
+PODMIOT_59;Parus Ltd;325609175;00000006424;Polish-4055538642;2007-12-19T00:00:00+01:00;spółka akcyjna;1000000;G;PKD 46.12.Z
+PODMIOT_60;Czulak, Bender and Jarmuż;819738878;00000584318;Polish-4634757689;1997-07-28T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;25000;A;PKD 01.16.Z
+PODMIOT_61;Cofała, Hendzel and Łepek;906943513;00000573410;Polish-6876548648;2003-01-13T00:00:00+01:00;spółka akcyjna;500000;I;PKD 56.29.Z
+PODMIOT_62;Garncarek, Szambelan and Kandora;943734485;00000528954;Polish-4176994155;1989-09-17T00:00:00+01:00;przedsiębiorstwo państwowe;10000;S;PKD 95.24.Z
+PODMIOT_63;Pawełko, Romaniak and Kuchciak;brak danych;brak danych;Portugal-4259530180;2013-02-16T00:00:00+01:00;brak danych;brak danych;G;PKD 46.18.Z
+PODMIOT_64;Wylegała PLC;brak danych;brak danych;Russian-3756927933;2012-09-06T00:00:00+01:00;brak danych;brak danych;C;PKD 28.13.Z
+PODMIOT_65;Bzdęga, Początek and Tadeusiak;brak danych;brak danych;French-3272219010;1977-07-21T00:00:00+01:00;brak danych;brak danych;C;PKD 33.15.Z
+PODMIOT_66;Mądro-Wawrzynowicz;983786730;00000066314;Polish-6212838805;1970-09-11T00:00:00+01:00;przedsiębiorstwo państwowe;25000;J;PKD 59.12.Z
+PODMIOT_67;Mokwa Inc;brak danych;brak danych;Portugal-3108656439;2008-10-02T00:00:00+01:00;brak danych;brak danych;R;PKD 93.13.Z
+PODMIOT_68;Dulik PLC;390133598;00000069269;Polish-4915810033;2001-05-31T00:00:00+01:00;spółka jawna;500000;C;PKD 10.72.Z
+PODMIOT_69;Pyza, Jędruszczak and Krefta;216170002;00000076279;Polish-8847308782;1979-10-06T00:00:00+01:00;spółka akcyjna;100000;A;PKD 01.23.Z
+PODMIOT_70;Helak Inc;brak danych;brak danych;Korean-7889045909;1981-03-31T00:00:00+01:00;brak danych;brak danych;G;PKD 47.25.Z
+PODMIOT_71;Lelito Ltd;brak danych;brak danych;German-9671499221;1989-01-22T00:00:00+01:00;brak danych;brak danych;E;PKD 38.12.Z
+PODMIOT_72;Micał and Sons;brak danych;brak danych;Australia-9591790612;2003-04-08T00:00:00+01:00;brak danych;brak danych;K;PKD 66.21.Z
+PODMIOT_73;Szrama, Łuszczak and Żugaj;brak danych;brak danych;Japanese-7141089253;1994-02-23T00:00:00+01:00;brak danych;brak danych;C;PKD 17.23.Z
+PODMIOT_74;Krzyśko, Andreasik and Potoczna;639952289;00000020964;Polish-8286398522;2006-10-17T00:00:00+01:00;przedsiębiorstwo państwowe;250000;A;PKD 01.22.Z
+PODMIOT_75;Kożuszek-Orawiec;brak danych;brak danych;Persian-4540326121;2016-06-26T00:00:00+01:00;brak danych;brak danych;K;PKD 65.30.Z
+PODMIOT_76;Kondej LLC;975461565;00000008423;Polish-7177233632;1984-06-14T00:00:00+01:00;przedsiębiorstwo prywatne osoby fizycznej;10000;N;PKD 79.90.A
+PODMIOT_77;Skup-Skowyra;brak danych;brak danych;Slovene-9477751929;2015-03-05T00:00:00+01:00;brak danych;brak danych;A;PKD 01.64.Z
+PODMIOT_78;Maślankiewicz, Deptuch and Fijałek;929794601;00000058425;Polish-4813073418;2008-06-15T00:00:00+01:00;spółka jawna;5000;A;PKD 01.63.Z
+PODMIOT_79;Bielat Inc;brak danych;brak danych;Bulgarian-3645026380;1998-08-13T00:00:00+01:00;brak danych;brak danych;C;PKD 16.10.Z
+PODMIOT_80;Przerwa-Frost;brak danych;brak danych;Norwegian-3676897472;1974-03-31T00:00:00+01:00;brak danych;brak danych;O;PKD 84.21.Z
+PODMIOT_81;Hadała, Stachewicz and Teodorowicz;brak danych;brak danych;Norwegian-1232086688;1998-07-14T00:00:00+01:00;brak danych;brak danych;E;PKD 39.00.Z
+PODMIOT_82;Wojsa Ltd;brak danych;brak danych;Finnish-9697076714;1972-09-06T00:00:00+01:00;brak danych;brak danych;C;PKD 31.02.Z
+PODMIOT_83;Faruga PLC;brak danych;brak danych;Greek-5119532297;1988-05-30T00:00:00+01:00;brak danych;brak danych;N;PKD 79.90.A
+PODMIOT_84;Orkisz-Śliz;brak danych;brak danych;German-6451767735;1972-12-24T00:00:00+01:00;brak danych;brak danych;C;PKD 13.93.Z
+PODMIOT_85;Dyjas, Konat and Miros;brak danych;brak danych;Swedish-1080289344;1980-06-04T00:00:00+01:00;brak danych;brak danych;C;PKD 13.20.C
+PODMIOT_86;Bartuś Group;brak danych;brak danych;Greek-4451571072;1974-07-06T00:00:00+01:00;brak danych;brak danych;H;PKD 52.21.Z
+PODMIOT_87;Saran-Wygoda;brak danych;brak danych;Finnish-9227989765;1991-10-11T00:00:00+01:00;brak danych;brak danych;S;PKD 95.21.Z
+PODMIOT_88;Kalota-Wydmuch;brak danych;brak danych;Mexico-6952231253;2004-06-28T00:00:00+01:00;brak danych;brak danych;I;PKD 56.29.Z
+PODMIOT_89;Jarczyk and Sons;986933739;00000418175;Polish-5772055819;2007-09-27T00:00:00+01:00;spółdzielnia;100000;C;PKD 20.59.Z
+PODMIOT_90;Bohdanowicz, Sierżant and Trybus;837366894;00000004806;Polish-2123780901;2011-01-19T00:00:00+01:00;fundacja;100000;K;PKD 65.12.Z
+PODMIOT_91;Gorgol Group;brak danych;brak danych;Russian-1523831323;2015-07-21T00:00:00+01:00;brak danych;brak danych;C;PKD 23.99.Z
+PODMIOT_92;Cebulak-Wiewiórka;590436230;00000255513;Polish-8719747286;1988-12-07T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;25000;C;PKD 19.20.Z
+PODMIOT_93;Leśny, Skrobot and Nalewajek;650326340;00000062712;Polish-7792081100;1976-02-20T00:00:00+01:00;spółka jawna;1000000;A;PKD 01.24.Z
+PODMIOT_94;Honkisz Group;201159601;00000001698;Polish-2000253044;2007-01-02T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;5000;C;PKD 28.11.Z
+PODMIOT_95;Goj Ltd;992110921;00000121681;Polish-3841294042;1998-01-09T00:00:00+01:00;przedsiębiorstwo prywatne osoby fizycznej;250000;A;PKD 01.16.Z
+PODMIOT_96;Pietraś, Wlaźlak and Micał;609674649;00000648347;Polish-1752073284;2011-04-24T00:00:00+01:00;spółka komandytowo-akcyjna;100000;C;PKD 28.93.Z
+PODMIOT_97;Śledzik Inc;brak danych;brak danych;Dutch-5180449482;2010-04-21T00:00:00+01:00;brak danych;brak danych;G;PKD 46.38.Z
+PODMIOT_98;Koperek-Głowienka;507316529;00000005425;Polish-6255061163;1977-10-09T00:00:00+01:00;fundacja;100000;C;PKD 26.30.Z
+PODMIOT_99;Hajder, Słupek and Filek;brak danych;brak danych;Mexico-6593265624;1988-09-06T00:00:00+01:00;brak danych;brak danych;C;PKD 23.63.Z
+PODMIOT_100;Halik Inc;333856513;00000002404;Polish-6513656708;1981-09-02T00:00:00+01:00;spółka komandytowo-akcyjna;50000;G;PKD 46.38.Z
+PODMIOT_101;Łasica and Sons;brak danych;brak danych;Danish-8364603842;1999-02-02T00:00:00+01:00;brak danych;brak danych;G;PKD 46.17.Z
+PODMIOT_102;Kwoka LLC;728124537;00000009894;Polish-3989759026;2000-06-24T00:00:00+01:00;spółka komandytowa;10000;C;PKD 26.70.Z
+PODMIOT_103;Nieradko-Grzeszkowiak;brak danych;brak danych;Italian-2763785215;2002-02-12T00:00:00+01:00;brak danych;brak danych;N;PKD 79.12.Z
+PODMIOT_104;Hajda-Pesta;brak danych;brak danych;Russian-5288772609;1987-08-29T00:00:00+01:00;brak danych;brak danych;N;PKD 79.11.B
+PODMIOT_105;Tylka LLC;brak danych;brak danych;Japanese-9198262930;2016-04-10T00:00:00+01:00;brak danych;brak danych;G;PKD 46.24.Z
+PODMIOT_106;Wierzchoń, Gołek and Żok;brak danych;brak danych;Dutch-5797992880;2007-11-12T00:00:00+01:00;brak danych;brak danych;C;PKD 10.20.Z
+PODMIOT_107;Kamieniak, Sromek and Filus;147196236;00000193131;Polish-7890705441;1990-05-31T00:00:00+01:00;spółdzielnia;25000;C;PKD 10.13.Z
+PODMIOT_108;Padło-Gumienny;brak danych;brak danych;Japanese-1700409536;1978-04-21T00:00:00+01:00;brak danych;brak danych;F;PKD 43.99.Z
+PODMIOT_109;Kościuszko-Ludwiniak;602598141;00000004628;Polish-7572123322;1996-06-08T00:00:00+01:00;spółka akcyjna;100000;G;PKD 47.77.Z
+PODMIOT_110;Łabno-Jałowiec;brak danych;brak danych;Russian-3287921348;2016-11-20T00:00:00+01:00;brak danych;brak danych;R;PKD 92.00.Z
+PODMIOT_111;Dyda PLC;brak danych;brak danych;Italian-5130676922;1998-05-09T00:00:00+01:00;brak danych;brak danych;C;PKD 32.13.Z
+PODMIOT_112;Staniaszek and Sons;149900478;00000459087;Polish-6436373156;1990-01-04T00:00:00+01:00;spółka partnerska;100000;C;PKD 10.92.Z
+PODMIOT_113;Sydor, Dulewicz and Jajko;brak danych;brak danych;Portugal-2019808812;1972-04-15T00:00:00+01:00;brak danych;brak danych;C;PKD 20.15.Z
+PODMIOT_114;Skoneczna-Fiedorczuk;906378295;00000067091;Polish-8963935533;1987-05-07T00:00:00+01:00;spółka akcyjna;100000;G;PKD 46.39.Z
+PODMIOT_115;Bortkiewicz, Jałowiec and Kidoń;682643818;00000678973;Polish-2772356117;1997-09-30T00:00:00+01:00;przedsiębiorstwo prywatne osoby fizycznej;100000;C;PKD 22.23.Z
+PODMIOT_116;Józefczak, Oskroba and Zimoląg;brak danych;brak danych;Lithuanian-2504759430;2001-10-21T00:00:00+01:00;brak danych;brak danych;C;PKD 13.91.Z
+PODMIOT_117;Staręga, Szaj and Waluk;500569641;00000766238;Polish-3270926269;1983-01-21T00:00:00+01:00;spółka komandytowo-akcyjna;100000;D;PKD 35.21.Z
+PODMIOT_118;Wyroba, Kucharz and Drwięga;brak danych;brak danych;Slovene-5117893022;1993-05-07T00:00:00+01:00;brak danych;brak danych;G;PKD 46.15.Z
+PODMIOT_119;Drobisz PLC;257283987;00000028501;Polish-8500071869;1990-08-28T00:00:00+01:00;spółka komandytowa;100000;S;PKD 94.92.Z
+PODMIOT_120;Choroś Ltd;732035983;00000383803;Polish-5891393505;1972-03-23T00:00:00+01:00;spółdzielnia;50000;F;PKD 42.12.Z
+PODMIOT_121;Andruszko LLC;brak danych;brak danych;Swedish-1069258767;1976-09-22T00:00:00+01:00;brak danych;brak danych;A;PKD 01.70.Z
+PODMIOT_122;Soczówka Inc;230955198;00000002233;Polish-8833393507;1988-10-08T00:00:00+01:00;spółka komandytowa;250000;C;PKD 30.30.Z
+PODMIOT_123;Parkitny, Mrotek and Bartłomiejczyk;388267633;00000006304;Polish-4256758942;2011-10-28T00:00:00+01:00;spółka cywilna;25000;B;PKD 06.10.Z
+PODMIOT_124;Budniak-Puto;brak danych;brak danych;Hindi-9728221265;1987-03-21T00:00:00+01:00;brak danych;brak danych;C;PKD 33.15.Z
+PODMIOT_125;Bender-Zaranek;brak danych;brak danych;Lithuanian-4194062367;1990-07-07T00:00:00+01:00;brak danych;brak danych;C;PKD 20.30.Z
+PODMIOT_126;Gryszkiewicz, Eckert and Sztuczka;brak danych;brak danych;Greek-4178290240;2011-07-03T00:00:00+01:00;brak danych;brak danych;G;PKD 46.11.Z
+PODMIOT_127;Barczuk-Wałaszek;brak danych;brak danych;Mexico-3725752556;1973-04-07T00:00:00+01:00;brak danych;brak danych;B;PKD 06.20.Z
+PODMIOT_128;Molak Group;brak danych;brak danych;Mexico-5200789420;1972-10-06T00:00:00+01:00;brak danych;brak danych;N;PKD 79.90.B
+PODMIOT_129;Klisz-Kryszczuk;929996440;00000044973;Polish-9249603052;1990-04-23T00:00:00+01:00;spółka cywilna;5000;C;PKD 33.11.Z
+PODMIOT_130;Szramka, Karalus and Lesner;brak danych;brak danych;Danish-3615773669;1999-07-01T00:00:00+01:00;brak danych;brak danych;S;PKD 96.01.Z
+PODMIOT_131;Huczko-Domka;brak danych;brak danych;USA-4567835923;2003-12-18T00:00:00+01:00;brak danych;brak danych;N;PKD 81.30.Z
+PODMIOT_132;Oczkowicz, Młotek and Rogula;333019622;00000051008;Polish-5549578178;1973-06-04T00:00:00+01:00;spółka cywilna;100000;D;PKD 35.12.Z
+PODMIOT_133;Kurnik-Wojsa;brak danych;brak danych;Mexico-9075439615;2012-05-06T00:00:00+01:00;brak danych;brak danych;K;PKD 66.12.Z
+PODMIOT_134;Policht, Lew and Kościelak;194150855;00000089358;Polish-7170667735;1984-06-10T00:00:00+01:00;spółka komandytowa;1000000;C;PKD 29.20.Z
+PODMIOT_135;Panicz and Sons;brak danych;brak danych;USA-6919127802;1977-03-17T00:00:00+01:00;brak danych;brak danych;C;PKD 23.70.Z
+PODMIOT_136;Gilewicz, Pochroń and Rutowicz;brak danych;brak danych;Italian-3269982150;2013-03-18T00:00:00+01:00;brak danych;brak danych;C;PKD 20.60.Z
+PODMIOT_137;Szmuc PLC;brak danych;brak danych;English-8124693260;2014-05-19T00:00:00+01:00;brak danych;brak danych;C;PKD 30.92.Z
+PODMIOT_138;Mućka-Hrynkiewicz;brak danych;brak danych;Italian-1828454616;2010-05-28T00:00:00+01:00;brak danych;brak danych;C;PKD 23.61.Z
+PODMIOT_139;Siwa LLC;533860187;00000002719;Polish-8895842338;1978-10-23T00:00:00+01:00;spółka komandytowo-akcyjna;100000;N;PKD 77.31.Z
+PODMIOT_140;Ryczko-Tofil;brak danych;brak danych;Taiwan-5892703913;2012-03-13T00:00:00+01:00;brak danych;brak danych;C;PKD 23.49.Z
+PODMIOT_141;Pudełek, Samulak and Wojtach;210708423;00000284690;Polish-5941150013;2009-12-29T00:00:00+01:00;spółka cywilna;5000;G;PKD 46.33.Z
+PODMIOT_142;Sztaba-Myrcha;brak danych;brak danych;German-6389541042;1993-05-17T00:00:00+01:00;brak danych;brak danych;G;PKD 46.36.Z
+PODMIOT_143;Kochman, Sabak and Kołtuniak;brak danych;brak danych;USA-5325801140;2006-02-20T00:00:00+01:00;brak danych;brak danych;G;PKD 47.65.Z
+PODMIOT_144;Gradek-Palej;brak danych;brak danych;Swedish-2453683532;1973-01-15T00:00:00+01:00;brak danych;brak danych;J;PKD 62.03.Z
+PODMIOT_145;Krochmal LLC;801377220;00000672548;Polish-7447037681;1985-08-02T00:00:00+01:00;spółka cywilna;50000;C;PKD 20.53.Z
+PODMIOT_146;Łapot-Bernard;brak danych;brak danych;Czech-3884038682;1974-03-28T00:00:00+01:00;brak danych;brak danych;G;PKD 47.73.Z
+PODMIOT_147;Nazimek-Ciechowicz;brak danych;brak danych;Canada-5242027577;2009-12-17T00:00:00+01:00;brak danych;brak danych;Q;PKD 86.90.B
+PODMIOT_148;Langa Group;brak danych;brak danych;Danish-6954708110;1976-08-01T00:00:00+01:00;brak danych;brak danych;C;PKD 23.12.Z
+PODMIOT_149;Mikus-Słomiany;brak danych;brak danych;Canada-9628750834;1987-09-29T00:00:00+01:00;brak danych;brak danych;K;PKD 65.12.Z
+PODMIOT_150;Sugier-Ryznar;brak danych;brak danych;Dutch-6989999803;2004-04-13T00:00:00+01:00;brak danych;brak danych;F;PKD 43.99.Z
+PODMIOT_151;Boguta Ltd;137299211;00000002522;Polish-1842097012;1996-01-30T00:00:00+01:00;spółka akcyjna;500000;G;PKD 46.42.Z
+PODMIOT_152;Wolan-Lemiesz;brak danych;brak danych;Dutch-6750377870;1988-10-18T00:00:00+01:00;brak danych;brak danych;C;PKD 22.11.Z
+PODMIOT_153;Miękina Group;brak danych;brak danych;Slovene-8048995843;1982-06-29T00:00:00+01:00;brak danych;brak danych;M;PKD 70.22.Z
+PODMIOT_154;Jędra, Łasak and Martynowicz;brak danych;brak danych;Canada-5562924025;2016-09-01T00:00:00+01:00;brak danych;brak danych;G;PKD 47.23.Z
+PODMIOT_155;Rakus LLC;966003163;00000072411;Polish-7744915524;1982-12-16T00:00:00+01:00;przedsiębiorstwo państwowe;1000000;G;PKD 47.91.Z
+PODMIOT_156;Hennig-Bobrowicz;280257762;00000403230;Polish-6095629524;2010-03-21T00:00:00+01:00;spółka komandytowo-akcyjna;50000;J;PKD 58.14.Z
+PODMIOT_157;Knapek Inc;527176828;00000001462;Polish-5239746256;2000-03-02T00:00:00+01:00;spółka jawna;5000;A;PKD 01.28.Z
+PODMIOT_158;Fidler, Domian and Opoka;brak danych;brak danych;Czech-3063259672;1983-06-04T00:00:00+01:00;brak danych;brak danych;E;PKD 38.31.Z
+PODMIOT_159;Korzeniak, Czajor and Stanisławczyk;brak danych;brak danych;Nepali-1287303520;2003-12-01T00:00:00+01:00;brak danych;brak danych;F;PKD 43.99.Z
+PODMIOT_160;Szalast-Megger;brak danych;brak danych;Brazil-4609866467;1990-03-11T00:00:00+01:00;brak danych;brak danych;P;PKD 85.31.B
+PODMIOT_161;Ciastek, Rut and Sobków;556256708;00000007767;Polish-2431715609;2016-08-30T00:00:00+01:00;spółka komandytowa;500000;K;PKD 65.11.Z
+PODMIOT_162;Sydor, Famuła and Węgier;brak danych;brak danych;Dutch-9819685266;1981-03-06T00:00:00+01:00;brak danych;brak danych;G;PKD 47.71.Z
+PODMIOT_163;Jambor Ltd;861285510;00000008924;Polish-8235736713;1972-02-03T00:00:00+01:00;spółka jawna;250000;A;PKD 02.10.Z
+PODMIOT_164;Duczek Inc;brak danych;brak danych;Swedish-4091790204;1983-05-29T00:00:00+01:00;brak danych;brak danych;N;PKD 77.34.Z
+PODMIOT_165;Budkiewicz-Wiercigroch;brak danych;brak danych;Czech-4423938477;1976-03-16T00:00:00+01:00;brak danych;brak danych;J;PKD 59.12.Z
+PODMIOT_166;Pompa-Jamrożek;628450004;00000566049;Polish-5328374997;2005-07-10T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;25000;K;PKD 64.20.Z
+PODMIOT_167;Micał, Dargacz and Melaniuk;brak danych;brak danych;Mexico-2446841208;1974-03-06T00:00:00+01:00;brak danych;brak danych;J;PKD 61.30.Z
+PODMIOT_168;Matulewicz, Klaus and Margol;734297871;00000008770;Polish-2527944007;1992-02-03T00:00:00+01:00;spółka komandytowa;25000;M;PKD 74.10.Z
+PODMIOT_169;Weremczuk-Szeja;brak danych;brak danych;Australia-7256205015;2015-12-12T00:00:00+01:00;brak danych;brak danych;K;PKD 65.12.Z
+PODMIOT_170;Bzdęga-Fogiel;438255005;00000064897;Polish-3293340722;2009-05-04T00:00:00+01:00;spółka jawna;25000;G;PKD 47.76.Z
+PODMIOT_171;Kasperczak-Szymula;brak danych;brak danych;English-7453982467;2007-07-02T00:00:00+01:00;brak danych;brak danych;C;PKD 23.11.Z
+PODMIOT_172;Weremczuk, Barankiewicz and Garczarek;300286116;00000248913;Polish-8912593548;1994-09-13T00:00:00+01:00;spółka komandytowo-akcyjna;50000;Q;PKD 86.90.C
+PODMIOT_173;Wacławiak, Woroch and Koziatek;446828200;00000057146;Polish-2328763585;1979-01-01T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;25000;C;PKD 23.14.Z
+PODMIOT_174;Droździk Inc;712612858;00000046195;Polish-2681750630;2006-07-11T00:00:00+01:00;spółka cywilna;250000;A;PKD 01.11.Z
+PODMIOT_175;Wenda PLC;brak danych;brak danych;English-9404486746;2005-05-13T00:00:00+01:00;brak danych;brak danych;C;PKD 24.41.Z
+PODMIOT_176;Barłóg-Solich;675497331;00000032762;Polish-2678822549;2009-07-10T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;10000;N;PKD 82.99.Z
+PODMIOT_177;Rzeszut, Dzwonnik and Szrama;brak danych;brak danych;Australia-7137497810;2012-07-27T00:00:00+01:00;brak danych;brak danych;R;PKD 91.04.Z
+PODMIOT_178;Kopytko Ltd;brak danych;brak danych;Mexico-2206183390;1993-08-08T00:00:00+01:00;brak danych;brak danych;G;PKD 46.34.A
+PODMIOT_179;Frelek PLC;558006074;00000458397;Polish-6389986873;1980-04-07T00:00:00+01:00;spółdzielnia europejska;1000000;G;PKD 46.41.Z
+PODMIOT_180;Lesik-Stelmasiak;616106517;00000063982;Polish-5369319334;1986-07-09T00:00:00+01:00;spółka partnerska;250000;C;PKD 11.06.Z
+PODMIOT_181;Gorgol, Forysiak and Jakóbik;185081101;00000808896;Polish-5379018893;1992-11-18T00:00:00+01:00;spółka jawna;100000;C;PKD 25.50.Z
+PODMIOT_182;Ochwat Inc;986793037;00000007625;Polish-3138803431;2000-09-24T00:00:00+01:00;spółka komandytowa;250000;Q;PKD 88.10.Z
+PODMIOT_183;Gajdzik, Klamka and Kubaczyk;brak danych;brak danych;China-6087171312;2008-12-17T00:00:00+01:00;brak danych;brak danych;S;PKD 95.11.Z
+PODMIOT_184;Ambrozik Group;737174318;00000051419;Polish-4171144305;2006-10-04T00:00:00+01:00;spółka partnerska;500000;G;PKD 47.73.Z
+PODMIOT_185;Ryszkiewicz, Wiewiórka and Ochał;brak danych;brak danych;French-3676975781;2015-02-15T00:00:00+01:00;brak danych;brak danych;C;PKD 26.30.Z
+PODMIOT_186;Gustaw LLC;brak danych;brak danych;Korean-3873155059;1981-10-14T00:00:00+01:00;brak danych;brak danych;C;PKD 23.52.Z
+PODMIOT_187;Juroszek, Kliszcz and Stanuch;211325629;00000051413;Polish-9104927235;2002-10-03T00:00:00+01:00;spółka partnerska;500000;C;PKD 10.72.Z
+PODMIOT_188;Lejman, Dynak and Leśny;414943994;00000001608;Polish-1296356237;2005-10-08T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;50000;A;PKD 02.30.Z
+PODMIOT_189;Kruzel-Sibiga;brak danych;brak danych;French-6183596936;2001-12-15T00:00:00+01:00;brak danych;brak danych;C;PKD 28.25.Z
+PODMIOT_190;Kościk Inc;962499049;00000784362;Polish-3265548221;1995-07-31T00:00:00+01:00;spółka partnerska;500000;C;PKD 16.29.Z
+PODMIOT_191;Ciuruś-Fita;brak danych;brak danych;Finnish-3266230886;1981-01-27T00:00:00+01:00;brak danych;brak danych;G;PKD 45.31.Z
+PODMIOT_192;Lalak-Wawrzyk;brak danych;brak danych;French-4573287030;2003-09-10T00:00:00+01:00;brak danych;brak danych;E;PKD 37.00.Z
+PODMIOT_193;Janisz-Rubacha;503459545;00000635825;Polish-3179646939;2003-09-13T00:00:00+01:00;spółka jawna;100000;E;PKD 38.12.Z
+PODMIOT_194;Dziuban Ltd;brak danych;brak danych;Turkish-3021731207;2015-04-20T00:00:00+01:00;brak danych;brak danych;R;PKD 91.04.Z
+PODMIOT_195;Staciwa and Sons;brak danych;brak danych;Finnish-5446166978;1989-04-18T00:00:00+01:00;brak danych;brak danych;L;PKD 68.20.Z
+PODMIOT_196;Jarczyk, Ludwisiak and Nojman;brak danych;brak danych;Italian-9787798598;1993-10-03T00:00:00+01:00;brak danych;brak danych;N;PKD 77.11.Z
+PODMIOT_197;Kuk, Broniek and Słoboda;160668834;00000388270;Polish-1585129223;1978-04-15T00:00:00+01:00;spółka komandytowo-akcyjna;100000;F;PKD 42.12.Z
+PODMIOT_198;Dorawa-Fraszczyk;brak danych;brak danych;Taiwan-4110232506;2012-05-13T00:00:00+01:00;brak danych;brak danych;T;PKD 97.00.Z
+PODMIOT_199;Pioch, Furmankiewicz and Kutnik;brak danych;brak danych;Finnish-2001948050;1979-07-13T00:00:00+01:00;brak danych;brak danych;F;PKD 43.91.Z
+PODMIOT_200;Lemanowicz-Hojka;844859163;00000172957;Polish-3819451387;1981-10-19T00:00:00+01:00;spółdzielnia europejska;1000000;G;PKD 46.42.Z
+PODMIOT_201;Kuzia, Miśko and Melcer;425619450;00000982668;Polish-7730846635;2003-08-16T00:00:00+01:00;spółka komandytowo-akcyjna;100000;G;PKD 46.45.Z
+PODMIOT_202;Fik-Pasiak;153857319;00000001300;Polish-6219178565;1975-01-28T00:00:00+01:00;spółka partnerska;50000;P;PKD 85.42.A
+PODMIOT_203;Barczuk LLC;brak danych;brak danych;Dutch-7725447536;1996-03-23T00:00:00+01:00;brak danych;brak danych;C;PKD 13.20.A
+PODMIOT_204;Taciak Ltd;326968255;00000637910;Polish-3629749793;1970-09-19T00:00:00+01:00;spółka akcyjna;1000000;G;PKD 46.14.Z
+PODMIOT_205;Żelasko-Powała;brak danych;brak danych;French-3442345803;2014-09-03T00:00:00+01:00;brak danych;brak danych;F;PKD 43.91.Z
+PODMIOT_206;Pacura Inc;498918947;00000087031;Polish-6626580504;1992-03-03T00:00:00+01:00;spółka partnerska;1000000;C;PKD 29.10.A
+PODMIOT_207;Wardzała LLC;529731441;00000096493;Polish-5974443097;1980-10-27T00:00:00+01:00;spółka cywilna;10000;C;PKD 13.10.A
+PODMIOT_208;Gogola, Nyk and Kalinka;brak danych;brak danych;Turkish-5402883990;1983-11-14T00:00:00+01:00;brak danych;brak danych;C;PKD 28.92.Z
+PODMIOT_209;Ciuruś-Linkiewicz;brak danych;brak danych;Hindi-2178631579;1980-03-19T00:00:00+01:00;brak danych;brak danych;G;PKD 47.29.Z
+PODMIOT_210;Jantos and Sons;477968284;00000056824;Polish-1096186641;1999-04-19T00:00:00+01:00;przedsiębiorstwo prywatne osoby fizycznej;100000;M;PKD 70.10.Z
+PODMIOT_211;Świerad-Darłak;729241370;00000004453;Polish-2055338250;2004-02-20T00:00:00+01:00;fundacja;25000;H;PKD 52.23.Z
+PODMIOT_212;Grymuza, Szulczyk and Dębniak;brak danych;brak danych;Canada-6669532624;1988-06-07T00:00:00+01:00;brak danych;brak danych;C;PKD 26.12.Z
+PODMIOT_213;Grębowiec, Kuzia and Hanke;195183800;00000039375;Polish-3896873344;2014-12-11T00:00:00+01:00;europejskie zgrupowanie interesów gospodarczych;50000;G;PKD 46.41.Z
+PODMIOT_214;Błażejczak, Przekwas and Jędruszczak;brak danych;brak danych;Norwegian-8172878980;1977-12-11T00:00:00+01:00;brak danych;brak danych;H;PKD 53.20.Z
+PODMIOT_215;Gula, Bernatek and Kornek;brak danych;brak danych;Mexico-7060309093;1970-06-25T00:00:00+01:00;brak danych;brak danych;C;PKD 17.21.Z
+PODMIOT_216;Tomaszkiewicz, Dzienis and Szmurło;brak danych;brak danych;Canada-6418343185;2003-09-12T00:00:00+01:00;brak danych;brak danych;F;PKD 43.33.Z
+PODMIOT_217;Czerniec-Matejuk;brak danych;brak danych;USA-2768770885;2015-12-06T00:00:00+01:00;brak danych;brak danych;C;PKD 27.12.Z
+PODMIOT_218;Brańka, Pleskot and Roter;brak danych;brak danych;Canada-6666038390;1972-12-14T00:00:00+01:00;brak danych;brak danych;R;PKD 93.21.Z
+PODMIOT_219;Niesporek, Pleban and Hajdasz;brak danych;brak danych;Canada-6293096910;1980-03-07T00:00:00+01:00;brak danych;brak danych;J;PKD 59.12.Z
+PODMIOT_220;Iskierka-Kruzel;brak danych;brak danych;Mexico-1540424595;1979-02-14T00:00:00+01:00;brak danych;brak danych;M;PKD 71.20.B
+PODMIOT_221;Sus-Golan;brak danych;brak danych;Italian-3976767911;2000-11-03T00:00:00+01:00;brak danych;brak danych;Q;PKD 86.90.A
+PODMIOT_222;Jaszczur, Kolendo and Mizia;brak danych;brak danych;Russian-1779088576;1994-03-10T00:00:00+01:00;brak danych;brak danych;H;PKD 49.32.Z
+PODMIOT_223;Tylek-Szymanik;306642658;00000009469;Polish-6270758448;1989-04-15T00:00:00+01:00;spółka partnerska;10000;C;PKD 28.25.Z
+PODMIOT_224;Job, John and Kurzak;236702593;00000008904;Polish-9170000400;1972-10-26T00:00:00+01:00;przedsiębiorstwo państwowe;100000;C;PKD 32.30.Z
+PODMIOT_225;Och and Sons;brak danych;brak danych;Canada-5746054108;1981-02-27T00:00:00+01:00;brak danych;brak danych;H;PKD 49.42.Z
+PODMIOT_226;Hawro, Ochał and Samson;brak danych;brak danych;Russian-1284668250;1978-10-11T00:00:00+01:00;brak danych;brak danych;G;PKD 46.21.Z
+PODMIOT_227;Jop-Krasa;brak danych;brak danych;USA-1807629039;2014-12-22T00:00:00+01:00;brak danych;brak danych;C;PKD 13.96.Z
+PODMIOT_228;Bystroń-Klatka;411876493;00000001256;Polish-4403428023;1997-03-19T00:00:00+01:00;spółka akcyjna;100000;E;PKD 36.00.Z
+PODMIOT_229;Furmankiewicz-Siedlarz;190612632;00000062877;Polish-9911069082;1988-07-09T00:00:00+01:00;spółka komandytowo-akcyjna;250000;S;PKD 96.03.Z
+PODMIOT_230;Reimann, Buczma and Rembisz;744646861;00000080405;Polish-3205948307;1983-11-15T00:00:00+01:00;spółka akcyjna;100000;C;PKD 29.10.B
+PODMIOT_231;Kołata and Sons;brak danych;brak danych;Hindi-1626372447;1972-10-28T00:00:00+01:00;brak danych;brak danych;C;PKD 30.30.Z
+PODMIOT_232;Kordus Inc;brak danych;brak danych;Canada-8610691142;1999-04-13T00:00:00+01:00;brak danych;brak danych;D;PKD 35.30.Z
+PODMIOT_233;Cuch, Królikiewicz and Złotnik;brak danych;brak danych;Brazil-4385454552;1999-08-29T00:00:00+01:00;brak danych;brak danych;G;PKD 46.61.Z
+PODMIOT_234;Szymańczak Ltd;brak danych;brak danych;USA-2066642678;1991-03-28T00:00:00+01:00;brak danych;brak danych;A;PKD 01.50.Z
+PODMIOT_235;Ślipek-Świt;brak danych;brak danych;Norwegian-2069154755;2014-09-14T00:00:00+01:00;brak danych;brak danych;G;PKD 46.75.Z
+PODMIOT_236;Strójwąs-Kik;brak danych;brak danych;Mexico-5782917820;1984-07-10T00:00:00+01:00;brak danych;brak danych;G;PKD 47.41.Z
+PODMIOT_237;Skalik-Paszkowiak;brak danych;brak danych;Australia-2163932820;1991-03-23T00:00:00+01:00;brak danych;brak danych;C;PKD 13.20.A
+PODMIOT_238;Pabis, Panuś and Kordys;828174377;00000019610;Polish-7996269897;1991-12-05T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;50000;R;PKD 90.02.Z
+PODMIOT_239;Brojek, Jambor and Cebo;brak danych;brak danych;Finnish-7713854477;1995-04-13T00:00:00+01:00;brak danych;brak danych;C;PKD 33.19.Z
+PODMIOT_240;Lenik-Huber;brak danych;brak danych;USA-6437170604;1996-08-28T00:00:00+01:00;brak danych;brak danych;F;PKD 42.11.Z
+PODMIOT_241;Kokosza Ltd;414546023;00000990347;Polish-3709600202;1988-03-21T00:00:00+01:00;spółka jawna;1000000;C;PKD 29.32.Z
+PODMIOT_242;Loska, Mazan and Lenc;544389293;00000942631;Polish-8890080289;1975-08-20T00:00:00+01:00;spółdzielnia europejska;250000;P;PKD 85.59.A
+PODMIOT_243;Kurz-Gabara;brak danych;brak danych;English-7270222429;1994-10-18T00:00:00+01:00;brak danych;brak danych;C;PKD 28.92.Z
+PODMIOT_244;Andziak-Makurat;brak danych;brak danych;Dutch-3690120627;1977-06-09T00:00:00+01:00;brak danych;brak danych;G;PKD 46.52.Z
+PODMIOT_245;Engler-Matacz;835140022;00000044954;Polish-3939539699;1997-09-20T00:00:00+01:00;przedsiębiorstwo prywatne osoby fizycznej;1000000;C;PKD 28.25.Z
+PODMIOT_246;Powierża PLC;brak danych;brak danych;Norwegian-4518352372;1978-05-30T00:00:00+01:00;brak danych;brak danych;B;PKD 08.12.Z
+PODMIOT_247;Karczmarz, Kostek and Szatko;325627339;00000004075;Polish-2956304337;2000-11-04T00:00:00+01:00;spółka cywilna;50000;C;PKD 28.14.Z
+PODMIOT_248;Kopytko, Kałek and Mazan;569211058;00000063759;Polish-5273148804;1995-04-08T00:00:00+01:00;spółka z ograniczoną odpowiedzialnością;5000;J;PKD 62.01.Z
+PODMIOT_249;Staciwa, Szarejko and Kózka;919873410;00000002277;Polish-7150699979;1970-12-22T00:00:00+01:00;spółka partnerska;1000000;H;PKD 50.30.Z
+PODMIOT_250;Szoka PLC;brak danych;brak danych;German-5474930948;2008-07-28T00:00:00+01:00;brak danych;brak danych;G;PKD 47.24.Z

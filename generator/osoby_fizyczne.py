@@ -32,7 +32,6 @@ def pochodzenie(number = 1):
     return kody
     
 
-
 def dane_osobowe(generator, number, znajomosci):
     '''Generuje data frame, zawierajace imie, nazwisko oraz
     unikalny pesel. Dodatkowo kraj pochodzenia oraz liczbe znajomych
@@ -49,18 +48,22 @@ def dane_osobowe(generator, number, znajomosci):
         if num % (number/10) == 0: print 'postep : {} %'.format((float(num)/float(number))*100)
     
     kraj = pochodzenie(number)
-    # miasto zgodne z danym krajem
-    miasta = []
-    for kr in kraj: 
-        miasta.append(common.dodaj_miasto(kr))
+    miasto = [generator.city() for _ in range(0, number)]
+    dane_adresowe = [generator.street_address() for _ in range(0, number)]
+    kod_pocztowy = [generator.postcode() for _ in range(0, number)]
+    numer_telefonu = [generator.phone_number() for _ in range(0, number)]
+    praca = [generator.job() for _ in range(0, number)]
     
     id_osoby = [('OSOBA_' + str(x)) for x in range(1, number +1)]
     df0 = pd.DataFrame(id_osoby, columns = ['id_osoby'])      
     df1 = pd.DataFrame(osoby, columns=['imie', 'nazwisko'])
     df2 = pd.DataFrame(kraj, columns = ['pochodzenie'])
-    df3 = pd.DataFrame(miasta, columns = ['adres'])
-    df4 = pd.DataFrame(pesel(number), columns = ['pesel'])
-    df5 = pd.DataFrame(znajomi, columns = ['znajomosci'])
+    df3 = pd.DataFrame(miasto, columns = ['miasto'])
+    df4 = pd.DataFrame(dane_adresowe, columns = ['adres'])
+    df5 = pd.DataFrame(kod_pocztowy, columns = ['kod_pocztowy'])
+    df6 = pd.DataFrame(numer_telefonu, columns = ['numer_telefonu'])
+    df7 = pd.DataFrame(pesel(number), columns = ['pesel'])
+    df8 = pd.DataFrame(praca, columns = ['zawod'])
     
     
-    return pd.concat([df0, df1, df2, df3, df4, df5], axis=1)
+    return pd.concat([df0, df1, df2, df3, df4, df5, df6, df7, df8], axis=1)

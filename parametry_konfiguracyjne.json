@@ -4,8 +4,8 @@
 		"csv": "./export/csv/"
 	},
 	"parametry_ilosciowe": {
-		"liczba_osob": 25,
-		"liczba_podmiotow": 10,
+		"liczba_osob": 500,
+		"liczba_podmiotow": 250,
 		"konta_podmiot": [1, 5],
 		"konta_osoba": [1, 2],
 		"ilosc_udzialowcow": [1, 5]
@@ -46,6 +46,6 @@
 			"China": "zh_CN",
 			"Taiwan": "zh_TW"
 		},
-		"wybrany_jezyk": "German"
+		"wybrany_jezyk": "Polish"
 	}
 }

@@ -1,0 +1,251 @@
+id_podmiotu;kod_pocztowy;miejscowosc;ulica;telefon_kontaktowy;adres_mail_kontaktowy;mieszkanie_prywatne;zgloszony_wynajem;kraj
+PODMIOT_1;48-515;Siedlce;ul. Lanowa;+ 48 3549851916;cspado@example.org;Nie;Tak;Polish
+PODMIOT_2;44-961;Sandomierz;ul. Cmentarna;+ 48 2636080475;micha40@example.com;Nie;Tak;Polish
+PODMIOT_3;50-622;Inowrocław;ul. Poznanska;+ 48 7293706075;artur09@example.org;Nie;Tak;Polish
+PODMIOT_4;31-919;Rybnik;ul. Skosna;+ 48 1628300602;szpila.tymoteusz@example.com;Nie;Tak;Polish
+PODMIOT_5;70-938;Żywiec;ul. Pólnocna;+ 48 7753053335;alan.henke@example.net;Nie;Tak;Polish
+PODMIOT_6;82-608;Bartoszyce;ul. Piaskowa;+ 48 9821904710;yserzysko@example.net;Nie;Tak;Polish
+PODMIOT_7;01-476;Lębork;ul. Wczasowa;+ 48 9286391055;nmatwiejczyk@example.com;Tak;Tak;Polish
+PODMIOT_8;01-003;Biłgoraj;ul. Nadrzeczna;+ 48 6334923709;ida48@example.net;Tak;Tak;Polish
+PODMIOT_9;61-619;Kalisz;ul. Rzeczna;+ 48 5128621876;sobstyl.maurycy@example.net;Tak;Tak;Polish
+PODMIOT_10;97-059;Kalisz;ul. Reymonta;+ 48 2811988937;pkarsznia@example.net;Nie;Tak;Polish
+PODMIOT_11;96-554;Środa Wielkopolska;ul. Matejki;+ 48 5033523310;klek.monika@example.com;Nie;Tak;Polish
+PODMIOT_12;50-872;Luboń;ul. Irysowa;+ 48 9799369629;sysz.adam@example.net;Nie;Tak;Polish
+PODMIOT_13;16-885;Płońsk;ul. Wschodnia;+ 48 2263156650;udzieak@example.org;Nie;Tak;Polish
+PODMIOT_14;54-066;Mysłowice;ul. Makuszynskiego;+ 48 2401240372;cyprian.namys@example.net;Nie;Tak;Polish
+PODMIOT_15;27-333;Police;ul. Jezynowa;+ 48 5180965267;apiejko@example.org;Nie;Tak;Polish
+PODMIOT_16;74-372;Mińsk Mazowiecki;ul. Magnoliowa;+ 48 2121852681;switaj.fryderyk@example.net;Tak;Tak;Polish
+PODMIOT_17;75-100;Bartoszyce;ul. Konopnickiej;+ 48 6327228674;mieszko26@example.com;Nie;Tak;Polish
+PODMIOT_18;04-328;Ruda Śląska;ul. Skladowa;+ 48 6811614734;adziopa@example.net;Tak;Tak;Polish
+PODMIOT_19;82-179;Ostrowiec Świętokrzyski;ul. Stycznia;+ 48 5139310785;emil.plebanek@example.net;Tak;Nie;Polish
+PODMIOT_20;71-336;Gdańsk;ul. Rubinowa;+ 48 4753581035;jerzy.kwapis@example.com;Tak;Tak;Polish
+PODMIOT_21;12-767;Sanok;ul. Lawendowa;+ 48 9907178774;julita85@example.com;Tak;Tak;Polish
+PODMIOT_22;39-641;Sochaczew;ul. Kopernika;+ 48 1718512586;ida.ludwin@example.net;Tak;Tak;Polish
+PODMIOT_23;24-200;Wołomin;ul. Dabrowskiej;+ 48 9661380521;szylar.klara@example.com;Tak;Tak;Polish
+PODMIOT_24;41-211;Jastrzębie-Zdrój;ul. Turkusowa;+ 48 9976974016;dominik.windak@example.com;Tak;Tak;Polish
+PODMIOT_25;28-724;Polkowice;ul. Wrzosowa;+ 48 6561685838;mjasionek@example.net;Nie;Tak;Polish
+PODMIOT_26;93-601;Łomża;ul. Glowackiego;+ 48 2258392694;linke.kamil@example.net;Nie;Tak;Polish
+PODMIOT_27;59-971;Bełchatów;ul. Brzechwy;+ 48 9230122405;linkiewicz.antoni@example.org;Nie;Tak;Polish
+PODMIOT_28;71-613;Sochaczew;ul. Glówna;+ 48 5724187118;hszambelan@example.com;Tak;Nie;Polish
+PODMIOT_29;25-812;Siemianowice Śląskie;ul. Wspólna;+ 48 7907092860;walencik.ada@example.net;Tak;Tak;Polish
+PODMIOT_30;83-204;Dąbrowa Górnicza;ul. Kaszubska;+ 48 8289427885;waraksa.szymon@example.com;Tak;Tak;Polish
+PODMIOT_31;64-575;Gniezno;ul. Dworska;+ 48 8608826948;ida.ziniewicz@example.org;Nie;Tak;Polish
+PODMIOT_32;05-883;Inowrocław;ul. Dabrowskiej;+ 48 5966359595;patryk.zabka@example.net;Nie;Tak;Polish
+PODMIOT_33;75-421;Łomża;ul. Glówna;+ 48 7269558904;gustaw.ostafin@example.org;Nie;Tak;Polish
+PODMIOT_34;69-297;Piekary Śląskie;ul. Borówkowa;+ 48 9871055455;jdybiec@example.org;Nie;Tak;Polish
+PODMIOT_35;15-739;Siemianowice Śląskie;ul. Szarych Szeregów;+ 48 6574232655;kuba.bianka@example.net;Nie;Tak;Polish
+PODMIOT_36;76-690;Białystok;ul. Nadbrzezna;+ 48 7812311612;hfyda@example.com;Nie;Tak;Polish
+PODMIOT_37;06-325;Elbląg;ul. Reja;+ 48 7237290268;kaja.swatek@example.net;Nie;Tak;Polish
+PODMIOT_38;26-054;Mikołów;ul. Solidarnosci;+ 48 1994129634;solarek.marcin@example.org;Nie;Tak;Polish
+PODMIOT_39;15-809;Dębica;ul. Blekitna;+ 48 9825629388;jrecko@example.net;Tak;Nie;Polish
+PODMIOT_40;57-077;Łomża;ul. Orzechowa;+ 48 7628880473;bzymek.eliza@example.net;Tak;Tak;Polish
+PODMIOT_41;41-823;Jaworzno;ul. Wyszynskiego;+ 48 4365990766;ksawery52@example.org;Nie;Tak;Polish
+PODMIOT_42;74-953;Poznań;ul. Broniewskiego;+ 48 8783774594;domian.przemysaw@example.net;Tak;Nie;Polish
+PODMIOT_43;13-317;Olsztyn;ul. Matejki;+ 48 2836672445;duszczyk.dariusz@example.net;Nie;Tak;Polish
+PODMIOT_44;88-892;Sandomierz;ul. Kasztanowa;+ 48 9481591437;wiertel.filip@example.com;Tak;Tak;Polish
+PODMIOT_45;15-119;Rybnik;ul. Mala;+ 48 3499587912;siemek.cezary@example.com;Nie;Tak;Polish
+PODMIOT_46;59-828;Świętochłowice;ul. Sloneczna;+ 48 8416655584;mikoaj22@example.net;Nie;Tak;Polish
+PODMIOT_47;38-388;Warszawa;ul. Chmielna;+ 48 4347742667;kaja.cader@example.net;Nie;Tak;Polish
+PODMIOT_48;00-737;Krosno;ul. Wladyslawa Jagielly;+ 48 2141899914;zpilich@example.com;Nie;Tak;Polish
+PODMIOT_49;96-962;Zakopane;ul. Staszica;+ 48 3755522924;jozef.fojt@example.net;Nie;Tak;Polish
+PODMIOT_50;82-854;Inowrocław;ul. Narcyzowa;+ 48 3620745090;szczerbiak.marcel@example.net;Nie;Tak;Polish
+PODMIOT_51;28-905;Kraków;ul. Szpitalna;+ 48 4103826197;medrala.nikodem@example.org;Nie;Tak;Polish
+PODMIOT_52;70-365;Sosnowiec;ul. Broniewskiego;+ 48 3974443981;norbert87@example.com;Nie;Tak;Polish
+PODMIOT_53;74-344;Świdnik;ul. Stawowa;+ 48 2377301693;lazarek.roza@example.com;Tak;Tak;Polish
+PODMIOT_54;71-094;Opole;ul. Rynek;+ 48 8623774165;rgapys@example.org;Nie;Tak;Polish
+PODMIOT_55;82-443;Śrem;ul. Zabia;+ 48 9520584599;klebba.justyna@example.net;Nie;Tak;Polish
+PODMIOT_56;51-864;Mysłowice;ul. Jaskólcza;+ 48 1195903206;lsteinke@example.org;Nie;Tak;Polish
+PODMIOT_57;02-878;Jarosław;ul. Tartaczna;+ 48 2021381946;smyl.stanisaw@example.com;Nie;Tak;Polish
+PODMIOT_58;93-789;Inowrocław;ul. Fredry;+ 48 5580024965;hswieton@example.org;Nie;Tak;Polish
+PODMIOT_59;65-338;Lębork;ul. Zapolskiej;+ 48 2105265998;robert39@example.net;Nie;Tak;Polish
+PODMIOT_60;71-117;Bydgoszcz;ul. Ptasia;+ 48 2871691461;okupaj@example.com;Nie;Tak;Polish
+PODMIOT_61;77-631;Bydgoszcz;ul. Podgórna;+ 48 8015716221;nawrotek.maurycy@example.org;Nie;Tak;Polish
+PODMIOT_62;21-478;Krotoszyn;ul. Zwirowa;+ 48 5802803946;lemiesz.maurycy@example.net;Nie;Tak;Polish
+PODMIOT_63;86-024;Siedlce;ul. Tuwima;+ 48 9460540201;bartoszczyk.alex@example.org;Tak;Nie;Polish
+PODMIOT_64;10-133;Stargard Szczeciński;ul. Krakowska;+ 48 7621627717;eliza.tolak@example.net;Nie;Tak;Polish
+PODMIOT_65;06-519;Słupsk;ul. Drzymaly;+ 48 9502635005;hpatyna@example.org;Nie;Tak;Polish
+PODMIOT_66;99-544;Środa Wielkopolska;ul. Konarskiego;+ 48 1505679642;seidel.adrian@example.com;Nie;Tak;Polish
+PODMIOT_67;90-566;Tarnowskie Góry;ul. Urocza;+ 48 5487961498;zlaskus@example.net;Nie;Tak;Polish
+PODMIOT_68;43-126;Bartoszyce;ul. Grottgera;+ 48 9034613791;klara78@example.com;Nie;Tak;Polish
+PODMIOT_69;13-144;Lubliniec;ul. Storczykowa;+ 48 9335000008;jerzy84@example.com;Nie;Tak;Polish
+PODMIOT_70;42-996;Wałcz;ul. Piekarska;+ 48 3380364227;bruno60@example.org;Tak;Nie;Polish
+PODMIOT_71;26-819;Zduńska Wola;ul. Targowa;+ 48 8248006958;tobiasz.wiatrak@example.net;Tak;Tak;Polish
+PODMIOT_72;26-758;Ciechanów;ul. Dolna;+ 48 7728966282;mateusz.krzempek@example.org;Nie;Tak;Polish
+PODMIOT_73;48-133;Lubin;ul. Piekarska;+ 48 7523648352;daniel90@example.com;Tak;Tak;Polish
+PODMIOT_74;56-657;Żywiec;ul. Dabrowskiej;+ 48 8440933770;dubis.oliwier@example.net;Nie;Tak;Polish
+PODMIOT_75;98-907;Stalowa Wola;ul. Jasminowa;+ 48 2051806284;apolonia.odrzywoek@example.com;Nie;Tak;Polish
+PODMIOT_76;41-895;Żyrardów;ul. Tysiaclecia;+ 48 1050275548;tymoteusz.chlebda@example.org;Tak;Tak;Polish
+PODMIOT_77;41-615;Mińsk Mazowiecki;ul. Rybacka;+ 48 6737176587;blanka.hanc@example.net;Nie;Tak;Polish
+PODMIOT_78;49-418;Chełm;ul. Andersa;+ 48 7286389724;julianna.watras@example.net;Nie;Tak;Polish
+PODMIOT_79;71-198;Żary;ul. Chmielna;+ 48 1213341673;dochota@example.com;Nie;Tak;Polish
+PODMIOT_80;82-982;Wyszków;ul. Skladowa;+ 48 2070808788;olgierd41@example.net;Nie;Tak;Polish
+PODMIOT_81;21-557;Pruszcz Gdański;ul. Bankowa;+ 48 8129565730;ofraszczyk@example.net;Nie;Tak;Polish
+PODMIOT_82;15-745;Żywiec;ul. Podlesna;+ 48 5372582159;bruzda.bartek@example.net;Tak;Tak;Polish
+PODMIOT_83;70-573;Częstochowa;ul. Mlynska;+ 48 6233300215;jeremi.wijata@example.net;Nie;Tak;Polish
+PODMIOT_84;55-629;Kielce;ul. Piwna;+ 48 6841821390;jcholewka@example.org;Tak;Tak;Polish
+PODMIOT_85;76-900;Ząbki;ul. Jarzebinowa;+ 48 9916472874;stochel.jan@example.org;Tak;Tak;Polish
+PODMIOT_86;50-512;Piastów;ul. Lawendowa;+ 48 6583984238;artur.sydor@example.com;Nie;Tak;Polish
+PODMIOT_87;70-908;Opole;ul. Zielna;+ 48 9543324511;iwo99@example.net;Tak;Tak;Polish
+PODMIOT_88;90-995;Świdnica;ul. Kasztanowa;+ 48 5858378795;szymon.maota@example.net;Nie;Tak;Polish
+PODMIOT_89;53-095;Dębica;ul. Strzelecka;+ 48 9972565742;jdziedzina@example.org;Nie;Tak;Polish
+PODMIOT_90;01-796;Starachowice;ul. Górnicza;+ 48 7843239039;rafa.pasieczna@example.net;Tak;Tak;Polish
+PODMIOT_91;32-147;Sandomierz;ul. Brzozowa;+ 48 8573075394;darak.sonia@example.net;Tak;Nie;Polish
+PODMIOT_92;60-731;Kluczbork;ul. Labedzia;+ 48 2865301390;kalina.knapek@example.net;Nie;Tak;Polish
+PODMIOT_93;86-881;Żagań;ul. Warynskiego;+ 48 6043608330;nzaucha@example.org;Tak;Nie;Polish
+PODMIOT_94;46-312;Ciechanów;ul. Szewska;+ 48 7022051213;iwo19@example.com;Tak;Nie;Polish
+PODMIOT_95;32-418;Bartoszyce;ul. Zurawia;+ 48 9481514760;sandra10@example.org;Nie;Tak;Polish
+PODMIOT_96;27-664;Sopot;ul. Cisowa;+ 48 7876334454;inga58@example.com;Nie;Tak;Polish
+PODMIOT_97;93-767;Legionowo;ul. Sowia;+ 48 7218871932;maciej.jaremko@example.org;Tak;Tak;Polish
+PODMIOT_98;56-840;Olsztyn;ul. Jezynowa;+ 48 4428504402;fhajder@example.com;Nie;Tak;Polish
+PODMIOT_99;78-406;Mysłowice;ul. Okrzei;+ 48 9901126202;gal.liwia@example.net;Tak;Nie;Polish
+PODMIOT_100;56-090;Ostrów Wielkopolski;ul. Browarna;+ 48 8388037793;fabian.drela@example.net;Nie;Tak;Polish
+PODMIOT_101;27-253;Goleniów;ul. Maja;+ 48 1648031137;tola20@example.net;Nie;Tak;Polish
+PODMIOT_102;65-169;Przemyśl;ul. Konwaliowa;+ 48 3790557876;matura.tadeusz@example.com;Nie;Tak;Polish
+PODMIOT_103;68-656;Piastów;ul. Dworcowa;+ 48 7451204331;cjosko@example.org;Tak;Tak;Polish
+PODMIOT_104;38-361;Katowice;ul. Modrzewiowa;+ 48 2242251490;pawe.merda@example.com;Nie;Tak;Polish
+PODMIOT_105;73-357;Szczecin;ul. Zapolskiej;+ 48 5551648943;sandra91@example.net;Tak;Nie;Polish
+PODMIOT_106;72-601;Lubartów;ul. Kosciuszki;+ 48 5120252005;delikat.gabriel@example.org;Nie;Tak;Polish
+PODMIOT_107;66-611;Augustów;ul. Kruczkowskiego;+ 48 2423962055;zinkiewicz.kornel@example.org;Tak;Nie;Polish
+PODMIOT_108;59-088;Kołobrzeg;ul. Slowackiego;+ 48 9960226875;rcacko@example.com;Tak;Nie;Polish
+PODMIOT_109;06-711;Września;ul. Truskawkowa;+ 48 4485079951;bfurmankiewicz@example.org;Tak;Tak;Polish
+PODMIOT_110;99-459;Kraśnik;ul. Olchowa;+ 48 6112788471;julita.miecznik@example.org;Tak;Nie;Polish
+PODMIOT_111;59-537;Lubliniec;ul. Sienkiewicza;+ 48 9516995299;janina.zemanek@example.net;Nie;Tak;Polish
+PODMIOT_112;22-913;Lębork;ul. Willowa;+ 48 8745162487;ijasina@example.org;Nie;Tak;Polish
+PODMIOT_113;95-928;Żywiec;ul. Cicha;+ 48 7722096131;kazimierz50@example.com;Nie;Tak;Polish
+PODMIOT_114;57-908;Katowice;ul. Spacerowa;+ 48 6808415640;eryk.langiewicz@example.org;Tak;Tak;Polish
+PODMIOT_115;56-094;Piaseczno;ul. Korczaka;+ 48 9220494703;olga42@example.com;Nie;Tak;Polish
+PODMIOT_116;77-540;Oświęcim;ul. Rubinowa;+ 48 4209165861;kaja.miozga@example.net;Nie;Tak;Polish
+PODMIOT_117;08-125;Siedlce;ul. Sybiraków;+ 48 4398191997;stanisaw.tokarek@example.com;Nie;Tak;Polish
+PODMIOT_118;14-927;Żary;ul. Mazurska;+ 48 6518944421;bzdziuch.olga@example.org;Nie;Tak;Polish
+PODMIOT_119;53-469;Suwałki;ul. Spacerowa;+ 48 6742719438;marcel33@example.org;Nie;Tak;Polish
+PODMIOT_120;64-324;Krotoszyn;ul. Mieszka I;+ 48 3079837674;bartek.pawliczek@example.net;Nie;Tak;Polish
+PODMIOT_121;71-314;Mysłowice;ul. Azaliowa;+ 48 5120765866;alex.lademann@example.net;Tak;Nie;Polish
+PODMIOT_122;22-831;Piastów;ul. Cicha;+ 48 6544884895;jmachowicz@example.com;Nie;Tak;Polish
+PODMIOT_123;53-364;Nowa Ruda;ul. Kolejowa;+ 48 8949439572;ykiwior@example.org;Nie;Tak;Polish
+PODMIOT_124;56-377;Bartoszyce;ul. Zielona;+ 48 1782275062;leonard.fierek@example.org;Nie;Tak;Polish
+PODMIOT_125;56-197;Pruszcz Gdański;ul. Niepodleglosci;+ 48 8713230501;zjanke@example.org;Nie;Tak;Polish
+PODMIOT_126;77-335;Żary;ul. Bankowa;+ 48 3550502890;olga67@example.com;Tak;Nie;Polish
+PODMIOT_127;09-343;Chorzów;ul. Irysowa;+ 48 5614571267;tobiasz.nazarko@example.org;Nie;Tak;Polish
+PODMIOT_128;81-837;Biłgoraj;ul. Fabryczna;+ 48 6178390999;damian93@example.com;Tak;Tak;Polish
+PODMIOT_129;90-969;Mińsk Mazowiecki;ul. Zabia;+ 48 6326156546;ukasz.mila@example.org;Nie;Tak;Polish
+PODMIOT_130;43-958;Kwidzyn;ul. Zakatek;+ 48 9449666985;koton.bartek@example.net;Nie;Tak;Polish
+PODMIOT_131;32-165;Jawor;ul. Górna;+ 48 6171108442;zsterna@example.com;Nie;Tak;Polish
+PODMIOT_132;72-046;Żagań;ul. Krasinskiego;+ 48 4828781102;herbut.urszula@example.net;Nie;Tak;Polish
+PODMIOT_133;76-863;Gorzów Wielkopolski;ul. Rynek;+ 48 9879533997;iwo75@example.com;Tak;Tak;Polish
+PODMIOT_134;75-015;Wyszków;ul. Skladowa;+ 48 2557932154;marianna50@example.net;Nie;Tak;Polish
+PODMIOT_135;27-626;Pabianice;ul. Jalowcowa;+ 48 6369373624;malwina.drozd@example.net;Nie;Tak;Polish
+PODMIOT_136;38-452;Zakopane;ul. Irysowa;+ 48 6584261948;monika28@example.org;Tak;Tak;Polish
+PODMIOT_137;00-075;Jarocin;ul. Wschodnia;+ 48 3148318899;ssajnog@example.net;Nie;Tak;Polish
+PODMIOT_138;67-723;Biała Podlaska;ul. Cisowa;+ 48 4628366090;liwia.doroszkiewicz@example.net;Nie;Tak;Polish
+PODMIOT_139;42-060;Malbork;ul. Borówkowa;+ 48 9338624088;gaszczak.daniel@example.org;Nie;Tak;Polish
+PODMIOT_140;16-411;Sochaczew;ul. Lesna;+ 48 2989821838;stanisaw.beres@example.net;Nie;Tak;Polish
+PODMIOT_141;25-608;Tarnów;ul. Malinowa;+ 48 8968204898;konstanty07@example.com;Nie;Tak;Polish
+PODMIOT_142;21-874;Płońsk;ul. Robotnicza;+ 48 2430546548;julian97@example.net;Nie;Tak;Polish
+PODMIOT_143;20-940;Zduńska Wola;ul. Prosta;+ 48 4842696115;pawliszyn.marek@example.net;Nie;Tak;Polish
+PODMIOT_144;56-237;Tarnów;ul. Graniczna;+ 48 4126442823;szaj.monika@example.net;Nie;Tak;Polish
+PODMIOT_145;88-214;Tczew;ul. Sklodowskiej-Curie;+ 48 7056593474;bianka.milej@example.net;Nie;Tak;Polish
+PODMIOT_146;40-338;Skawina;ul. Wodna;+ 48 8420075430;tobiasz71@example.com;Nie;Tak;Polish
+PODMIOT_147;78-242;Tychy;ul. Malinowa;+ 48 5946917545;dawid.szaaj@example.org;Nie;Tak;Polish
+PODMIOT_148;21-924;Łowicz;ul. Bursztynowa;+ 48 3766281831;sczerniakiewicz@example.com;Tak;Tak;Polish
+PODMIOT_149;61-299;Świecie;ul. Jeziorna;+ 48 4211574932;mieszko61@example.com;Nie;Tak;Polish
+PODMIOT_150;13-550;Augustów;ul. Okrzei;+ 48 5954682336;mieszko58@example.com;Tak;Nie;Polish
+PODMIOT_151;14-425;Szczytno;ul. Dluga;+ 48 8885284694;knarozna@example.org;Tak;Tak;Polish
+PODMIOT_152;78-414;Gniezno;ul. Okulickiego;+ 48 4125405117;anita33@example.com;Nie;Tak;Polish
+PODMIOT_153;56-783;Słupsk;ul. Starowiejska;+ 48 8749090545;melania.kraszkiewicz@example.com;Nie;Tak;Polish
+PODMIOT_154;34-165;Gorzów Wielkopolski;ul. Lubelska;+ 48 8932552929;marcin.gonet@example.com;Nie;Tak;Polish
+PODMIOT_155;48-966;Wałcz;ul. Irysowa;+ 48 9099353395;sebastian.kazimierczyk@example.com;Nie;Tak;Polish
+PODMIOT_156;73-388;Piekary Śląskie;ul. Wilcza;+ 48 1152451227;dpasich@example.org;Nie;Tak;Polish
+PODMIOT_157;31-073;Jastrzębie-Zdrój;ul. Prusa;+ 48 4080785175;ukasz.serwach@example.com;Nie;Tak;Polish
+PODMIOT_158;72-388;Kołobrzeg;ul. Polna;+ 48 4938517161;piotr.kasica@example.org;Tak;Tak;Polish
+PODMIOT_159;56-460;Bełchatów;ul. Wiklinowa;+ 48 8178035702;ewa.dudczak@example.net;Tak;Nie;Polish
+PODMIOT_160;12-545;Rybnik;ul. Tuwima;+ 48 6759006949;albert.nitek@example.com;Tak;Tak;Polish
+PODMIOT_161;13-673;Polkowice;ul. Niepodleglosci;+ 48 6859059136;apalej@example.org;Tak;Nie;Polish
+PODMIOT_162;88-573;Łódź;ul. Willowa;+ 48 1021919260;yzdonek@example.com;Nie;Tak;Polish
+PODMIOT_163;70-788;Ciechanów;ul. Sawickiej;+ 48 4642755311;peszko.aniela@example.com;Nie;Tak;Polish
+PODMIOT_164;74-779;Łowicz;ul. Daszynskiego;+ 48 6234575146;qrazniak@example.net;Nie;Tak;Polish
+PODMIOT_165;28-641;Koło;ul. Piastowska;+ 48 4803009998;hrohde@example.com;Nie;Tak;Polish
+PODMIOT_166;91-941;Sosnowiec;ul. Pocztowa;+ 48 3539950770;sura.olga@example.net;Nie;Tak;Polish
+PODMIOT_167;85-716;Szczecinek;ul. Targowa;+ 48 7059640893;zuchowicz.fabian@example.net;Nie;Tak;Polish
+PODMIOT_168;67-881;Wałcz;ul. Nowa;+ 48 9894463684;starosciak.mateusz@example.org;Nie;Tak;Polish
+PODMIOT_169;57-438;Nowy Dwór Mazowiecki;ul. Solidarnosci;+ 48 4906523579;ernest24@example.com;Tak;Tak;Polish
+PODMIOT_170;56-991;Mysłowice;ul. Akacjowa;+ 48 8570051779;marianna.buszko@example.net;Nie;Tak;Polish
+PODMIOT_171;53-228;Bydgoszcz;ul. Kasprowicza;+ 48 3549871045;hdrobek@example.org;Nie;Tak;Polish
+PODMIOT_172;24-591;Pruszków;ul. Jagodowa;+ 48 8217354281;urszula31@example.net;Nie;Tak;Polish
+PODMIOT_173;06-274;Czeladź;ul. Modrzewiowa;+ 48 3479656183;efedorczyk@example.org;Tak;Nie;Polish
+PODMIOT_174;17-624;Polkowice;ul. Jodlowa;+ 48 3525522199;fgiersz@example.com;Nie;Tak;Polish
+PODMIOT_175;31-776;Ostróda;ul. Bema;+ 48 1815139226;jedraszek.dominik@example.org;Nie;Tak;Polish
+PODMIOT_176;40-609;Sochaczew;ul. Jasminowa;+ 48 7432302209;fabian27@example.net;Nie;Tak;Polish
+PODMIOT_177;02-204;Mława;ul. Jasminowa;+ 48 2472823469;cyprian74@example.org;Nie;Tak;Polish
+PODMIOT_178;94-553;Puławy;ul. Poprzeczna;+ 48 7102224203;marcin.kornak@example.net;Nie;Tak;Polish
+PODMIOT_179;80-246;Nowy Sącz;ul. Szpitalna;+ 48 2516520423;uwazny@example.org;Nie;Tak;Polish
+PODMIOT_180;46-406;Gliwice;ul. Kilinskiego;+ 48 7677119842;ada87@example.org;Nie;Tak;Polish
+PODMIOT_181;04-535;Świętochłowice;ul. Topolowa;+ 48 2727691987;vhejna@example.org;Tak;Tak;Polish
+PODMIOT_182;45-526;Jelenia Góra;ul. Tysiaclecia;+ 48 9223819088;colszowa@example.org;Tak;Tak;Polish
+PODMIOT_183;93-694;Czeladź;ul. Spokojna;+ 48 5937512462;wiktor61@example.org;Tak;Tak;Polish
+PODMIOT_184;20-163;Skarżysko-Kamienna;ul. Szafirowa;+ 48 2258216990;ukasz00@example.org;Tak;Nie;Polish
+PODMIOT_185;95-325;Częstochowa;ul. Krasinskiego;+ 48 3912050901;cdulemba@example.net;Tak;Tak;Polish
+PODMIOT_186;87-292;Jawor;ul. Nadbrzezna;+ 48 7223101156;gumienny.kajetan@example.org;Tak;Tak;Polish
+PODMIOT_187;08-482;Słupsk;ul. Staszica;+ 48 8908971034;szymon53@example.com;Nie;Tak;Polish
+PODMIOT_188;56-277;Tarnowskie Góry;ul. Krucza;+ 48 4320158009;stefan.pawlaczek@example.com;Nie;Tak;Polish
+PODMIOT_189;56-308;Starachowice;ul. Zurawia;+ 48 4405171654;sapaa.nataniel@example.org;Nie;Tak;Polish
+PODMIOT_190;42-682;Świdnik;ul. Wolnosci;+ 48 1680614801;tszczubeek@example.net;Nie;Tak;Polish
+PODMIOT_191;01-718;Łomża;ul. Wieniawskiego;+ 48 7531511308;bbeck@example.org;Tak;Tak;Polish
+PODMIOT_192;34-169;Dzierżoniów;ul. Zdrojowa;+ 48 9715980855;roksana79@example.com;Tak;Nie;Polish
+PODMIOT_193;48-462;Katowice;ul. Wierzbowa;+ 48 5243982740;szulist.nela@example.com;Nie;Tak;Polish
+PODMIOT_194;18-312;Lębork;ul. Wislana;+ 48 2396998513;wiktor48@example.com;Nie;Tak;Polish
+PODMIOT_195;09-930;Tczew;ul. Narcyzowa;+ 48 5461828102;rajczyk.eliza@example.org;Nie;Tak;Polish
+PODMIOT_196;38-559;Chrzanów;ul. Czeresniowa;+ 48 9412327540;eszelest@example.net;Tak;Nie;Polish
+PODMIOT_197;97-223;Kraków;ul. Towarowa;+ 48 6115223822;kapuscik.adam@example.net;Tak;Tak;Polish
+PODMIOT_198;47-219;Września;ul. Orzechowa;+ 48 6975128423;maks98@example.org;Nie;Tak;Polish
+PODMIOT_199;22-161;Nowa Ruda;ul. Makuszynskiego;+ 48 3958443893;kocwin.dawid@example.org;Nie;Tak;Polish
+PODMIOT_200;29-006;Olsztyn;ul. Sokola;+ 48 9901334658;herok.piotr@example.com;Nie;Tak;Polish
+PODMIOT_201;72-405;Knurów;ul. Listopada;+ 48 5219487487;xzamora@example.org;Tak;Nie;Polish
+PODMIOT_202;03-328;Zamość;ul. Wroclawska;+ 48 5310695811;kamila.jambor@example.net;Nie;Tak;Polish
+PODMIOT_203;11-959;Siedlce;ul. Wypoczynkowa;+ 48 5971598973;brus.krystyna@example.com;Nie;Tak;Polish
+PODMIOT_204;13-019;Kutno;ul. Maczka;+ 48 5116694447;estoltman@example.org;Nie;Tak;Polish
+PODMIOT_205;30-367;Wieluń;ul. Lisia;+ 48 6239595530;mynczak.tomasz@example.org;Nie;Tak;Polish
+PODMIOT_206;42-261;Ostrołęka;ul. Sarnia;+ 48 3597579736;phrynkiewicz@example.com;Tak;Tak;Polish
+PODMIOT_207;45-801;Środa Wielkopolska;ul. Podlesna;+ 48 8099840432;aleks03@example.com;Nie;Tak;Polish
+PODMIOT_208;90-347;Wągrowiec;ul. Szewska;+ 48 4931977693;kutek.oliwier@example.org;Tak;Tak;Polish
+PODMIOT_209;01-652;Jastrzębie-Zdrój;ul. Cegielniana;+ 48 2618182685;ahewelt@example.org;Tak;Tak;Polish
+PODMIOT_210;24-731;Skarżysko-Kamienna;ul. Moniuszki;+ 48 5227574393;xocha@example.net;Nie;Tak;Polish
+PODMIOT_211;82-528;Sochaczew;ul. Sklodowskiej-Curie;+ 48 5569113446;xdziuban@example.net;Tak;Tak;Polish
+PODMIOT_212;98-895;Jawor;ul. Krzywa;+ 48 9138401895;oliwier.krauza@example.net;Nie;Tak;Polish
+PODMIOT_213;76-737;Turek;ul. Wislana;+ 48 4271747963;talaska.oliwier@example.org;Nie;Tak;Polish
+PODMIOT_214;44-570;Kętrzyn;ul. Prosta;+ 48 7141521598;fuawka.aniela@example.com;Nie;Tak;Polish
+PODMIOT_215;01-181;Kłodzko;ul. Jagodowa;+ 48 1117247727;krystian51@example.com;Nie;Tak;Polish
+PODMIOT_216;61-035;Cieszyn;ul. Slowicza;+ 48 8764208083;dziaa.kajetan@example.org;Tak;Nie;Polish
+PODMIOT_217;03-995;Warszawa;ul. Golebia;+ 48 3333678579;efal@example.org;Tak;Tak;Polish
+PODMIOT_218;14-436;Ciechanów;ul. Jagiellonska;+ 48 2598667563;olinka@example.net;Nie;Tak;Polish
+PODMIOT_219;95-814;Zakopane;ul. Dojazdowa;+ 48 4242836902;julianna.sromek@example.org;Nie;Tak;Polish
+PODMIOT_220;94-066;Kluczbork;ul. Cegielniana;+ 48 3289103935;nela.kurtyka@example.com;Nie;Tak;Polish
+PODMIOT_221;89-033;Piła;ul. Opolska;+ 48 4466827246;tprzerwa@example.com;Nie;Tak;Polish
+PODMIOT_222;53-400;Jarocin;ul. Tylna;+ 48 9048652273;nnyk@example.org;Nie;Tak;Polish
+PODMIOT_223;30-667;Malbork;ul. Borowa;+ 48 7974763697;wziatek.elzbieta@example.com;Tak;Nie;Polish
+PODMIOT_224;55-837;Żory;ul. Szarych Szeregów;+ 48 6837719137;maurycy.pleskot@example.net;Nie;Tak;Polish
+PODMIOT_225;16-230;Kętrzyn;ul. Okrezna;+ 48 2380660024;adam.matura@example.net;Tak;Tak;Polish
+PODMIOT_226;03-863;Świętochłowice;ul. Wierzbowa;+ 48 1268332687;daniel.zachwieja@example.com;Tak;Tak;Polish
+PODMIOT_227;07-959;Kutno;ul. Mostowa;+ 48 3532874937;kossak.marianna@example.com;Nie;Tak;Polish
+PODMIOT_228;58-554;Kraśnik;ul. Plater;+ 48 3061666485;cyprian76@example.com;Nie;Tak;Polish
+PODMIOT_229;37-693;Lubliniec;ul. Szewska;+ 48 3524030662;malwina.byra@example.org;Nie;Tak;Polish
+PODMIOT_230;49-245;Konin;ul. Mlynska;+ 48 7891382273;dytko.ksawery@example.org;Tak;Tak;Polish
+PODMIOT_231;19-359;Biała Podlaska;ul. Lakowa;+ 48 3086225188;groth.krystian@example.org;Tak;Tak;Polish
+PODMIOT_232;61-991;Chełm;ul. Prosta;+ 48 6117051484;aurelia.fijak@example.com;Nie;Tak;Polish
+PODMIOT_233;72-519;Mińsk Mazowiecki;ul. Morska;+ 48 6340698596;amaciuk@example.com;Nie;Tak;Polish
+PODMIOT_234;98-617;Tychy;ul. Czestochowska;+ 48 5375806157;uwok@example.net;Nie;Tak;Polish
+PODMIOT_235;12-578;Jarosław;ul. Porzeczkowa;+ 48 5773250879;chorazewicz.julianna@example.net;Tak;Nie;Polish
+PODMIOT_236;59-908;Dzierżoniów;ul. Mila;+ 48 9021777260;mariusz.szumacher@example.com;Nie;Tak;Polish
+PODMIOT_237;25-404;Wołomin;ul. Zdrojowa;+ 48 6645603261;roza.kubowicz@example.com;Nie;Tak;Polish
+PODMIOT_238;45-008;Świnoujście;ul. Rejtana;+ 48 8265525723;agnieszka42@example.net;Tak;Nie;Polish
+PODMIOT_239;89-143;Kłodzko;ul. Milosza;+ 48 3373855217;kamila97@example.com;Nie;Tak;Polish
+PODMIOT_240;13-663;Iława;ul. Powstanców Wielkopolskich;+ 48 8842399224;ada.kucab@example.net;Tak;Nie;Polish
+PODMIOT_241;87-023;Wałcz;ul. Zakole;+ 48 4625322393;burza.wiktor@example.org;Tak;Tak;Polish
+PODMIOT_242;08-649;Ostrów Mazowiecka;ul. Pszenna;+ 48 9948460200;ciuba.kamila@example.org;Tak;Tak;Polish
+PODMIOT_243;61-849;Tarnowskie Góry;ul. Skosna;+ 48 3817713339;borys.druszcz@example.com;Nie;Tak;Polish
+PODMIOT_244;61-231;Starachowice;ul. Czarnieckiego;+ 48 9531591689;urszula18@example.net;Nie;Tak;Polish
+PODMIOT_245;84-867;Żory;ul. Kasztanowa;+ 48 1795348676;koloch.kornelia@example.com;Nie;Tak;Polish
+PODMIOT_246;85-316;Żagań;ul. Morelowa;+ 48 4410768567;tomasz.faltyn@example.org;Tak;Tak;Polish
+PODMIOT_247;27-721;Łódź;ul. Gajowa;+ 48 7715493490;witold16@example.net;Nie;Tak;Polish
+PODMIOT_248;88-231;Suwałki;ul. Jaworowa;+ 48 9227903569;iwo.langa@example.net;Nie;Tak;Polish
+PODMIOT_249;33-698;Wejherowo;ul. Rolna;+ 48 3523361668;bfaferek@example.org;Tak;Tak;Polish
+PODMIOT_250;67-083;Gniezno;ul. Radosna;+ 48 8272343416;gwejman@example.net;Nie;Tak;Polish
