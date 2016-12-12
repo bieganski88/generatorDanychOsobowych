@@ -3,13 +3,13 @@
 Generowanie danych dotyczacych osób fizycznych oraz podmiotów gospodarczych w oparciu o parametry konfiguracyjne zawarte w pliku JSON (opis parametrów poniżej). Jako baza do generowania dnaych służy moduł __faker__.
 ##### Zakres generowanych danych
 ---------------------
-OSOBY FIZYCZNE:
+OSOBY FIZYCZNE:  
 imię, nazwisko,  kraj pochodzenia, miasto, adres, kod pocztowy, numer telefonu, pesel, zawód, numer konta bankowego, nazwa banku.
 
-PODMIOTY GOSPODARCZE:
-informacje ogólne >> nazwa firmy, regon, numer KRS, NIP, data rejestracji, forma prawna, ilośc kapitału własnego, dziedzina, dominująca działalność według PKD.
-informacje kontaktowe >> miejscowość, ulica, kod pocztowy, numer telefonu, adres email kontaktowy, siedziba mieszkanie prywatne czy biura, kraj rejestracji.
-informacje pozostałe >> numer konta bankowego, nazwa banku, informacje o udziałowcach (identyfikator osoby, pochodzenie, procent udziałów).
+PODMIOTY GOSPODARCZE:  
+informacje ogólne >> nazwa firmy, regon, numer KRS, NIP, data rejestracji, forma prawna, ilośc kapitału własnego, dziedzina, dominująca działalność według PKD.  
+informacje kontaktowe >> miejscowość, ulica, kod pocztowy, numer telefonu, adres email kontaktowy, siedziba mieszkanie prywatne czy biura, kraj rejestracji.  
+informacje pozostałe >> numer konta bankowego, nazwa banku, informacje o udziałowcach (identyfikator osoby, pochodzenie, procent udziałów).  
 
 ### WYMAGANE BIBLIOTEKI ###
 
@@ -28,8 +28,8 @@ informacje pozostałe >> numer konta bankowego, nazwa banku, informacje o udzia�
     },
 (..)
 ````
-__xlsx__ - ścieżka względna zapisu wygenerowanych danych w postaci arkusza kalkulacyjnego.
-__csv__ - ścieżka względna zapisu wygenerowanych danych w postaci plików csv.
+__xlsx__ - ścieżka względna zapisu wygenerowanych danych w postaci arkusza kalkulacyjnego.  
+__csv__ - ścieżka względna zapisu wygenerowanych danych w postaci plików csv.  
 
 2.Parametry ilościowe:
 ````
@@ -43,11 +43,11 @@ __csv__ - ścieżka względna zapisu wygenerowanych danych w postaci plików csv
 	},
 (..)
 ````
-__liczba_osob__ - liczba rekordów z danymi osobowymi do wygenerowania
-__liczba_podmiotow__ - liczba fikcyjnych firm do wygenerowania, wraz z danymi adresowymi, numerami kont itd..
-__konta_podmiot__ - ilośc konta na firmę do wygenerowania, w postaci przedziału - pierwsza wartość min, druga wartość max.
-__konta_osoba__ - ilośc konta przypisanych do osoby fizycznej, w postaci przedziału - pierwsza wartość min, druga wartość max.
-__ilosc_udzialowcow__ - przypisanie udziałowców do firmy wraz z wartością udziału. Przypisywane są osoby z puli tych wczesniej wygenerowanych.
+__liczba_osob__ - liczba rekordów z danymi osobowymi do wygenerowania  
+__liczba_podmiotow__ - liczba fikcyjnych firm do wygenerowania, wraz z danymi adresowymi, numerami kont itd..  
+__konta_podmiot__ - ilośc konta na firmę do wygenerowania, w postaci przedziału - pierwsza wartość min, druga wartość max.  
+__konta_osoba__ - ilośc konta przypisanych do osoby fizycznej, w postaci przedziału - pierwsza wartość min, druga wartość max.  
+__ilosc_udzialowcow__ - przypisanie udziałowców do firmy wraz z wartością udziału. Przypisywane są osoby z puli tych wczesniej wygenerowanych.  
 
 3.Ustawienia językowe:
 ````
@@ -90,11 +90,11 @@ __ilosc_udzialowcow__ - przypisanie udziałowców do firmy wraz z wartością ud
 		"wybrany_jezyk": "Polish"
 	}
 ````
-__dostepne_jezyki__ - lista obsługiwanych języków przez wykorzystywany generator.
+__dostepne_jezyki__ - lista obsługiwanych języków przez wykorzystywany generator.  
 __wybrany_jezyk__ - wiodący język będący bazą dla generowanych danych, wartość musi znajdować się w kluczach dostępnych języków. Parametr określający język jest przekazywany jako argument podczas tworzenia obiektu generatora z modułu __fake_factory__. W oparciu o język generowane są swojsko brzmiące imiona, nazwiska, miasta, ulice, nazwy firm.. 
 
 ### PROCES GENEROWANIE DANYCH ###
-W celu uruchomienia procesu generowania danych należy odpalić plik __start.py__.
+W celu uruchomienia procesu generowania danych należy odpalić plik __start.py__.  
 Treśc pliku poniżej:
 ````
 # moduly wlasne
